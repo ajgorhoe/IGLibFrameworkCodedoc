@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$dc/d76/classIG_1_1Lib_1_1SettingsReaderBase.html" title="SettingsReaderBase" alt="" coords="53,83,195,112"/>
+<area shape="rect" id="node4" href="$d9/df4/interfaceIG_1_1Lib_1_1ISettingsRreader.html" title="Interface for settings readers, which read pairs key/vvalue from various files or configuration serve..." alt="" coords="5,5,123,35"/>
+<area shape="rect" id="node6" href="$d3/db6/interfaceIG_1_1Lib_1_1ILockable.html" title="Lockable object, has a Lock property that returns object on which lock must be performed in order to ..." alt="" coords="147,5,224,35"/>
+</map>

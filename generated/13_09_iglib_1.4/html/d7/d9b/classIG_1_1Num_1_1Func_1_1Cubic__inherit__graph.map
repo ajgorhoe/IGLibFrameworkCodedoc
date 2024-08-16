@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$d5/d83/classIG_1_1Num_1_1RealFunction.html" title="Represents a real function of a real variabe." alt="" coords="43,160,141,189"/>
+<area shape="rect" id="node4" href="$d6/d30/classIG_1_1Num_1_1RealFunctionBase.html" title="Base class for real functions of real variable." alt="" coords="93,83,221,112"/>
+<area shape="rect" id="node6" href="$db/d0e/interfaceIG_1_1Num_1_1IRealFunction.html" title="Interface for real functions." alt="" coords="5,5,107,35"/>
+<area shape="rect" id="node10" href="$d3/db6/interfaceIG_1_1Lib_1_1ILockable.html" title="Lockable object, has a Lock property that returns object on which lock must be performed in order to ..." alt="" coords="165,160,243,189"/>
+</map>

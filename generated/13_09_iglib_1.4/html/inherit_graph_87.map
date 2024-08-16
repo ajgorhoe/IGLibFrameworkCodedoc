@@ -1,0 +1,4 @@
+<map id="G" name="G">
+<area shape="rect" id="node1" href="$d1/d42/classIG_1_1Lib_1_1MatrixDtoBase.html" title="DTO (data transfer object) for matrix interface (IMatrix)." alt="" coords="5,5,160,35"/>
+<area shape="rect" id="node3" href="$dd/d8e/classIG_1_1Lib_1_1MatrixDto.html" title="Data Transfer Object (DTO) for matrixs of type IG.Num.Matrix. Used to store, transfer, serialize and deserialize objects of type IMatrix." alt="" coords="209,5,332,35"/>
+</map>

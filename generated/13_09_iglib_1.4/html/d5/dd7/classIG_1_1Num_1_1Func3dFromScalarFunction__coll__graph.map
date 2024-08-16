@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$d4/d29/classIG_1_1Num_1_1Func3dBase.html" title="Base class for scalar functions of 3 variables (base for implementation of IFunc3d interface)..." alt="" coords="222,192,316,221"/>
+<area shape="rect" id="node4" href="$d2/d9e/classIG_1_1Num_1_1ScalarFunctionUntransformedBase.html" title="Base class for defining scalar functions without possibility of affine transformation of parameters..." alt="" coords="25,85,246,115"/>
+<area shape="rect" id="node6" href="$d8/d56/interfaceIG_1_1Num_1_1IScalarFunctionUntransformed.html" title="Scalar functions of vector arguments." alt="" coords="141,5,336,35"/>
+<area shape="rect" id="node13" href="$dd/d1e/interfaceIG_1_1Num_1_1IScalarFunction.html" title="Scalar functions of vector arguments, with eventual affine transformation of parameters. If transformation is defined then actual function is evaluated as reference function evaluated at inverse affine transformed parameters." alt="" coords="373,139,541,168"/>
+<area shape="rect" id="node8" href="$d5/d03/interfaceIG_1_1Num_1_1IFunc3d.html" title="Represents scalar functions of 2 variables." alt="" coords="321,85,388,115"/>
+</map>

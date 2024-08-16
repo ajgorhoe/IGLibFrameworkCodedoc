@@ -1,0 +1,9 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$d0/dc6/classIG_1_1Lib_1_1VarTypeBase.html" title="DO NOT USE! The base class implementing the IVarType interface." alt="" coords="105,315,204,344"/>
+<area shape="rect" id="node4" href="$d8/d2d/interfaceIG_1_1Lib_1_1IVarType.html" title="Defines classes that can represent variables of different types. Used e.g. in interpreters and variab..." alt="" coords="119,237,191,267"/>
+<area shape="rect" id="node6" href="$dd/d2c/interfaceIG_1_1Lib_1_1IXmlConvertable.html" title="Defines classes that can be converted to/from Xml elements." alt="" coords="32,160,144,189"/>
+<area shape="rect" id="node8" href="$d6/d87/interfaceIG_1_1Lib_1_1IFromXml.html" title="Defines classes whose instances can be converted to Xml elements. Conversion is different from that u..." alt="" coords="5,83,80,112"/>
+<area shape="rect" id="node10" href="$da/d7e/interfaceIG_1_1Lib_1_1ITypeName.html" title="Classes that provide separate type names. Classes used e.g. in interpreter systems to represent types..." alt="" coords="45,5,131,35"/>
+<area shape="rect" id="node12" href="$d3/dd7/interfaceIG_1_1Lib_1_1IToXml.html" title="Defines classes whose instances can be created from Xml elements. Conversion is different from that u..." alt="" coords="104,83,163,112"/>
+<area shape="rect" id="node15" href="$d2/d80/interfaceIG_1_1Lib_1_1IStringParsable.html" title="Defines classes that can be converted to strings and whose values can be parsed from strings..." alt="" coords="168,160,277,189"/>
+</map>

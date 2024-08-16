@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$d7/d48/classIG_1_1Neural_1_1NeuralApproximatorBase.html" title="Base class for neural network approximators." alt="" coords="41,160,207,189"/>
+<area shape="rect" id="node4" href="$da/d75/interfaceIG_1_1Neural_1_1INeuralApproximator.html" title="Approximator of response by using neural networks. $A Igor Mar11;." alt="" coords="127,83,265,112"/>
+<area shape="rect" id="node6" href="$d3/db6/interfaceIG_1_1Lib_1_1ILockable.html" title="Lockable object, has a Lock property that returns object on which lock must be performed in order to ..." alt="" coords="51,5,128,35"/>
+</map>

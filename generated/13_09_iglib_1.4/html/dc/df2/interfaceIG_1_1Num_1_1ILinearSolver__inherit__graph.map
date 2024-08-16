@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" id="node5" href="$df/de1/classIG_1_1Num_1_1CholeskyDecomposition.html" title="Cholesky decomposition of a matrix. Available for symmetric positive definite matrices. Objects of this class are immutable. Decomposition is calculated at initialization, and the decomposed matrix can not be replaced later." alt="" coords="344,5,563,35"/>
+<area shape="rect" id="node7" href="$dd/d87/classIG_1_1Num_1_1EigenValueDecomposition.html" title="Eigenvalue decomposition of a matrix. Calculates eigenvectors and eigenvalues of a real matrix..." alt="" coords="339,59,568,88"/>
+<area shape="rect" id="node9" href="$db/dc0/classIG_1_1Num_1_1LUDecomposition.html" title="LU decomposition of a matrix. Objects of this class are immutable. Decomposition is calculated at ini..." alt="" coords="364,112,543,141"/>
+<area shape="rect" id="node11" href="$d3/d52/classIG_1_1Num_1_1QRDecomposition.html" title="QR decomposition of a matrix. Objects of this class are immutable. Decomposition is calculated at ini..." alt="" coords="363,165,544,195"/>
+<area shape="rect" id="node13" href="$d5/de5/classIG_1_1Num_1_1SingularValueDecomposition.html" title="Singular value decomposition of a matrix. Calculates eigenvectors and eigenvalues of a real matrix..." alt="" coords="332,219,575,248"/>
+<area shape="rect" id="node2" href="$d3/db6/interfaceIG_1_1Lib_1_1ILockable.html" title="Lockable object, has a Lock property that returns object on which lock must be performed in order to ..." alt="" coords="5,112,83,141"/>
+</map>

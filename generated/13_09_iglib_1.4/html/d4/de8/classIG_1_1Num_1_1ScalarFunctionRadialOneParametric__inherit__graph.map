@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$d4/d52/classIG_1_1Num_1_1ScalarFunctionRadialParametric.html" title="Parametric scalar function." alt="" coords="933,81,1141,111"/>
+<area shape="rect" id="node4" href="$df/dd1/classIG_1_1Num_1_1ScalarFunctionRadial.html" title="Radial scalar functions." alt="" coords="725,56,869,85"/>
+<area shape="rect" id="node6" href="$d2/d85/classIG_1_1Num_1_1ScalarFunctionBase.html" title="Base class for scalar functions with affine transformation of co&#45;ordinates. The reference function is..." alt="" coords="523,5,661,35"/>
+<area shape="rect" id="node8" href="$d2/d9e/classIG_1_1Num_1_1ScalarFunctionUntransformedBase.html" title="Base class for defining scalar functions without possibility of affine transformation of parameters..." alt="" coords="252,19,473,48"/>
+<area shape="rect" id="node10" href="$d8/d56/interfaceIG_1_1Num_1_1IScalarFunctionUntransformed.html" title="Scalar functions of vector arguments." alt="" coords="7,57,201,87"/>
+<area shape="rect" id="node12" href="$dd/d1e/interfaceIG_1_1Num_1_1IScalarFunction.html" title="Scalar functions of vector arguments, with eventual affine transformation of parameters. If transformation is defined then actual function is evaluated as reference function evaluated at inverse affine transformed parameters." alt="" coords="307,96,419,125"/>
+<area shape="rect" id="node17" href="$d4/d4e/interfaceIG_1_1Num_1_1IScalarFunctionParametric.html" title="Parameterized scalar functions with affine transformation of coordinates." alt="" coords="711,160,884,189"/>
+<area shape="rect" id="node22" href="$d1/d49/interfaceIG_1_1Num_1_1IScalarFunctionOneParametric.html" title="IScalarFunctionOneParametric" alt="" coords="939,185,1136,215"/>
+</map>

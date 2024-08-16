@@ -1,0 +1,12 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$d0/d73/classIG_1_1Forms_1_1ReporterForms.html" title="Reporting system that in particular utilizes forms. Beside the main delegates for assembling location..." alt="" coords="1180,168,1353,197"/>
+<area shape="rect" id="node4" href="$d4/de2/classIG_1_1Lib_1_1ReporterBase.html" title="Base IGlib class for reporting, tracing and logging; provides a global reporter and a basis for creat..." alt="" coords="907,65,1008,94"/>
+<area shape="rect" id="node6" href="$db/db1/interfaceIG_1_1Lib_1_1IReporter.html" title="Interface from which majority of reporters inherit. Includes generic reporting functionality plus tra..." alt="" coords="372,73,447,102"/>
+<area shape="rect" id="node19" href="$d4/de2/classIG_1_1Lib_1_1ReporterBase.html" title="Base IGlib class for reporting, tracing and logging; provides a global reporter and a basis for creat..." alt="" coords="520,73,667,102"/>
+<area shape="rect" id="node8" href="$de/d0d/interfaceIG_1_1Lib_1_1IReporterBase.html" title="Interface from which all reporters inherit." alt="" coords="5,157,109,186"/>
+<area shape="rect" id="node10" href="$d2/d8e/interfaceIG_1_1Lib_1_1IReporterTextWriter.html" title="Reporters that utilize writing messages to files. Messages are typically formatted as multi&#45;line mess..." alt="" coords="163,104,296,133"/>
+<area shape="rect" id="node13" href="$d1/ddb/interfaceIG_1_1Lib_1_1IReporterTextLogger.html" title="Reporters that utilize logging messages to files. IReporterTextLogger typically outputs (to a file) m..." alt="" coords="160,157,299,186"/>
+<area shape="rect" id="node16" href="$d0/d0e/interfaceIG_1_1Lib_1_1IReporterTrace.html" title="Reporters that utilize system&#39;s trace utility." alt="" coords="176,210,283,240"/>
+<area shape="rect" id="node36" href="$db/db1/interfaceIG_1_1Lib_1_1IReporter.html" title="Interface from which majority of reporters inherit. Includes generic reporting functionality plus tra..." alt="" coords="349,240,469,269"/>
+<area shape="rect" id="node23" href="$d8/d91/classIG_1_1Forms_1_1ConsoleForm.html" title="Summary description for ConsoleForm." alt="" coords="875,205,1040,234"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node1" href="$d0/d9c/interfaceIG_1_1Lib_1_1ICharacterBufferReadOnly.html" title="Interface for all implementations of read&#45;only character buffer. Classes that implement this interfac..." alt="" coords="7,5,223,35"/>
+<area shape="rect" id="node3" href="$d8/def/classIG_1_1Lib_1_1CharacterBuffer.html" title="CharacterBufferInterface wrapper for StringBilder." alt="" coords="480,5,637,35"/>
+<area shape="rect" id="node5" href="$dc/d03/interfaceIG_1_1Lib_1_1ICharacterBuffer.html" title="Interface for all implementations of read&#45;write character buffer. Classes that implement this interfa..." alt="" coords="272,31,432,60"/>
+</map>

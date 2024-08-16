@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$d6/d87/interfaceIG_1_1Lib_1_1IFromXml.html" title="Defines classes whose instances can be converted to Xml elements. Conversion is different from that u..." alt="" coords="5,83,80,112"/>
+<area shape="rect" id="node4" href="$da/d7e/interfaceIG_1_1Lib_1_1ITypeName.html" title="Classes that provide separate type names. Classes used e.g. in interpreter systems to represent types..." alt="" coords="45,5,131,35"/>
+<area shape="rect" id="node6" href="$d3/dd7/interfaceIG_1_1Lib_1_1IToXml.html" title="Defines classes whose instances can be created from Xml elements. Conversion is different from that u..." alt="" coords="104,83,163,112"/>
+</map>

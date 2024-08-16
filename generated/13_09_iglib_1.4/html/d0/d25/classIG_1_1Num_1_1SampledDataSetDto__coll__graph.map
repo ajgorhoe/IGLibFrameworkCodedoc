@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$da/d46/classIG_1_1Lib_1_1SerializationDto.html" title="Auxiliary base class for DTOs, contains some static methods. Provided for simplicity, such that one does not need to state type parameters." alt="" coords="5,117,232,147"/>
+<area shape="rect" id="node4" href="$d5/d0e/classIG_1_1Num_1_1SampledDataElementDto.html" title="DTO (data transfer object) for sampled data element (one point with vectors of input and output param..." alt="" coords="256,117,480,147"/>
+<area shape="rect" id="node6" href="$da/d46/classIG_1_1Lib_1_1SerializationDto.html" title="Auxiliary base class for DTOs, contains some static methods. Provided for simplicity, such that one does not need to state type parameters." alt="" coords="127,5,380,35"/>
+<area shape="rect" id="node8" href="$dc/dec/classIG_1_1Lib_1_1VectorDtoBase.html" title="DTO (data transfer object) for vector interface (IVector)." alt="" coords="404,5,559,35"/>
+</map>

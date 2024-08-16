@@ -1,0 +1,22 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$d1/d2e/interfaceIG_1_1Lib_1_1ISerializationDto-g.html" title="Generic base class for Data Transfer Objects (DTO). This class is used as template for producing conc..." alt="" coords="292,272,505,301"/>
+<area shape="rect" id="node5" href="$d3/d51/classIG_1_1Lib_1_1SerializationDto-g.html" title="Generic base class for Data Transfer Objects (DTO). This class is used as template for producing conc..." alt="" coords="1025,5,1236,35"/>
+<area shape="rect" id="node7" href="$dd/d11/classIG_1_1Lib_1_1SerializationDtoBase-g.html" title="Generic base class for Data Transfer Objects (DTO). This class is used as template for producing conc..." alt="" coords="555,272,861,301"/>
+<area shape="rect" id="node18" href="$d2/d7a/classIG_1_1Lib_1_1SerializationDtoTypedBase-g_1_1SerializationDtoTyped-g.html" title="IG::Lib::SerializationDtoTypedBase\&lt; Type, BaseType \&gt;::SerializationDtoTyped\&lt; CommonType \&gt;" alt="" coords="1401,417,1980,447"/>
+<area shape="rect" id="node9" href="$d8/d56/classIG_1_1Lib_1_1ArrayDto-g.html" title="Data transfer object for holding arrays of objects of the same type." alt="" coords="969,325,1292,355"/>
+<area shape="rect" id="node11" href="$da/d9a/classIG_1_1Lib_1_1BoundingBoxDtoBase-g.html" title="Base class for various DTO (Data Transfer Objects) for bounding boxes. Used to store a state of a bou..." alt="" coords="996,379,1265,408"/>
+<area shape="rect" id="node13" href="$d0/de4/classIG_1_1Lib_1_1MatrixDtoBase-g.html" title="Base class for various matrix DTO (Data Transfer Objects) for matrixs. Used to store a state of a mat..." alt="" coords="1009,432,1252,461"/>
+<area shape="rect" id="node16" href="$d3/db7/classIG_1_1Lib_1_1SerializationDtoTypedBase-g.html" title="IG::Lib::SerializationDtoTypedBase\&lt; Type, BaseType \&gt;" alt="" coords="960,272,1301,301"/>
+<area shape="rect" id="node20" href="$d0/d7f/classIG_1_1Lib_1_1VectorDtoBase-g.html" title="Base class for various vector DTO (Data Transfer Objects) for vectors. Used to store a state of a vec..." alt="" coords="1008,485,1253,515"/>
+<area shape="rect" id="node22" href="$d4/d57/classIG_1_1Neural_1_1MapNeuralImputOutputElementDefinitionDto-g.html" title="DTO (data transfer object) for neural data element mapping definition." alt="" coords="909,589,1352,619"/>
+<area shape="rect" id="node28" href="$d2/d89/classIG_1_1Neural_1_1NeuralApproximatorDtoBase-g.html" title="A data transfer object (DTO) for neural approximation classes that implement the INeuralApproximator ..." alt="" coords="979,59,1283,88"/>
+<area shape="rect" id="node30" href="$dc/ddd/classIG_1_1Num_1_1AnalysisRequestDto.html" title="DTO (Data Transfer Objects) for storing contents of direct analysis request (in optimization problems..." alt="" coords="1033,112,1228,141"/>
+<area shape="rect" id="node34" href="$d1/db7/classIG_1_1Num_1_1InputOutputElementDefinitionDto-g.html" title="DTO (data transfer object) for data element definition." alt="" coords="948,165,1313,195"/>
+<area shape="rect" id="node40" href="$d6/d7d/classIG_1_1Num_1_1VectorFunctionRequestDTO.html" title="DTO (Data Transfer Objects) for storing contents of vector function evaluation request." alt="" coords="1011,219,1251,248"/>
+<area shape="rect" id="node24" href="$da/d0a/classIG_1_1Neural_1_1MapImputElementDefinitionDto.html" title="DTO (data transfer object) for neural data input element mapping definition." alt="" coords="1557,616,1824,645"/>
+<area shape="rect" id="node26" href="$de/de5/classIG_1_1Neural_1_1MapOutputElementDefinitionDto.html" title="DTO (data transfer object) for neural data output element mapping definition." alt="" coords="1555,563,1827,592"/>
+<area shape="rect" id="node32" href="$d1/d22/classIG_1_1Num_1_1AnalysisResultsDto.html" title="DTO (Data Transfer Objects) for storing contents of direct analysis request (in optimization problems..." alt="" coords="1595,85,1787,115"/>
+<area shape="rect" id="node36" href="$d9/df9/classIG_1_1Num_1_1InputElementDefinitionDto.html" title="DTO (data transfer object) for data input element definition." alt="" coords="1577,192,1804,221"/>
+<area shape="rect" id="node38" href="$dd/d56/classIG_1_1Num_1_1OutputElementDefinitionDto.html" title="DTO (data transfer object) for data output element definition." alt="" coords="1572,139,1809,168"/>
+<area shape="rect" id="node42" href="$d3/d0b/classIG_1_1Num_1_1VectorFunctionResultsDto.html" title="DTO (Data Transfer Objects) for storing contents of vector function results." alt="" coords="1576,245,1805,275"/>
+</map>

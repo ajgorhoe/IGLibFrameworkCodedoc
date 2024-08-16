@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node1" href="$d1/d02/interfaceIG_1_1Lib_1_1ISerializer.html" title="Interface for helper classes that perform serialization/deserialization of objects." alt="" coords="5,32,131,61"/>
+<area shape="rect" id="node3" href="$d0/d1b/classIG_1_1Lib_1_1SerializerBase.html" title="Base class for serialization helper classes." alt="" coords="179,5,331,35"/>
+<area shape="rect" id="node5" href="$d0/d1a/classIG_1_1Lib_1_1SerializerJsonBase.html" title="Helper class for JSON serialization and deserialization. This class does not enable formatting of the..." alt="" coords="379,32,557,61"/>
+<area shape="rect" id="node7" href="$d4/d1f/classIG_1_1Lib_1_1SerializerJson.html" title="Helper class for JSON serialization and deserialization. This class enables formatting of the generat..." alt="" coords="605,32,755,61"/>
+</map>

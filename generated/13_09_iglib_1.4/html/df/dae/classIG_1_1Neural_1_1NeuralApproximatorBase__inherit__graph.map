@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node8" href="$da/d91/classIG_1_1Neural_1_1NeuralApproximatorAforge.html" title="Approximator of response by using neural networks, based on the AforgeDotNet library. $A Igor Mar11;." alt="" coords="5,237,243,267"/>
+<area shape="rect" id="node2" href="$da/d75/interfaceIG_1_1Neural_1_1INeuralApproximator.html" title="Approximator of response by using neural networks. $A Igor Mar11;." alt="" coords="108,83,247,112"/>
+<area shape="rect" id="node4" href="$d3/db6/interfaceIG_1_1Lib_1_1ILockable.html" title="Lockable object, has a Lock property that returns object on which lock must be performed in order to ..." alt="" coords="85,5,163,35"/>
+</map>

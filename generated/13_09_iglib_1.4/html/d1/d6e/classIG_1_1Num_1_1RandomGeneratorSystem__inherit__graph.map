@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node5" href="$d4/d9b/classIG_1_1Num_1_1RandGeneratorThreadSafe.html" title="Generator of uniformly distributed random numbers. Based on the default random generator. Instance members are thread safe!" alt="" coords="5,160,235,189"/>
+<area shape="rect" id="node7" href="$d2/dae/classIG_1_1Num_1_1RandomGenerator.html" title="Default generator of uniformly distributed random numbers. Provides a global generator and a static f..." alt="" coords="259,160,440,189"/>
+<area shape="rect" id="node2" href="$d4/d43/interfaceIG_1_1Num_1_1IRandomGenerator.html" title="Uniform random number generator." alt="" coords="169,5,300,35"/>
+</map>

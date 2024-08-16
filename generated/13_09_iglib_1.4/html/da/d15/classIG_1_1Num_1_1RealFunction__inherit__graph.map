@@ -1,0 +1,25 @@
+<map id="G" name="G">
+<area shape="rect" id="node8" href="$d3/d60/classIG_1_1Gr3d_1_1VtkPlotBase_1_1ExampleFunctionTorusKnot.html" title="Functions for all 3 co&#45;ordinates of parametric curve definition of a p&#45;q torus knot ..." alt="" coords="557,5,877,35"/>
+<area shape="rect" id="node10" href="$dc/d39/classIG_1_1Gr3d_1_1VtkPlotBase_1_1ExampleSineFunctionForLissajous.html" title="Sine function with the specified frequency factor and phase. Used in the ExampleLissajous." alt="" coords="537,59,897,88"/>
+<area shape="rect" id="node12" href="$d1/dad/classIG_1_1Gr_1_1PlotterZedGraph_1_1ExampleSineFunctionForLissajous.html" title="Sine function with the specified frequency factor and phase. Used in the ExampleLissajous." alt="" coords="533,112,901,141"/>
+<area shape="rect" id="node14" href="$db/d84/classIG_1_1Lib_1_1LoadableRealFunctionBase.html" title="A RealFunction class used as base class for dynamically loaded functions. Bunctions loaded from scrip..." alt="" coords="604,165,831,195"/>
+<area shape="rect" id="node18" href="$d2/d7a/classIG_1_1Num_1_1ComposedFunction.html" title="Composition of real functions." alt="" coords="623,219,812,248"/>
+<area shape="rect" id="node20" href="$d6/d88/classIG_1_1Num_1_1Func_1_1Constant.html" title="A RealFunction class representing a constant function." alt="" coords="635,272,800,301"/>
+<area shape="rect" id="node22" href="$dc/dbf/classIG_1_1Num_1_1Func_1_1Cubic.html" title="Cubic function, f(x) = a3*x*x*x + a2*x*x + a1*x + a0. Specific properties: Zero &#45; returns a zero..." alt="" coords="644,325,791,355"/>
+<area shape="rect" id="node24" href="$da/da5/classIG_1_1Num_1_1Func_1_1Exp.html" title="A RealFunction class representing exponential function." alt="" coords="648,379,787,408"/>
+<area shape="rect" id="node26" href="$d4/d1e/classIG_1_1Num_1_1Func_1_1Identity.html" title="A RealFunction class representing identity (or linear) function." alt="" coords="639,432,796,461"/>
+<area shape="rect" id="node28" href="$d8/ddb/classIG_1_1Num_1_1Func_1_1Linear.html" title="Linear function, f(x) = a1*x + a0. Specific properties: Zero &#45; returns a zero. HasZero &#45; either the f..." alt="" coords="643,485,792,515"/>
+<area shape="rect" id="node30" href="$dd/dd0/classIG_1_1Num_1_1Func_1_1PenaltyPower.html" title="Penalty function consisting of sticked together constant zero&#45;valued function and a power function wi..." alt="" coords="620,539,815,568"/>
+<area shape="rect" id="node32" href="$d7/d61/classIG_1_1Num_1_1Func_1_1Quadratic.html" title="Quadratic function, f(x) = a2*x*x + a1*x + a0. Specific properties: Zero &#45; returns a zero..." alt="" coords="632,592,803,621"/>
+<area shape="rect" id="node34" href="$d0/dc0/classIG_1_1Num_1_1Func_1_1ReciprocalPower.html" title="A RealFunction class representing a reciprocal power function." alt="" coords="612,645,823,675"/>
+<area shape="rect" id="node36" href="$d9/d61/classIG_1_1Num_1_1Func_1_1WeightGauss.html" title="A RealFunction class representing bell like polynomial weighting function with finite support..." alt="" coords="620,699,815,728"/>
+<area shape="rect" id="node38" href="$d5/d42/classIG_1_1Num_1_1Func_1_1WeightPol3.html" title="A RealFunction class representing bell like polynomial weighting function with finite support..." alt="" coords="627,752,808,781"/>
+<area shape="rect" id="node40" href="$da/d50/classIG_1_1Num_1_1Func_1_1WeightPol4.html" title="A RealFunction class representing bell like polynomial weighting function with finite support..." alt="" coords="627,805,808,835"/>
+<area shape="rect" id="node42" href="$d1/d27/classIG_1_1Num_1_1Func_1_1WeightPol5.html" title="A RealFunction class representing bell like polynomial weighting function with finite support..." alt="" coords="627,859,808,888"/>
+<area shape="rect" id="node44" href="$df/d14/classIG_1_1Num_1_1Func_1_1WeightPol7.html" title="A RealFunction class representing bell like polynomial weighting function with finite support..." alt="" coords="627,912,808,941"/>
+<area shape="rect" id="node46" href="$d4/d40/classIG_1_1Num_1_1Func_1_1WeightReciprocalPower.html" title="A RealFunction class representing bell like polynomial weighting function with finite support..." alt="" coords="591,965,844,995"/>
+<area shape="rect" id="node48" href="$d6/d03/classIG_1_1Num_1_1FunctionPolynomial.html" title="Polynomial real functions of one variable." alt="" coords="621,1019,813,1048"/>
+<area shape="rect" id="node2" href="$d6/d30/classIG_1_1Num_1_1RealFunctionBase.html" title="Base class for real functions of real variable." alt="" coords="155,537,283,567"/>
+<area shape="rect" id="node4" href="$db/d0e/interfaceIG_1_1Num_1_1IRealFunction.html" title="Interface for real functions." alt="" coords="5,512,107,541"/>
+<area shape="rect" id="node16" href="$d5/d44/classIG_1_1Script_1_1ScritpRealFunctionExample_1_1Container_1_1Function.html" title="IG::Script::ScritpRealFunctionExample::Container::Function" alt="" coords="951,165,1316,195"/>
+</map>

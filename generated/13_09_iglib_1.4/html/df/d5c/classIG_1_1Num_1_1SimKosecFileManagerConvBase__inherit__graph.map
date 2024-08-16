@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="node11" href="$d3/d50/classIG_1_1Num_1_1SimKosecFileManagerConv2.html" title="Interface with simulator of G. Kosec for convection problems in a cave with 2 obstacles." alt="" coords="5,237,248,267"/>
+<area shape="rect" id="node13" href="$d4/d0f/classIG_1_1Num_1_1SimKosecFileManagerConv3.html" title="Interface with simulator of G. Kosec for convection problems in a cave with 3 obstacles." alt="" coords="272,237,515,267"/>
+<area shape="rect" id="node2" href="$d9/dfc/classIG_1_1Num_1_1SimKosecFileManagerBase.html" title="File manager for interfacing (for optimization purposes) the simulation code of Gregor Kosec..." alt="" coords="169,83,351,112"/>
+<area shape="rect" id="node4" href="$d6/d7c/interfaceIG_1_1Num_1_1IResponseEvaluatorVectorSimple.html" title="Interface for simulators and other systems (used e.g. for optimization) that can calculate vector res..." alt="" coords="68,5,281,35"/>
+<area shape="rect" id="node6" href="$d3/db6/interfaceIG_1_1Lib_1_1ILockable.html" title="Lockable object, has a Lock property that returns object on which lock must be performed in order to ..." alt="" coords="327,5,404,35"/>
+</map>

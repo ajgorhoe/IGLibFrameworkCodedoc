@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node1" href="$d0/d9a/interfaceIG_1_1Lib_1_1IColorScale.html" title="Color scale.Mapping from scalar values to colors, defining continuous or discrete color scales..." alt="" coords="7,5,140,35"/>
+<area shape="rect" id="node3" href="$d5/d87/classIG_1_1Lib_1_1ColorScale.html" title="Color scale; linearly mapped values, discrete scaling functionality, value to color mappiong defined ..." alt="" coords="400,5,531,35"/>
+<area shape="rect" id="node5" href="$d1/d6b/classIG_1_1Lib_1_1ColorScaleBase.html" title="Color scale.Provides mapping from scalar values to colors, defining continuous or discrete color scal..." alt="" coords="191,31,351,60"/>
+</map>

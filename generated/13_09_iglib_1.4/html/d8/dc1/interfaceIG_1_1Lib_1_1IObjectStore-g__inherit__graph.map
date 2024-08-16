@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$da/d70/classIG_1_1Lib_1_1ObjectStore-g.html" title="Object store. Objects of the specified type can be stored here for later reuse (efficiency improvemen..." alt="" coords="253,83,421,112"/>
+<area shape="rect" id="node7" href="$d4/d36/classIG_1_1Num_1_1VectorFunctionBaseGeneral_1_1ObjectStoreResults.html" title="IG::Num::VectorFunctionBaseGeneral::ObjectStoreResults" alt="" coords="408,160,771,189"/>
+<area shape="rect" id="node5" href="$de/d98/classIG_1_1Num_1_1MatrixStore-g.html" title="Matrix store. Stores matrix objects for reuse.Can be used for storage fo matrices with specific dimen..." alt="" coords="5,160,181,189"/>
+<area shape="rect" id="node9" href="$d3/da8/classIG_1_1Num_1_1VectorStore-g.html" title="Vector store. Stores Vector objects for reuse.Can be used for storage fo vectors with specific dimens..." alt="" coords="205,160,384,189"/>
+</map>

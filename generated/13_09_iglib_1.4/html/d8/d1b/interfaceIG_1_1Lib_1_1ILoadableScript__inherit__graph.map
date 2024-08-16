@@ -1,0 +1,17 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$d7/d15/classIG_1_1Lib_1_1LoadableScriptBase.html" title="Base class for classes that can be dynamically loadeded from scripts and run, which provides function..." alt="" coords="211,275,395,304"/>
+<area shape="rect" id="node5" href="$d5/d05/classIG_1_1Lib_1_1LoadableScriptOptBase.html" title="Base class for loadable scripts for optimization problems. AGREEMENTS: The first argument to initiali..." alt="" coords="488,168,693,197"/>
+<area shape="rect" id="node11" href="$dc/d6c/classIG_1_1Script_1_1ScritpRealFunctionExample.html" title="Example script for definition of a new real function class." alt="" coords="843,63,1088,92"/>
+<area shape="rect" id="node15" href="$d5/de0/classIG_1_1Script_1_1ScritpScalarFunctionExample.html" title="Example script for definition of a new real function class." alt="" coords="837,379,1093,408"/>
+<area shape="rect" id="node17" href="$d4/d2e/classIG_1_1Script_1_1LoadableScriptExample.html" title="Example cls. for testing function of loadable scripts." alt="" coords="480,61,701,91"/>
+<area shape="rect" id="node19" href="$da/d52/classIG_1_1Script_1_1LoadableScriptSpecialFunctionBase.html" title="Base cls. for various special function loadable scripts." alt="" coords="444,435,737,464"/>
+<area shape="rect" id="node21" href="$db/da4/classIG_1_1Script_1_1ScriptAppBase.html" title="Partial class definition containing tests of CSV utilities. Original class location: ..." alt="" coords="880,536,1051,565"/>
+<area shape="rect" id="node23" href="$d5/d63/classIG_1_1Script_1_1AppBase.html" title="Base cls. for application scripts that can also be used on its own." alt="" coords="1192,587,1331,616"/>
+<area shape="rect" id="node25" href="$d0/dec/classIG_1_1Script_1_1AppExtBase.html" title="Internal script for running embedded applications." alt="" coords="1380,613,1537,643"/>
+<area shape="rect" id="node27" href="$d4/d8c/classIG_1_1Script_1_1ScriptGraphics2dBase.html" title="Base class for script classes with 2D graphics examples." alt="" coords="484,115,697,144"/>
+<area shape="rect" id="node29" href="$d2/d7e/classIG_1_1Script_1_1ScriptGraphics3DBase.html" title="Base class for script classes with graphics examples." alt="" coords="483,328,699,357"/>
+<area shape="rect" id="node31" href="$de/dec/classIG_1_1Script_1_1TestIglibExt__ToDelete.html" title="Base class for script classes with graphics examples." alt="" coords="485,381,696,411"/>
+<area shape="rect" id="node9" href="$d0/d74/classIG_1_1Lib_1_1LoadableScriptRealFunctionBase.html" title="Base class for loadable scripts that define real functions of one variable." alt="" coords="461,221,720,251"/>
+<area shape="rect" id="node13" href="$d7/dba/classIG_1_1Lib_1_1LoadableScriptScalarFunctionBase.html" title="Base class for loadable scripts that define scalar functions of several variables." alt="" coords="456,275,725,304"/>
+<area shape="rect" id="node7" href="$d2/dae/classIG_1_1Lib_1_1LoadableScriptOptTest_1_1LoadableScriptOptDerived.html" title="IG::Lib::LoadableScriptOptTest::LoadableScriptOptDerived" alt="" coords="787,168,1144,197"/>
+</map>

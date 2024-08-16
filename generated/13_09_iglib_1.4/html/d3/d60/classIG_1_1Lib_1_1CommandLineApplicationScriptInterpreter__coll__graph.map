@@ -1,0 +1,15 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$de/dcf/classIG_1_1Lib_1_1CommandLineApplicationInterpreter.html" title="Simple command&#45;line application interpreters, holds a set of commands that can be executed by name..." alt="" coords="1235,292,1461,321"/>
+<area shape="rect" id="node4" href="$de/dfd/interfaceIG_1_1Lib_1_1ICommandLineApplicationInterpreter.html" title="Interface for simple command&#45;line applicatino interpreters." alt="" coords="801,188,1031,217"/>
+<area shape="rect" id="node6" href="$d3/db6/interfaceIG_1_1Lib_1_1ILockable.html" title="Lockable object, has a Lock property that returns object on which lock must be performed in order to ..." alt="" coords="45,251,123,280"/>
+<area shape="rect" id="node10" href="$dd/db3/classIG_1_1Lib_1_1StopWatch.html" title="Timer for measuring execution times and other intervals of time elapsed between successive events..." alt="" coords="379,439,512,468"/>
+<area shape="rect" id="node16" href="$da/d42/classIG_1_1Lib_1_1ExpressionEvaluatorJs.html" title="JavaScript Evaluator with command&#45;line interpreter." alt="" coords="817,552,1015,581"/>
+<area shape="rect" id="node18" href="$dd/dec/classIG_1_1Lib_1_1ExpressionEvaluatorCompiled.html" title="Base class for expression evaluators that utilize the functionality of CodeDomProvider class..." alt="" coords="348,552,543,581"/>
+<area shape="rect" id="node30" href="$d8/dff/interfaceIG_1_1Lib_1_1ILoadableScriptInterpreter.html" title="Interface for interpreters that can install commands from loadable scripts and run them..." alt="" coords="361,251,529,280"/>
+<area shape="rect" id="node33" href="$d3/d40/classIG_1_1Lib_1_1ScriptLoaderBase.html" title="Dynamically compiles and loads classes from files or from strings." alt="" coords="360,72,531,101"/>
+<area shape="rect" id="node13" href="$dc/d79/interfaceIG_1_1Lib_1_1IIdentifiable.html" title="Classes whose instances have unique integer IDs." alt="" coords="41,604,127,633"/>
+<area shape="rect" id="node24" href="$d0/dbc/interfaceIG_1_1Lib_1_1IRegisterable-g.html" title="Objects of this type have a unique ID (unique for all objects of a given type) and can be registered ..." alt="" coords="324,605,567,635"/>
+<area shape="rect" id="node28" href="$d6/d7c/classIG_1_1Lib_1_1LoadableScriptInterpreterBase.html" title="Interpreter that can install commands from dynamically loaded (compiled) scripts and run them..." alt="" coords="795,292,1037,321"/>
+<area shape="rect" id="node36" href="$d7/d66/interfaceIG_1_1Lib_1_1ILoadableScript.html" title="Interface for classes that can be dynamically loadeded from scripts and run, which provides functiona..." alt="" coords="5,5,163,35"/>
+<area shape="rect" id="node38" href="$d7/df0/classIG_1_1Lib_1_1Logger.html" title="Temporary logging of errors, warnings and infos for later processing. It is used to log multiple even..." alt="" coords="31,59,137,88"/>
+</map>

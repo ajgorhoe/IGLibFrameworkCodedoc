@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node9" href="$de/d1a/classIG_1_1Num_1_1PointContainerSampledDataElement.html" title="Container class that contains a single vector point plus all the data that are necessary for searchin..." alt="" coords="5,160,293,189"/>
+<area shape="rect" id="node11" href="$da/d17/classIG_1_1Num_1_1PointContainerVector.html" title="Container class that contains a single vector point plus all the data that are necessary for searchin..." alt="" coords="317,160,517,189"/>
+<area shape="rect" id="node2" href="$dd/d48/interfaceIG_1_1Num_1_1IPointContainer-g.html" title="Basic interface for point container classes." alt="" coords="113,5,297,35"/>
+<area shape="rect" id="node4" href="$d3/db6/interfaceIG_1_1Lib_1_1ILockable.html" title="Lockable object, has a Lock property that returns object on which lock must be performed in order to ..." alt="" coords="321,5,399,35"/>
+</map>

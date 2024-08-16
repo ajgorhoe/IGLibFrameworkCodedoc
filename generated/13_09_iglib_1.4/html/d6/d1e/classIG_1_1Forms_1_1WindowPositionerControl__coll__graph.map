@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="node4" href="$df/d0e/classIG_1_1Forms_1_1WindowPositioner.html" title="Takes care of windows positioning, relative of absolute to the screen and/or other windows..." alt="" coords="548,137,740,167"/>
+<area shape="rect" id="node10" href="$dc/daf/structIG_1_1Num_1_1vec2.html" title="2D vector, struct implementation." alt="" coords="168,240,272,269"/>
+<area shape="rect" id="node15" href="$d8/dfa/classIG_1_1Forms_1_1WindowShiftControlText.html" title="Control for setting window positions, relative positions, sizes, positions, shifts, etc." alt="" coords="531,709,757,739"/>
+<area shape="rect" id="node8" href="$d4/da1/structIG_1_1Lib_1_1Alignment.html" title="Defines alignment (vertical and horizontal) of some object." alt="" coords="157,140,283,169"/>
+<area shape="rect" id="node19" href="$d2/d08/classIG_1_1Forms_1_1AlignmentControl.html" title="Control for setting horizontal and vertical alignment of items." alt="" coords="551,503,737,532"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node8" href="$d2/dbb/classIG_1_1Num_1_1ScalarFunctionRadialUntransformedOneParametric.html" title="One parametric radial scalar function (dependent on one tunning parameter)." alt="" coords="5,237,376,267"/>
+<area shape="rect" id="node2" href="$d2/d9e/classIG_1_1Num_1_1ScalarFunctionUntransformedBase.html" title="Base class for defining scalar functions without possibility of affine transformation of parameters..." alt="" coords="155,83,376,112"/>
+<area shape="rect" id="node4" href="$d8/d56/interfaceIG_1_1Num_1_1IScalarFunctionUntransformed.html" title="Scalar functions of vector arguments." alt="" coords="93,5,288,35"/>
+</map>

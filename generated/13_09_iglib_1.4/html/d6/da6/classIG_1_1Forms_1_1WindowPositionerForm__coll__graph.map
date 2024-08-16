@@ -1,0 +1,9 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$d3/d68/interfaceIG_1_1Forms_1_1IClosableFromContainedForm.html" title="Marker interface indicating that a form can be closed from the contained control." alt="" coords="928,541,1187,571"/>
+<area shape="rect" id="node6" href="$d0/de6/classIG_1_1Forms_1_1WindowPositionerControl.html" title="Control for testing window positioning." alt="" coords="941,595,1173,624"/>
+<area shape="rect" id="node10" href="$df/d0e/classIG_1_1Forms_1_1WindowPositioner.html" title="Takes care of windows positioning, relative of absolute to the screen and/or other windows..." alt="" coords="548,133,740,163"/>
+<area shape="rect" id="node20" href="$d8/dfa/classIG_1_1Forms_1_1WindowShiftControlText.html" title="Control for setting window positions, relative positions, sizes, positions, shifts, etc." alt="" coords="531,641,757,671"/>
+<area shape="rect" id="node24" href="$d2/d08/classIG_1_1Forms_1_1AlignmentControl.html" title="Control for setting horizontal and vertical alignment of items." alt="" coords="551,555,737,584"/>
+<area shape="rect" id="node16" href="$dc/daf/structIG_1_1Num_1_1vec2.html" title="2D vector, struct implementation." alt="" coords="168,139,272,168"/>
+<area shape="rect" id="node14" href="$d4/da1/structIG_1_1Lib_1_1Alignment.html" title="Defines alignment (vertical and horizontal) of some object." alt="" coords="157,39,283,68"/>
+</map>

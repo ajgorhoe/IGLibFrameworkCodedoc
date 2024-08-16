@@ -1,0 +1,9 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$d3/de3/classIG_1_1Forms_1_1AlignmentTestForm.html" title="Test form, used only to test if control can be inclded in the form.." alt="" coords="360,5,560,35"/>
+<area shape="rect" id="node5" href="$db/db9/classIG_1_1Forms_1_1TestForm.html" title="Test form." alt="" coords="389,59,531,88"/>
+<area shape="rect" id="node7" href="$d8/def/classIG_1_1Forms_1_1WindowPositionerForm.html" title="Windows form for testing window positioning./summary&gt; $A Igor xx Oct09;." alt="" coords="349,112,571,141"/>
+<area shape="rect" id="node9" href="$d9/d71/classIG_1_1Gr3d_1_1Graph3dManipulatorWindow.html" title="A form for manipulation of 3D graphics." alt="" coords="340,165,580,195"/>
+<area shape="rect" id="node11" href="$d4/d92/classIG_1_1Gr3d_1_1Graph3dManipulatorWindowExtended.html" title="A form for manipulating 3D graphics." alt="" coords="312,219,608,248"/>
+<area shape="rect" id="node13" href="$d3/d52/classIG_1_1Gr3d_1_1VtkForm.html" title="Windows form for presenting VTK graphics. Contains some additional buttons beside just the VTK render..." alt="" coords="396,272,524,301"/>
+<area shape="rect" id="node15" href="$dc/dfa/classIG_1_1Gr3d_1_1VtkFormPlain.html" title="Windows form for presenting VTK graphics. Contains some additional buttons beside just the VTK render..." alt="" coords="381,325,539,355"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$d9/dfc/classIG_1_1Num_1_1SimKosecFileManagerBase.html" title="File manager for interfacing (for optimization purposes) the simulation code of Gregor Kosec..." alt="" coords="327,69,564,99"/>
+<area shape="rect" id="node5" href="$df/dee/classIG_1_1Num_1_1SimKosecFileManagerConvBase.html" title="Base class for interface with simulator of G. Kosec for convection problems in a cave with obstacles..." alt="" coords="613,69,880,99"/>
+<area shape="rect" id="node7" href="$d3/d50/classIG_1_1Num_1_1SimKosecFileManagerConv2.html" title="Interface with simulator of G. Kosec for convection problems in a cave with 2 obstacles." alt="" coords="929,5,1172,35"/>
+<area shape="rect" id="node9" href="$d4/d0f/classIG_1_1Num_1_1SimKosecFileManagerConv3.html" title="Interface with simulator of G. Kosec for convection problems in a cave with 3 obstacles." alt="" coords="929,96,1172,125"/>
+</map>
