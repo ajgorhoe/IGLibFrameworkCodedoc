@@ -1,0 +1,1122 @@
+<!DOCTYPE doctype PUBLIC "-//w3c//dtd html 4.0 transitional//en">
+<html>
+  <head>
+    <title>Documentation Archive - IGLib.NET (Investigative Generic
+      Library) and other software</title>
+    <meta name="author" content="Igor Gresovnik">
+    <meta name="keywords" content="optimization, optimization library,
+      optimization algorithm, successive approximation, moving least
+      squares, inverse problems, weighted least squares, approximation,
+      Igor Gresovnik, Igor Grešovnik">
+    <meta name="description" content="IGLib.NET (Investigative Generic
+      Library) is a base library for technical applications, developed
+      in C#.">
+    <meta name="Classification" content="software/numerical">
+    <meta name="GENERATOR" content="Netscape 7 Composer">
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <link rev="made"
+href="http://www.google.com/search?hl=en&amp;q=Igor+Gre%C5%A1ovnik&amp;btnG=Google+Search&amp;meta=">
+    <link rel="SHORTCUT ICON" href="ig.ico">
+	
+	
+	<!-- Google Analitics - account IGLib 
+	property Code Documentation fgreso -->
+	<script>
+	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+	  ga('create', 'UA-76143121-4', 'auto');
+	  ga('send', 'pageview');
+
+	</script>	
+
+	
+  </head>
+  <body style="color: rgb(0, 0, 0); background-color: rgb(255, 255,
+    255);" link="#0000ee" vlink="#006600" alink="#fe0000">
+    <div align="right"><small>&nbsp; </small>
+      <table width="100%" border="0" cellpadding="2" cellspacing="2">
+        <tbody>
+          <tr>
+            <td valign="top"><small><small>&nbsp;&nbsp; &nbsp; &nbsp;</small><small><big><big>
+                      <small><a href="./"><big>./ <small>(directory)</small></big></a></small></big></big>
+                  &nbsp;<small><a href="../index.html"><span
+                        style="font-weight: bold;"></span></a>
+                    &nbsp;&nbsp;</small></small></small>&nbsp;&nbsp; <small><a
+                  href="#search" style="font-weight: bold;">Search</a></small>
+              &nbsp;<small><small><small> &nbsp; </small></small></small></td>
+            <td valign="top" align="right"><small>&nbsp;&nbsp;&nbsp;
+                &nbsp; <a href="http://www2.arnes.si/%7Eljc3m2/igor/">Igor
+
+
+                  Grešovnik</a> &nbsp;&nbsp; <a
+                  href="http://www2.arnes.si/%7Eljc3m2/igor/iglib/index.html"><i>IGLib</i><i></i></a>
+                &nbsp; &nbsp;&nbsp; </small></td>
+          </tr>
+        </tbody>
+      </table>
+      <font size="-1"><a href="http://www.c3m.si/igor"> </a></font></div>
+    <center>
+      <div style="text-align: left;">
+        <div style="text-align: right;">&nbsp;&nbsp;<span
+            style="font-style: italic;"> </span><font color="#000000"><span
+              style="font-style: italic;"><br>
+            </span></font></div>
+      </div>
+    </center>
+    <table nosave="" style="width: 100%;" cols="2" cellpadding="0"
+      cellspacing="5">
+      <tbody>
+        <tr nosave="" valign="top">
+          <td nosave="" style="vertical-align: middle; text-align: left;
+            width: 90%;"> <span style="font-weight: bold;"></span><br>
+            <h1 style="text-align: center;"><big><b><i><font><font><b><i><font><font><big><big><b><i><font><font><b><i><font
+                                                  color="#cc0000"><font
+                                                    size="+2"><big>
+                                                      IGLib.NET Code
+                                                      Documentation
+                                                      Archive <br>
+                                                    </big></font></font></i></b></font></font></i></b></big></big></font></font></i></b></font></font></i></b></big></h1>
+            <p style="text-align: left;"><b><span style="font-style:
+                  italic;">&nbsp; </span></b><b>This page contains
+                archives of code documentation related to <a
+                  href="http://www2.arnes.si/%7Eljc3m2/igor/iglib/"><span
+                    style="font-style: italic;">IGLib.NET</span></a></b><b>
+                (Investigative Generic Library)</b><b> and other
+                software.<br>
+              </b></p>
+            <font color="#000000"> </font><span style="font-weight:
+              bold;"></span><br>
+            <font color="#000000"> </font> </td>
+          <td style="text-align: right;" nosave="">&nbsp;&nbsp; <br>
+            <b> &nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; </b></td>
+        </tr>
+      </tbody>
+    </table>
+    <p><b><br>
+      </b><b></b></p>
+    <p> </p>
+    <hr width="100%">
+    <center>
+      <table nosave="" cols="2" width="100%">
+        <tbody>
+          <tr nosave="" valign="top">
+            <td nosave=""> <span style="font-weight: bold;">Contents:<br>
+              </span>
+              <ul>
+                <li><a href="#iglib"><span style="text-decoration:
+                      underline;">IGLib Archives</span></a> &nbsp; <br>
+                </li>
+                <ul>
+                  <li><a href="#iglib1.7.2">IGLib 1.7.2 Code
+                      Documentation</a>&nbsp; <br>
+                  </li>
+                  <li><a href="#iglib1.7.2all">IGLib 1.7.2 Code
+                      Documentation (wider code)</a>&nbsp; <br>
+                  </li>
+                  <li><a href="#iglib1.6">IGLib 1.6 Code Documentation</a>&nbsp;&nbsp;
+
+
+
+
+
+
+
+
+                    <br>
+                  </li>
+                  <li><a href="#iglib1.5all">IGLib 1.5 Code
+                      Documentation (wider code)</a>&nbsp; </li>
+                  <li><a href="archive.html#iglib1.5">IGLib 1.5 Code
+                      Documentation</a>&nbsp; </li>
+                  <li><a href="#iglib1.4">IGLib 1.4 Code Documentation</a>&nbsp;
+
+
+
+
+
+
+
+
+                  </li>
+                  <li><a href="#iglib_zipped">IGLib Zipped
+                      Documentation&nbsp; <br>
+                    </a></li>
+                </ul>
+                <li><a href="#neurapp">Neurapp Documentation Archives</a>&nbsp;
+
+
+
+
+
+
+
+
+                  <br>
+                </li>
+                <li><a href="#markopetek">Marko Petek's Numerical Code</a>&nbsp;
+
+
+
+
+
+
+
+
+                  <br>
+                </li>
+                <li><a href="#quick">Quick IGLib Documentation List</a>&nbsp;&nbsp;</li>
+                <li><a href="#downloads_all">Complete list of downloads</a>&nbsp;
+
+
+
+
+
+
+
+                  <br>
+                </li>
+              </ul>
+              <br>
+              <font color="#000000"><span style="font-weight: bold;"></span></font></td>
+            <td nosave="" align="right">&nbsp;&nbsp;&nbsp; <br>
+              &nbsp;&nbsp; <a href="#search" style="font-weight: bold;">Search</a>
+              &nbsp; <br>
+              &nbsp;&nbsp;&nbsp;&nbsp; <b><br>
+                &nbsp; &nbsp; &nbsp; <br>
+              </b></td>
+          </tr>
+        </tbody>
+      </table>
+      <br>
+    </center>
+    <hr width="100%">&nbsp;&nbsp; <br>
+    <br>
+    <br>
+    <center>
+      <h1> <a name="iglib"></a><b><i><font color="#cc0000"><font
+                size="+2">IGLib Archives<br>
+              </font></font></i></b></h1>
+    </center>
+    <br>
+    <br>
+    <br>
+    <h2 style="text-align: center;"><small><a name="iglib1.7.2"></a><span
+          style="color: rgb(204, 0, 0);">IGLib 1.7.2 Code Documentation<br>
+        </span></small></h2>
+    <br>
+    &nbsp; <big><b><a href="16_04_iglib_1.7.2/index.html">Main
+          Documentation page</a></b></big>, with links to classes,
+    functions, and other information. <br>
+    <br>
+    &nbsp; <a href="16_04_iglib_1.7.2/html/index.html"><span
+        style="font-weight: bold;">IGLib Code Documentation</span></a>.
+    Code documentation for the library, automatically generated from
+    documentation comments by <a
+      href="http://www.stack.nl/%7Edimitri/doxygen/">Doxygen</a>, a
+    remarkable documentation generation tool.<br>
+    <ul>
+      <li><a href="16_04_iglib_1.7.2/html/annotated.html">Class list</a>.&nbsp;
+
+
+
+
+
+
+
+
+        <br>
+      </li>
+      <li><a href="16_04_iglib_1.7.2/html/hierarchy.html">Class
+          Hierarchy</a>. <br>
+      </li>
+      <li><a href="16_04_iglib_1.7.2/html/namespaces.html">Namespace
+          list</a>.</li>
+      <li><a href="16_04_iglib_1.7.2/html/files.html">File list</a>. <br>
+      </li>
+    </ul>
+    <br>
+    &nbsp; <a href="16_04_iglib_1.7.2/ReadMe_IGLib.html">Readme File</a>.
+    Contains some basic information about the library.<br>
+    <br>
+    &nbsp; <a
+      href="16_04_iglib_1.7.2/License_IGLib_Redistributable.html">Redistributable
+
+
+
+
+
+
+      License Agreement</a>. Contains redistributable license agreement
+    for the IGLib binaries that come with some applications such as <i><a
+href="http://www2.arnes.si/%7Eljc3m2/igor/software/IGLibShellApp/">IGShell</a></i>.
+    <br>
+    <br>
+    &nbsp; <a href="16_04_iglib_1.7.2/License_IGLib_Partner.html">Partner
+
+      License Agreement</a>. Example license agreement for partner
+    groups that use the library. <br>
+    <br>
+    &nbsp; <a style="font-weight: bold;"
+      href="http://www2.arnes.si/%7Eljc3m2/igor/iglib/">More
+      information.</a> You will find additional information on the
+    library's home page. <br>
+    <br>
+    <br>
+    <br>
+    <h2 style="text-align: center;"><small><a name="iglib1.7.2all"></a><span
+          style="color: rgb(204, 0, 0);">IGLib 1.7.2 Code Documentation
+          (wider code)<br>
+        </span></small></h2>
+    <br>
+    &nbsp; <big><b><a href="16_04_igliball_1.7.2/index.html">Main
+          Documentation page</a></b></big>, with links to classes,
+    functions, and other information. <br>
+    <br>
+    &nbsp; <a href="16_04_igliball_1.7.2/html/index.html"><span
+        style="font-weight: bold;">IGLib Code Documentation</span></a>.
+    Code documentation for the library, automatically generated from
+    documentation comments by <a
+      href="http://www.stack.nl/%7Edimitri/doxygen/">Doxygen</a>, a
+    remarkable documentation generation tool.<br>
+    <ul>
+      <li><a href="16_04_igliball_1.7.2/html/annotated.html">Class list</a>.&nbsp;
+
+
+
+
+
+
+
+
+        <br>
+      </li>
+      <li><a href="16_04_igliball_1.7.2/html/hierarchy.html">Class
+          Hierarchy</a>. <br>
+      </li>
+      <li><a href="16_04_igliball_1.7.2/html/namespaces.html">Namespace
+          list</a>.</li>
+      <li><a href="16_04_igliball_1.7.2/html/files.html">File list</a>.
+        <br>
+      </li>
+    </ul>
+    <br>
+    &nbsp; <a href="16_04_igliball_1.7.2/ReadMe_IGLib.html">Readme File</a>.
+    Contains some basic information about the library.<br>
+    <br>
+    &nbsp; <a
+      href="16_04_igliball_1.7.2/License_IGLib_Redistributable.html">Redistributable
+
+
+
+
+
+
+      License Agreement</a>. Contains redistributable license agreement
+    for the IGLib binaries that come with some applications such as <i><a
+href="http://www2.arnes.si/%7Eljc3m2/igor/software/IGLibShellApp/">IGShell</a></i>.
+    <br>
+    <br>
+    &nbsp; <a href="16_04_igliball_1.7.2/License_IGLib_Partner.html">Partner
+
+      License Agreement</a>. Example license agreement for partner
+    groups that use the library. <br>
+    <br>
+    &nbsp; <a style="font-weight: bold;"
+      href="http://www2.arnes.si/%7Eljc3m2/igor/iglib/">More
+      information.</a> You will find additional information on the
+    library's home page. <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <h2 style="text-align: center;"><small><a name="iglib1.6"></a><span
+          style="color: rgb(204, 0, 0);">IGLib 1.6 Code Documentation<br>
+        </span></small></h2>
+    <br>
+    &nbsp; <big><b><a href="15_06_iglib_1.6/index.html">Main
+          Documentation page</a></b></big>, with links to classes,
+    functions, and other information. <br>
+    <br>
+    &nbsp; <a href="15_06_iglib_1.6/html/index.html"><span
+        style="font-weight: bold;">IGLib Code Documentation</span></a>.
+    Code documentation for the library, automatically generated from
+    documentation comments by <a
+      href="http://www.stack.nl/%7Edimitri/doxygen/">Doxygen</a>, a
+    remarkable documentation generation tool.<br>
+    <ul>
+      <li><a href="15_06_iglib_1.6/html/annotated.html">Class list</a>.&nbsp;
+
+
+
+
+
+
+
+
+        <br>
+      </li>
+      <li><a href="15_06_iglib_1.6/html/hierarchy.html">Class Hierarchy</a>.
+        <br>
+      </li>
+      <li><a href="15_06_iglib_1.6/html/namespaces.html">Namespace list</a>.</li>
+      <li><a href="15_06_iglib_1.6/html/files.html">File list</a>. <br>
+      </li>
+    </ul>
+    <br>
+    &nbsp; <a href="15_06_iglib_1.6/ReadMe_IGLib.html">Readme File</a>.
+    Contains some basic information about the library.<br>
+    <br>
+    &nbsp; <a href="15_06_iglib_1.6/License_IGLib_Redistributable.html">Redistributable
+
+
+
+
+
+
+      License Agreement</a>. Contains redistributable license agreement
+    for the IGLib binaries that come with some applications such as <i><a
+href="http://www2.arnes.si/%7Eljc3m2/igor/software/IGLibShellApp/">IGShell</a></i>.
+    <br>
+    <br>
+    &nbsp; <a href="15_06_iglib_1.6/License_IGLib_Partner.html">Partner
+      License Agreement</a>. Example license agreement for partner
+    groups that use the library. <br>
+    <br>
+    &nbsp; <a style="font-weight: bold;"
+      href="http://www2.arnes.si/%7Eljc3m2/igor/iglib/">More
+      information.</a> You will find additional information on the
+    library's home page. <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <h2 style="text-align: center;"><small><a name="iglib1.5all"></a><span
+          style="color: rgb(204, 0, 0);">IGLib 1.5 Code Documentation
+          (wider code) <br>
+        </span></small></h2>
+    <br>
+    &nbsp; <big><b><a href="15_05_igliball_1.5/index.html">Main
+          Documentation page</a></b></big>, with links to classes,
+    functions, and other information. <br>
+    <br>
+    &nbsp; <a href="15_05_igliball_1.5/html/index.html"><span
+        style="font-weight: bold;">IGLib Code Documentation</span></a>.
+    Code documentation for the library, automatically generated from
+    documentation comments by <a
+      href="http://www.stack.nl/%7Edimitri/doxygen/">Doxygen</a>, a
+    remarkable documentation generation tool.<br>
+    <ul>
+      <li><a href="15_05_igliball_1.5/html/annotated.html">Class list</a>.&nbsp;
+
+
+
+
+
+
+
+
+        <br>
+      </li>
+      <li><a href="15_05_igliball_1.5/html/hierarchy.html">Class
+          Hierarchy</a>. <br>
+      </li>
+      <li><a href="15_05_igliball_1.5/html/namespaces.html">Namespace
+          list</a>.</li>
+      <li><a href="15_05_igliball_1.5/html/files.html">File list</a>. <br>
+      </li>
+    </ul>
+    <br>
+    &nbsp; <a href="15_05_igliball_1.5/ReadMe_IGLib.html">Readme File</a>.
+    Contains some basic information about the library.<br>
+    <br>
+    &nbsp; <a
+      href="15_05_igliball_1.5/License_IGLib_Redistributable.html">Redistributable
+
+
+
+
+
+
+      License Agreement</a>. Contains redistributable license agreement
+    for the IGLib binaries that come with some applications such as <i><a
+href="http://www2.arnes.si/%7Eljc3m2/igor/software/IGLibShellApp/">IGShell</a></i>.
+    <br>
+    <br>
+    &nbsp; <a href="15_05_igliball_1.5/License_IGLib_Partner.html">Partner
+
+
+
+
+
+
+      License Agreement</a>. Example license agreement for partner
+    groups that use the library. <br>
+    <br>
+    &nbsp; <a style="font-weight: bold;"
+      href="http://www2.arnes.si/%7Eljc3m2/igor/iglib/">More
+      information.</a> You will find additional information on the
+    library's home page. <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <h2 style="text-align: center;"><small><a name="iglib1.5"></a><span
+          style="color: rgb(204, 0, 0);">IGLib 1.5 Code Documentation<br>
+        </span></small></h2>
+    <br>
+    &nbsp; <big><b><a href="15_03_iglib_1.5/index.html">Main
+          Documentation page</a></b></big>, with links to classes,
+    functions, and other information. <br>
+    <br>
+    &nbsp; <a href="15_03_iglib_1.5/html/index.html"><span
+        style="font-weight: bold;">IGLib Code Documentation</span></a>.
+    Code documentation for the library, automatically generated from
+    documentation comments by <a
+      href="http://www.stack.nl/%7Edimitri/doxygen/">Doxygen</a>, a
+    remarkable documentation generation tool.<br>
+    <ul>
+      <li><a href="15_03_iglib_1.5/html/annotated.html">Class list</a>.&nbsp;
+
+
+
+
+
+
+
+
+        <br>
+      </li>
+      <li><a href="15_03_iglib_1.5/html/hierarchy.html">Class Hierarchy</a>.
+        <br>
+      </li>
+      <li><a href="15_03_iglib_1.5/html/namespaces.html">Namespace list</a>.</li>
+      <li><a href="15_03_iglib_1.5/html/files.html">File list</a>. <br>
+      </li>
+    </ul>
+    <br>
+    &nbsp; <a href="15_03_iglib_1.5/ReadMe_IGLib.html">Readme File</a>.
+    Contains some basic information about the library.<br>
+    <br>
+    &nbsp; <a href="15_03_iglib_1.5/License_IGLib_Redistributable.html">Redistributable
+
+
+
+
+
+
+      License Agreement</a>. Contains redistributable license agreement
+    for the IGLib binaries that come with some applications such as <i><a
+href="http://www2.arnes.si/%7Eljc3m2/igor/software/IGLibShellApp/">IGShell</a></i>.
+    <br>
+    <br>
+    &nbsp; <a href="15_03_iglib_1.5/License_IGLib_Partner.html">Partner
+      License Agreement</a>. Example license agreement for partner
+    groups that use the library. <br>
+    <br>
+    &nbsp; <a style="font-weight: bold;"
+      href="http://www2.arnes.si/%7Eljc3m2/igor/iglib/">More
+      information.</a> You will find additional information on the
+    library's home page. <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <h2 style="text-align: center;"><small><a name="iglib1.4"></a><span
+          style="color: rgb(204, 0, 0);">IGLib 1.4 Code Documentation<br>
+        </span></small></h2>
+    <br>
+    &nbsp; <big><b><a href="13_09_iglib_1.4/index.html">Main
+          Documentation page</a></b></big>, with links to classes,
+    functions, and other information. <br>
+    <br>
+    &nbsp; <a href="13_09_iglib_1.4/html/index.html"><span
+        style="font-weight: bold;">IGLib Code Documentation</span></a>.
+    Code documentation for the library, automatically generated from
+    documentation comments by <a
+      href="http://www.stack.nl/%7Edimitri/doxygen/">Doxygen</a>, a
+    remarkable documentation generation tool.<br>
+    <ul>
+      <li><a href="13_09_iglib_1.4/html/annotated.html">Class list</a>.&nbsp;
+
+
+
+
+
+        <br>
+      </li>
+      <li><a href="13_09_iglib_1.4/html/hierarchy.html">Class Hierarchy</a>.
+        <br>
+      </li>
+      <li><a href="13_09_iglib_1.4/html/namespaces.html">Namespace list</a>.</li>
+      <li><a href="13_09_iglib_1.4/html/files.html">File list</a>. <br>
+      </li>
+    </ul>
+    <br>
+    &nbsp; <a href="13_09_iglib_1.4/ReadMe_IGLib.html">Readme File</a>.
+    Contains some basic information about the library.<br>
+    <br>
+    &nbsp; <a href="13_09_iglib_1.4/License_IGLib_Redistributable.html">Redistributable
+
+
+
+
+
+
+      License Agreement</a>. Contains redistributable license agreement
+    for the IGLib binaries that come with some applications such as <i><a
+href="http://www2.arnes.si/%7Eljc3m2/igor/software/IGLibShellApp/">IGShell</a></i>.
+    <br>
+    <br>
+    &nbsp; <a href="13_09_iglib_1.4/License_IGLib_Partner.html">Partner
+      License Agreement</a>. Example license agreement for partner
+    groups that use the library. <br>
+    <br>
+    &nbsp; <a style="font-weight: bold;"
+      href="http://www2.arnes.si/%7Eljc3m2/igor/iglib/">More
+      information.</a> You will find additional information on the
+    library's home page. <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <h2 style="text-align: center;"><small><a name="iglib_zipped"></a><span
+          style="color: rgb(204, 0, 0);">IGLib - Zipped Documentation
+          Directories<br>
+        </span></small></h2>
+    <br>
+    <br>
+    <b>IGLib 1.7</b>, April 2016: <a href="16_04_iglib_1.7.2.zip">16_04_iglib_1.7.2.zip</a><a
+href="file:///D:/users/igor/www/www/fgreso/archive/software/codedoc/generated/15_06_iglib_1.6.zip"></a>&nbsp;
+
+
+
+
+
+
+
+
+    <br>
+    <br>
+    <b>IGLib 1.7 (with additional projects)</b>, April 2016: <a
+      href="16_04_igliball_1.7.2.zip">16_04_igliball_1.7.2.zip</a>&nbsp;
+    <br>
+    <br>
+    <b>IGLib 1.6</b>, June 2015: <a href="15_06_iglib_1.6.zip">15_06_iglib_1.6.zip</a>&nbsp;
+
+
+
+
+
+
+
+
+    <br>
+    <br>
+    <b>IGLib 1.5 (with additional projects)</b>, May 2015: <a
+      href="15_05_igliball_1.5.zip">15_05_igliball_1.5.zip</a>&nbsp; <br>
+    <br>
+    <b>IGLib 1.5</b>, March 2015: <a href="15_03_iglib_1.5.zip">15_03_iglib_1.5.zip</a>&nbsp;
+
+
+
+
+
+
+
+
+    <br>
+    <br>
+    <b>IGLib 1.4</b>, September 2013: <a href="13_09_iglib_1.4.zip">13_09_iglib_1.4.zip</a>&nbsp;
+
+
+
+
+
+
+
+
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <center>
+      <h1> <a name="neurapp"></a><b><i><font color="#cc0000"><font
+                size="+2">NeurApp Archives<br>
+              </font></font></i></b></h1>
+    </center>
+    <br>
+    <h2 style="text-align: center;"><small><a name="neurapp1.1"></a><span
+          style="color: rgb(204, 0, 0);">Neurapp 1.1 - Code
+          Documentaton,&nbsp; September 2013 <br>
+        </span></small></h2>
+    <br>
+    &nbsp; <a href="13_09_NeurApp_1.1/html/index.html"><span
+        style="font-weight: bold;">Neurapp Code Documentation</span></a>.
+    Code documentation for the library, automatically generated from
+    documentation comments by <a
+      href="http://www.stack.nl/%7Edimitri/doxygen/">Doxygen</a>.<br>
+    <ul>
+      <li><a href="13_09_NeurApp_1.1/html/annotated.html">Class list</a>.&nbsp;
+
+
+
+
+
+
+
+
+        <br>
+      </li>
+      <li><a href="13_09_NeurApp_1.1/html/hierarchy.html">Class
+          Hierarchy</a>. <br>
+      </li>
+      <li><a href="13_09_NeurApp_1.1/html/namespaces.html">Namespace
+          list</a>.</li>
+      <li><a href="13_09_NeurApp_1.1/html/files.html">File list</a>. <br>
+      </li>
+    </ul>
+    <br>
+    <big><a href="13_09_NeurApp_1.1/index.html">Main Documentation page</a></big>,
+    with links to classes, functions, and other information. <br>
+    <br>
+    <a href="13_09_NeurApp_1.1/License_IGLib_Redistributable.html">Redistributable
+
+
+
+
+
+
+      License Agreement</a>. Contains redistributable license agreement
+    for the IGLib binaries that come with some applications such. <br>
+    <br>
+    &nbsp; See also the <i><a href="archive.html#iglib">IGLib
+        documentation</a></i>. <br>
+    <br>
+    <br>
+    <h2 style="text-align: center;"><small><a name="neurapp_zipped"></a><span
+          style="color: rgb(204, 0, 0);">Neurapp - Zipped Documentation
+          Directories<br>
+        </span></small></h2>
+    <b>Neurapp 1.1</b>, September 2013: <a href="13_09_NeurApp_1.1.zip">13_09_NeurApp_1.1.zip</a>&nbsp;
+
+
+
+
+
+
+
+
+    <br>
+    <br>
+    <br>
+    <center>
+      <h1> <a name="markopetek"></a><b><i><font color="#cc0000"><font
+                size="+2">Marko Petek's Archives<br>
+              </font></font></i></b></h1>
+    </center>
+    <br>
+    <h2 style="text-align: center;"><small><a name="markopetek_zipped"></a><span
+          style="color: rgb(204, 0, 0);">Marko Petek - Code
+          Documentaton,&nbsp; September 2013 <br>
+        </span></small></h2>
+    <a href="13_09_guest_marko_petek_1.0/html/annotated.html">Class list</a>.&nbsp;
+
+
+
+
+
+
+    <br>
+    <ul>
+      <li><a href="13_09_guest_marko_petek_1.0/html/hierarchy.html">Class
+
+
+
+
+
+
+
+
+          Hierarchy</a>. <br>
+      </li>
+      <li><a href="13_09_guest_marko_petek_1.0/html/namespaces.html">Namespace
+
+
+
+
+
+
+
+
+          list</a>.</li>
+      <li><a href="13_09_guest_marko_petek_1.0/html/files.html">File
+          list</a>. <br>
+      </li>
+    </ul>
+    <br>
+    <a
+      href="13_09_guest_marko_petek_1.0/License_IGLib_Redistributable.html">Redistributable
+
+
+
+
+
+
+      License Agreement</a>. Contains redistributable license agreement
+    for the IGLib binaries that come with some applications such. <br>
+    <br>
+    <a href="13_09_guest_marko_petek_1.0/html/index.html">Marko Petek's
+      Code Documentation</a>. Code documentation for the library,
+    automatically generated from documentation comments by <a
+      href="http://www.stack.nl/%7Edimitri/doxygen/">Doxygen</a>.<br>
+    <br>
+    &nbsp; See also the <i><a href="#iglib">IGLib documentation</a></i>.
+    <br>
+    <br>
+    <br>
+    <h2 style="text-align: center;"><small><a name="markopetek_zipped"></a><span
+          style="color: rgb(204, 0, 0);">Marko Petek - Zipped
+          Documentation Directories<br>
+        </span></small></h2>
+    <br>
+    Marko Petek's code documentation, September 2013: <a
+      href="13_09_guest_marko_petek_1.0.zip">13_09_guest_marko_petek_1.0.zip</a>
+    <br>
+    <br>
+    <center>
+      <h1> <a name="quick"></a><b><i><font color="#cc0000"><font
+                size="+2">Qick IGLib Documentation List<br>
+              </font></font></i></b></h1>
+    </center>
+    <br>
+    This contains kinks to the latest code documentation for IGLib.<br>
+    <br>
+    &nbsp; <a
+href="http://www2.arnes.si/%7Eljc3m2/igor/software/codedoc/generated/iglib/ReadMe_IGLib.html">Readme
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      File</a>. Contains some basic information about the library.<br>
+    <br>
+    &nbsp; <a
+href="http://www2.arnes.si/%7Eljc3m2/igor/software/codedoc/generated/iglib/License_IGLib_Redistributable.html">Redistributable
+
+
+
+
+
+
+      License Agreement</a>. Contains redistributable license agreement
+    for the IGLib binaries that come with some applications such as <i><a
+href="http://www2.arnes.si/%7Eljc3m2/igor/software/IGLibShellApp/">IGShell</a></i>.
+    <br>
+    <br>
+    &nbsp; <a
+href="http://www2.arnes.si/%7Eljc3m2/igor/software/codedoc/generated/iglib/License_IGLib_Partner.html">Partner
+
+
+
+
+
+
+      License Agreement</a>. Example license agreement for partner
+    groups that use the library. <br>
+    <br>
+    &nbsp; <a
+href="http://www2.arnes.si/%7Eljc3m2/igor/software/codedoc/generated/iglib/html/index.html"><span
+        style="font-weight: bold;">IGLib Code Documentation</span></a>.
+    Code documentation for the library, automatically generated from
+    documentation comments by <a
+      href="http://www.stack.nl/%7Edimitri/doxygen/">Doxygen</a>, a
+    remarkable documentation generation tool.<br>
+    <ul>
+      <li><a
+href="http://www2.arnes.si/%7Eljc3m2/igor/software/codedoc/generated/iglib/html/annotated.html">Class
+
+
+
+
+
+
+          list</a>.&nbsp; <br>
+      </li>
+      <li><a
+href="http://www2.arnes.si/%7Eljc3m2/igor/software/codedoc/generated/iglib/html/hierarchy.html">Class
+
+
+
+
+
+
+          Hierarchy</a>. <br>
+      </li>
+      <li><a
+href="http://www2.arnes.si/%7Eljc3m2/igor/software/codedoc/generated/iglib/html/namespaces.html">Namespace
+
+
+
+
+
+
+          list</a>.</li>
+      <li><a
+href="http://www2.arnes.si/%7Eljc3m2/igor/software/codedoc/generated/iglib/html/files.html">File
+
+
+
+
+
+
+          list</a>. <br>
+      </li>
+    </ul>
+    <br>
+    &nbsp; <a style="font-weight: bold;"
+      href="http://www2.arnes.si/%7Eljc3m2/igor/iglib/">More
+      information.</a> You will find additional information on the
+    library's home page. <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <center>
+      <h1> <a name="downloads_all"></a><b><i><font color="#cc0000"><font
+                size="+2">Complete List of Downloads<br>
+              </font></font></i></b></h1>
+    </center>
+    <br>
+    <a href="00downloads/"><b>Download directory</b></a>.<br>
+    <br>
+    <a href="./"><b>Complete Archive directory</b></a> (containing all
+    code documentation and <a href="00downloads/">downloads</a>).<br>
+    <br>
+    <br>
+    <br>
+    <center>
+      <h1> <a name="see_also"></a><b><i><font color="#cc0000"><font
+                size="+2">See Also<br>
+              </font></font></i></b></h1>
+    </center>
+    <br>
+    <a href="http://www2.arnes.si/%7Eljc3m2/igor/blogs/"><b>A How-to
+        Guide on Creating Bootable Media</b></a> <a
+      href="http://www2.arnes.si/%7Eljc3m2/igor/blogs/technical/">(=&gt;</a>,
+    <a
+href="http://www2.arnes.si/%7Eljc3m2/igor/blogs/technical/bootable_media_creation.pdf">PDF</a>).
+
+    Details procedures and tools for creating bootable media for various
+    scenarios. These procedures were used for testing and the <a
+      href="http://www2.arnes.si/%7Eljc3m2/igor/iglib/index.html">IGLib</a>-based
+
+    <a href="http://www2.arnes.si/%7Eljc3m2/igor/software/index.html">software</a>,
+    although the described procedures are general and useful in many
+    situations. Document is composed in form of a how-to guide with
+    additional explanations to make things clearer and more
+    understandable.&nbsp; By Igor Grešovnik, April 2016.<br>
+    <br>
+    <br>
+    <br>
+    <hr width="100%"><br>
+    <br>
+    <!-- SiteSearch Google -->
+    <form method="get" action="http://www.google.com/search">
+      <div style="text-align: right;"> </div>
+      <table style="width: 60%;" cellpadding="4" cellspacing="4">
+        <tbody>
+          <tr>
+            <td style="text-align: right; font-style: italic;"><a
+                href="http://www.google.com/"> </a><a name="search"></a><a
+                href="http://www.google.com/"><img
+                  src="http://www.google.com/logos/Logo_25wht.gif"
+                  style="border: 0px solid ; width: 75px; height: 32px;"
+                  alt="Google" title=""></a></td>
+            <td> <input name="q" size="31" maxlength="255" value=""
+                type="text"><input name="btnG" value="Google Search"
+                type="submit"> <font size="-1"><input name="domains"
+                  value="../" type="hidden"><br>
+                <input name="sitesearch" value="" checked="checked"
+                  type="radio">WWW&nbsp;&nbsp;&nbsp; <input
+                  name="sitesearch" value="../" type="radio">../&nbsp;&nbsp;&nbsp;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                <input name="sitesearch" value="./" type="radio">./&nbsp;&nbsp;&nbsp;&nbsp;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                <input name="sitesearch"
+                  value="http://www2.arnes.si/%7Eljc3m2/" type="radio">
+                Igor at Arnes&nbsp;&nbsp; <input name="sitesearch"
+                  value="hhttp://igor.mrfreehost.com/" type="radio">
+                Igor at Mrfreesite <br>
+              </font> </td>
+          </tr>
+        </tbody>
+      </table>
+    </form>
+    <!-- SiteSearch Google -->
+    <p> </p>
+    <p> </p>
+    <p> </p>
+    <p> </p>
+    <br>
+    <hr>
+    <center>
+      <table nosave="" bgcolor="#ffffff" border="3" cellpadding="2">
+        <tbody>
+          <tr nosave="">
+            <td nosave="" valign="top" align="center">
+              <center>&nbsp;&nbsp; <a
+                  href="http://www.c3m.si/inverse/doc/phd/"><br>
+                </a></center>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </center>
+    &nbsp;
+    <div align="right">
+      <table nosave="" bgcolor="#ffffff" border="3" cellpadding="2">
+        <tbody>
+          <tr nosave="">
+            <td nosave="" valign="top" align="left">
+              <div align="right"><font size="-1">&nbsp; Maintained by <a
+                    href="http://www2.arnes.si/%7Eljc3m2/igor/">Igor
+                    Grešovnik</a>&nbsp; <br>
+                </font></div>
+              <font size="-1"></font></td>
+          </tr>
+        </tbody>
+      </table>
+      &nbsp; &nbsp; &nbsp;&nbsp; </div>
+    <center>
+      <table nosave="" border="3" cellpadding="2">
+        <tbody>
+          <tr nosave="">
+            <td nosave="" valign="top" align="left">
+              <center><i>&nbsp; Updated in April 2016 &nbsp; <br>
+                </i></center>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </center>
+    <ul>
+      &nbsp;<br>
+    </ul>
+    <br>
+    <br>
+    <small>Number of accesses:&nbsp;&nbsp;&nbsp;&nbsp; </small><a
+      href="http://www2.arnes.si/%7Eljc3m2/igor/ioptlib/index.html"><img
+src="http://www.arnes.si/cgi-bin/counter?md=7%7Cdd=B%7Cid=IGarnes_igor_ioptlib_index"
+        title="" alt="If you don't see the access counter properly then
+        click on the link!" style="border: 0px solid ; width: 172px;
+        height: 28px;"></a><small>&nbsp;&nbsp;&nbsp; If you don't see
+      the access counter properly then please follow <a
+        href="http://www2.arnes.si/%7Eljc3m2/igor/ioptlib/index.html">this
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        link</a>!</small><br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+  </body>
+</html>
