@@ -1,0 +1,3 @@
+<map id="NUnit.Framework.Internal.Execution.IWorkItemDispatcher" name="NUnit.Framework.Internal.Execution.IWorkItemDispatcher">
+<area shape="rect" id="node2" href="$d4/dd2/classNUnit_1_1Framework_1_1Internal_1_1Execution_1_1SimpleWorkItemDispatcher.html" title="SimpleWorkItemDispatcher handles execution of WorkItems by directly executing them. It is provided so that a dispatcher is always available in the context, thereby simplifying the code needed to run child tests. " alt="" coords="5,95,248,136"/>
+</map>

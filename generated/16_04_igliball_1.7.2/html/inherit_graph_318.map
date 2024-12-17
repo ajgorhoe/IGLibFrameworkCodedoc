@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$dc/d3f/classIG_1_1Forms_1_1GraphItem.html" title="IG.Forms.GraphItem" alt="" coords="5,31,145,57"/>
+<area shape="rect" id="node2" href="$d4/d97/classIG_1_1Forms_1_1GraphAxisItem.html" title="Contains data and methods for manipulating a single axis item of a graph. Axis items manipulate axis ..." alt="" coords="193,5,360,32"/>
+<area shape="rect" id="node3" href="$d3/d4e/classIG_1_1Forms_1_1GraphPlotItem.html" title="Representation of a plottable item contained in a graph." alt="" coords="195,56,358,83"/>
+<area shape="rect" id="node4" href="$df/d24/classIG_1_1Forms_1_1GraphLineItem.html" title="IG.Forms.GraphLineItem" alt="" coords="408,56,572,83"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="IG.Web.WSDevelopRef" name="IG.Web.WSDevelopRef">
+<area shape="rect" id="node2" href="$d8/dd9/classIG_1_1Web_1_1WSDevelopRefBase.html" title="Intermediate proxy class to a web service based on the WSDevelopClass." alt="" coords="21,155,160,181"/>
+<area shape="rect" id="node4" href="$d3/d6b/interfaceIG_1_1Web_1_1IWsDevelop.html" title="Interface for development web services." alt="" coords="204,155,295,181"/>
+<area shape="rect" id="node5" href="$d3/d45/interfaceIG_1_1Web_1_1IWSBase.html" title="Interface for basic web service." alt="" coords="211,80,288,107"/>
+<area shape="rect" id="node6" href="$dc/d79/interfaceIG_1_1Lib_1_1IIdentifiable.html" title="Classes whose instances have unique integer IDs." alt="" coords="153,5,239,32"/>
+<area shape="rect" id="node7" href="$d3/db6/interfaceIG_1_1Lib_1_1ILockable.html" title="Lockable object, has a Lock property that returns object on which lock must be performed in order to ..." alt="" coords="275,5,352,32"/>
+</map>

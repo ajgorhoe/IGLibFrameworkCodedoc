@@ -1,0 +1,5 @@
+<map id="NUnit.Engine.Agents.RemoteTestAgent" name="NUnit.Engine.Agents.RemoteTestAgent">
+<area shape="rect" id="node2" href="$de/d9a/classNUnit_1_1Engine_1_1Agents_1_1TestAgent.html" title="Abstract base for all types of TestAgents. A TestAgent provides services of locating, loading and running tests in a particular context such as an AppDomain or Process. " alt="" coords="167,80,249,107"/>
+<area shape="rect" id="node4" href="$d7/dbf/interfaceNUnit_1_1Engine_1_1ITestAgent.html" title="The ITestAgent interface is implemented by remote test agents. " alt="" coords="171,5,255,32"/>
+<area shape="rect" id="node6" href="$d3/df0/interfaceNUnit_1_1Engine_1_1ITestEngineRunner.html" title="Interface implemented by all internal test runners in the engine, allowing them to pass back TestEngi..." alt="" coords="273,80,404,107"/>
+</map>

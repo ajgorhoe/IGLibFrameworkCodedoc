@@ -1,0 +1,12 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node2" href="$d3/d80/classCShell_1_1Code_1_1ConsoleEventArgs.html" title="CShell.Code.ConsoleEventArgs" alt="" coords="151,5,355,32"/>
+<area shape="rect" id="node3" href="$da/dc3/classCShell_1_1WorkspaceClosedEventArgs.html" title="CShell.WorkspaceClosedEventArgs" alt="" coords="139,56,368,83"/>
+<area shape="rect" id="node4" href="$d5/d53/classCShell_1_1WorkspaceClosingEventArgs.html" title="CShell.WorkspaceClosingEventArgs" alt="" coords="137,107,369,133"/>
+<area shape="rect" id="node5" href="$da/d20/classCShell_1_1WorkspaceOpeningEventArgs.html" title="CShell.WorkspaceOpeningEventArgs" alt="" coords="135,157,372,184"/>
+<area shape="rect" id="node6" href="$d1/d12/classIG_1_1Forms_1_1FontEventArgs.html" title="EventArgs class that contains font information." alt="" coords="171,208,336,235"/>
+<area shape="rect" id="node7" href="$d5/d97/classIG_1_1Forms_1_1ValueChangeEventArgs_3_01ValueType_01_4.html" title="Event arguments for events bearing information about value that has changed. " alt="" coords="159,259,348,301"/>
+<area shape="rect" id="node9" href="$d4/d4c/classIPLab_1_1GridEventArgs.html" title="IPLab.GridEventArgs" alt="" coords="182,325,325,352"/>
+<area shape="rect" id="node10" href="$dd/dc6/classIPLab_1_1SelectionEventArgs.html" title="IPLab.SelectionEventArgs" alt="" coords="167,376,339,403"/>
+<area shape="rect" id="node11" href="$d5/d16/classNUnit_1_1Engine_1_1SettingsEventArgs.html" title="Event argument for settings changes " alt="" coords="149,427,358,453"/>
+<area shape="rect" id="node8" href="$d3/d52/classIG_1_1Forms_1_1IndexChangeEventArgs.html" title="Event arguments for events bearing information about an index (of type int) that has changed..." alt="" coords="420,267,635,293"/>
+</map>

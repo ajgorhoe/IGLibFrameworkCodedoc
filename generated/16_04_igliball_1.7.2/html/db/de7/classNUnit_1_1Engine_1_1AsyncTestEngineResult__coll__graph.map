@@ -1,0 +1,5 @@
+<map id="NUnit.Engine.AsyncTestEngineResult" name="NUnit.Engine.AsyncTestEngineResult">
+<area shape="rect" id="node2" href="$db/d9d/interfaceNUnit_1_1Engine_1_1ITestRun.html" title="The ITestRun class represents an ongoing test run. " alt="" coords="20,109,93,136"/>
+<area shape="rect" id="node3" href="$dc/df0/classNUnit_1_1Engine_1_1TestEngineResult.html" title="Wrapper class for the xml&#45;formatted results produced by the test engine for most operations. The XML is stored as a string in order to allow serialization and actual XmlNodes are created on demand. " alt="" coords="117,109,321,136"/>
+<area shape="rect" id="node4" href="$d7/d49/classNUnit_1_1Framework_1_1List.html" title="NUnit.Framework.List\l\&lt; string \&gt;" alt="" coords="146,5,293,47"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="NUnit.Framework.Constraints.ThrowsConstraintTest_WithConstraint" name="NUnit.Framework.Constraints.ThrowsConstraintTest_WithConstraint">
+<area shape="rect" id="node2" href="$d2/d5e/classNUnit_1_1Framework_1_1Constraints_1_1ThrowsConstraintTestBase.html" title="ThrowsConstraintTestBase" alt="" coords="37,337,214,364"/>
+<area shape="rect" id="node3" href="$dc/d5c/classNUnit_1_1Framework_1_1Constraints_1_1ConstraintTestBaseNoData.html" title="ConstraintTestBaseNoData" alt="" coords="36,261,215,288"/>
+<area shape="rect" id="node4" href="$d9/da9/classNUnit_1_1Framework_1_1Constraints_1_1Constraint.html" title="The Constraint class is the base of all built&#45;in constraints within NUnit. It provides the operator o..." alt="" coords="27,157,223,199"/>
+<area shape="rect" id="node5" href="$d1/d94/interfaceNUnit_1_1Framework_1_1Constraints_1_1IConstraint.html" title="Interface for all constraints " alt="" coords="83,81,167,108"/>
+<area shape="rect" id="node6" href="$d7/d29/interfaceNUnit_1_1Framework_1_1Constraints_1_1IResolveConstraint.html" title="The IResolveConstraint interface is implemented by all complete and resolvable constraints and expres..." alt="" coords="61,5,190,32"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="IG.Script.AppBase" name="IG.Script.AppBase">
+<area shape="rect" id="node2" href="$db/da4/classIG_1_1Script_1_1ScriptAppBase.html" title="Partial class definition containing tests of CSV utilities. " alt="" coords="127,437,236,464"/>
+<area shape="rect" id="node3" href="$da/d52/classIG_1_1Script_1_1LoadableScriptSpecialFunctionBase.html" title="Base cls. for various special function loadable scripts." alt="" coords="94,193,325,219"/>
+<area shape="rect" id="node4" href="$d7/d15/classIG_1_1Lib_1_1LoadableScriptBase.html" title="Base class for classes that can be dynamically loadeded from scripts and run, which provides function..." alt="" coords="144,109,283,136"/>
+<area shape="rect" id="node5" href="$d7/d66/interfaceIG_1_1Lib_1_1ILoadableScript.html" title="Interface for classes that can be dynamically loadeded from scripts and run, which provides functiona..." alt="" coords="10,13,121,39"/>
+<area shape="rect" id="node6" href="$d3/db6/interfaceIG_1_1Lib_1_1ILockable.html" title="Lockable object, has a Lock property that returns object on which lock must be performed in order to ..." alt="" coords="164,13,241,39"/>
+<area shape="rect" id="node7" href="$de/dfd/interfaceIG_1_1Lib_1_1ICommandLineApplicationInterpreter.html" title="Interface for simple command&#45;line applicatino interpreters." alt="" coords="265,5,476,47"/>
+<area shape="rect" id="node8" href="$d7/d49/classNUnit_1_1Framework_1_1List.html" title="NUnit.Framework.List\l\&lt; string \&gt;" alt="" coords="349,185,496,227"/>
+</map>

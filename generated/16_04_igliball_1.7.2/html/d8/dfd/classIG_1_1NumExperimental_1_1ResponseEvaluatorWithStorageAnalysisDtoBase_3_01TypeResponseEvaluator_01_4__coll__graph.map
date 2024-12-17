@@ -1,0 +1,6 @@
+<map id="IG.NumExperimental.ResponseEvaluatorWithStorageAnalysisDtoBase&lt; TypeResponseEvaluator &gt;" name="IG.NumExperimental.ResponseEvaluatorWithStorageAnalysisDtoBase&lt; TypeResponseEvaluator &gt;">
+<area shape="rect" id="node3" href="$d1/d22/classIG_1_1Num_1_1AnalysisResultsDto.html" title="DTO (Data Transfer Objects) for storing contents of direct analysis request (in optimization problems..." alt="" coords="678,99,862,125"/>
+<area shape="rect" id="node4" href="$dc/ddd/classIG_1_1Num_1_1AnalysisRequestDto.html" title="DTO (Data Transfer Objects) for storing contents of direct analysis request (in optimization problems..." alt="" coords="321,32,461,59"/>
+<area shape="rect" id="node6" href="$dc/dec/classIG_1_1Lib_1_1VectorDtoBase.html" title="DTO (data transfer object) for vector interface (IVector)." alt="" coords="25,92,173,119"/>
+<area shape="rect" id="node7" href="$d1/d42/classIG_1_1Lib_1_1MatrixDtoBase.html" title="DTO (data transfer object) for matrix interface (IMatrix)." alt="" coords="317,160,464,187"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="NUnit.Common.Tests.TestSelectionParserTests" name="NUnit.Common.Tests.TestSelectionParserTests">
+<area shape="rect" id="node2" href="$d8/d3b/classNUnit_1_1Common_1_1TestSelectionParser.html" title="NUnit.Common.TestSelection\lParser" alt="" coords="23,319,217,360"/>
+<area shape="rect" id="node3" href="$d9/d38/classNUnit_1_1Common_1_1Tokenizer.html" title="Tokenizer class performs lexical analysis for the TestSelectionParser. It recognizes a very limited s..." alt="" coords="175,162,345,189"/>
+<area shape="rect" id="node4" href="$d3/d81/classNUnit_1_1Common_1_1Token.html" title="NUnit.Common.Token" alt="" coords="45,5,195,32"/>
+</map>

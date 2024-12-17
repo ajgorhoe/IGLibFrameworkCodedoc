@@ -1,0 +1,4 @@
+<map id="NUnit.Engine.Agents.TestAgent" name="NUnit.Engine.Agents.TestAgent">
+<area shape="rect" id="node5" href="$dc/daa/classNUnit_1_1Engine_1_1Agents_1_1RemoteTestAgent.html" title="RemoteTestAgent represents a remote agent executing in another process and communicating with NUnit b..." alt="" coords="117,169,309,211"/>
+<area shape="rect" id="node3" href="$d7/dbf/interfaceNUnit_1_1Engine_1_1ITestAgent.html" title="The ITestAgent interface is implemented by remote test agents. " alt="" coords="171,5,255,32"/>
+</map>

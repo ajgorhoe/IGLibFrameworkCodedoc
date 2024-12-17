@@ -1,0 +1,9 @@
+<map id="IG.Forms.WindowPositionerForm" name="IG.Forms.WindowPositionerForm">
+<area shape="rect" id="node3" href="$d3/d68/interfaceIG_1_1Forms_1_1IClosableFromContainedForm.html" title="Marker interface indicating that a form can be closed from the contained control." alt="" coords="732,57,903,98"/>
+<area shape="rect" id="node5" href="$d0/de6/classIG_1_1Forms_1_1WindowPositionerControl.html" title="Control for testing window positioning." alt="" coords="725,827,909,869"/>
+<area shape="rect" id="node7" href="$df/d0e/classIG_1_1Forms_1_1WindowPositioner.html" title="Takes care of windows positioning, relative of absolute to the screen and/or other windows..." alt="" coords="355,804,539,831"/>
+<area shape="rect" id="node10" href="$d8/dfa/classIG_1_1Forms_1_1WindowShiftControlText.html" title="Control for setting window positions, relative positions, sizes, positions, shifts, etc." alt="" coords="337,953,556,980"/>
+<area shape="rect" id="node11" href="$d2/d08/classIG_1_1Forms_1_1AlignmentControl.html" title="Control for setting horizontal and vertical alignment of items." alt="" coords="357,883,536,909"/>
+<area shape="rect" id="node8" href="$d4/da1/structIG_1_1Lib_1_1Alignment.html" title="Defines alignment (vertical and horizontal) of some object." alt="" coords="5,845,124,872"/>
+<area shape="rect" id="node9" href="$dc/daf/structIG_1_1Num_1_1vec2.html" title="2D vector, struct implementation." alt="" coords="17,771,113,797"/>
+</map>

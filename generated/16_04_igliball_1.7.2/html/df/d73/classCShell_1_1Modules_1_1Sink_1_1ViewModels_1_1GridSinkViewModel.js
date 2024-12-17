@@ -1,0 +1,26 @@
+var classCShell_1_1Modules_1_1Sink_1_1ViewModels_1_1GridSinkViewModel =
+[
+    [ "GridSinkViewModel", "df/d73/classCShell_1_1Modules_1_1Sink_1_1ViewModels_1_1GridSinkViewModel.html#acc8f84988aa4451505ab4af6c06f86ef", null ],
+    [ "GridSinkViewModel", "df/d73/classCShell_1_1Modules_1_1Sink_1_1ViewModels_1_1GridSinkViewModel.html#acc8f84988aa4451505ab4af6c06f86ef", null ],
+    [ "Dump", "df/d73/classCShell_1_1Modules_1_1Sink_1_1ViewModels_1_1GridSinkViewModel.html#a4882d45582efbfddb06c72883e733ab3", null ],
+    [ "Clear", "df/d73/classCShell_1_1Modules_1_1Sink_1_1ViewModels_1_1GridSinkViewModel.html#ae0fab4bb7ee9593705c3635a88e4d646", null ],
+    [ "InitializeItemProperties", "df/d73/classCShell_1_1Modules_1_1Sink_1_1ViewModels_1_1GridSinkViewModel.html#ad7f62a987e5f99a2dd915665997ffbaa", null ],
+    [ "GetProperties", "df/d73/classCShell_1_1Modules_1_1Sink_1_1ViewModels_1_1GridSinkViewModel.html#a86859a33de4906e3d0747d3a9a7c1994", null ],
+    [ "GetValueProperties", "df/d73/classCShell_1_1Modules_1_1Sink_1_1ViewModels_1_1GridSinkViewModel.html#af3846d828d026bf09d40697efb23d525", null ],
+    [ "IsValueType", "df/d73/classCShell_1_1Modules_1_1Sink_1_1ViewModels_1_1GridSinkViewModel.html#a298a6f955cfed8242193cf8023f97e90", null ],
+    [ "IsSimpleType", "df/d73/classCShell_1_1Modules_1_1Sink_1_1ViewModels_1_1GridSinkViewModel.html#a19413167546a89e948d2ceec2db28a3b", null ],
+    [ "Dump", "df/d73/classCShell_1_1Modules_1_1Sink_1_1ViewModels_1_1GridSinkViewModel.html#a4882d45582efbfddb06c72883e733ab3", null ],
+    [ "Clear", "df/d73/classCShell_1_1Modules_1_1Sink_1_1ViewModels_1_1GridSinkViewModel.html#ae0fab4bb7ee9593705c3635a88e4d646", null ],
+    [ "InitializeItemProperties", "df/d73/classCShell_1_1Modules_1_1Sink_1_1ViewModels_1_1GridSinkViewModel.html#ad7f62a987e5f99a2dd915665997ffbaa", null ],
+    [ "GetProperties", "df/d73/classCShell_1_1Modules_1_1Sink_1_1ViewModels_1_1GridSinkViewModel.html#a86859a33de4906e3d0747d3a9a7c1994", null ],
+    [ "GetValueProperties", "df/d73/classCShell_1_1Modules_1_1Sink_1_1ViewModels_1_1GridSinkViewModel.html#af3846d828d026bf09d40697efb23d525", null ],
+    [ "IsValueType", "df/d73/classCShell_1_1Modules_1_1Sink_1_1ViewModels_1_1GridSinkViewModel.html#a298a6f955cfed8242193cf8023f97e90", null ],
+    [ "IsSimpleType", "df/d73/classCShell_1_1Modules_1_1Sink_1_1ViewModels_1_1GridSinkViewModel.html#a19413167546a89e948d2ceec2db28a3b", null ],
+    [ "data", "df/d73/classCShell_1_1Modules_1_1Sink_1_1ViewModels_1_1GridSinkViewModel.html#a35d8503efa2fa2659838733561c08ba0", null ],
+    [ "lastItemType", "df/d73/classCShell_1_1Modules_1_1Sink_1_1ViewModels_1_1GridSinkViewModel.html#a0431ce5d125af0113c001106b7e00a6d", null ],
+    [ "Data", "df/d73/classCShell_1_1Modules_1_1Sink_1_1ViewModels_1_1GridSinkViewModel.html#a95a42910ff7afbea0a02fef2def76cdf", null ],
+    [ "DataCount", "df/d73/classCShell_1_1Modules_1_1Sink_1_1ViewModels_1_1GridSinkViewModel.html#a77c8b4646181b256737021279e0c2e64", null ],
+    [ "ItemType", "df/d73/classCShell_1_1Modules_1_1Sink_1_1ViewModels_1_1GridSinkViewModel.html#a7d5fecba566012085df24bd7e4e953bb", null ],
+    [ "Properties", "df/d73/classCShell_1_1Modules_1_1Sink_1_1ViewModels_1_1GridSinkViewModel.html#ab04eb08cb5c9a6382a8d52eb1e55e576", null ],
+    [ "SelectedProperties", "df/d73/classCShell_1_1Modules_1_1Sink_1_1ViewModels_1_1GridSinkViewModel.html#ae2c64dec271345d34711f2d11eee897a", null ]
+];

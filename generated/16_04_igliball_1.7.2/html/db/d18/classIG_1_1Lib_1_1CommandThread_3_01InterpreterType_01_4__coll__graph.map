@@ -1,0 +1,10 @@
+<map id="IG.Lib.CommandThread&lt; InterpreterType &gt;" name="IG.Lib.CommandThread&lt; InterpreterType &gt;">
+<area shape="rect" id="node2" href="$de/df6/classIG_1_1Lib_1_1CommandThread_3_01InterpreterType_00_01FrameType_00_01ThreadType_01_4.html" title="Contains stack frames and other command thread data for a single command thread of a command&#45;line int..." alt="" coords="692,175,931,246"/>
+<area shape="rect" id="node3" href="$dd/dd7/classIG_1_1Lib_1_1CommandThreadBase.html" title="Base class for classes of type CommandThread{InterpreterType, FrameType, ThreadType}. Contains everything that is not dependent on generic frame and other parameters." alt="" coords="492,197,643,224"/>
+<area shape="rect" id="node4" href="$dc/d79/interfaceIG_1_1Lib_1_1IIdentifiable.html" title="Classes whose instances have unique integer IDs." alt="" coords="5,346,92,373"/>
+<area shape="rect" id="node9" href="$de/de7/classIG_1_1Lib_1_1StopWatch1.html" title="Timer for measuring execution times and other intervals of time elapsed between successive events..." alt="" coords="149,164,281,190"/>
+<area shape="rect" id="node5" href="$d3/db6/interfaceIG_1_1Lib_1_1ILockable.html" title="Lockable object, has a Lock property that returns object on which lock must be performed in order to ..." alt="" coords="10,113,87,140"/>
+<area shape="rect" id="node6" href="$d7/d49/classNUnit_1_1Framework_1_1List.html" title="NUnit.Framework.List\l\&lt; object \&gt;" alt="" coords="141,215,288,256"/>
+<area shape="rect" id="node7" href="$d7/d49/classNUnit_1_1Framework_1_1List.html" title="NUnit.Framework.List\l\&lt; string \&gt;" alt="" coords="141,280,288,322"/>
+<area shape="rect" id="node8" href="$d7/d49/classNUnit_1_1Framework_1_1List.html" title="NUnit.Framework.List\l\&lt; int \&gt;" alt="" coords="141,47,288,88"/>
+</map>

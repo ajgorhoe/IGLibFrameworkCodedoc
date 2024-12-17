@@ -1,0 +1,6 @@
+<map id="NUnit.Framework.Internal.Filters.CompositeFilter" name="NUnit.Framework.Internal.Filters.CompositeFilter">
+<area shape="rect" id="node2" href="$da/dc4/classNUnit_1_1Framework_1_1Internal_1_1TestFilter.html" title="Interface to be implemented by filters applied to tests. The filter applies when running the test..." alt="" coords="53,261,129,288"/>
+<area shape="rect" id="node3" href="$d2/df0/interfaceNUnit_1_1Framework_1_1Interfaces_1_1ITestFilter.html" title="Interface to be implemented by filters applied to tests. The filter applies when running the test..." alt="" coords="27,81,105,108"/>
+<area shape="rect" id="node5" href="$da/dc4/classNUnit_1_1Framework_1_1Internal_1_1TestFilter.html" title="Interface to be implemented by filters applied to tests. The filter applies when running the test..." alt="" coords="88,157,260,199"/>
+<area shape="rect" id="node4" href="$d9/dc0/interfaceNUnit_1_1Framework_1_1Interfaces_1_1IXmlNodeBuilder.html" title="An object implementing IXmlNodeBuilder is able to build an XML representation of itself and any child..." alt="" coords="8,5,124,32"/>
+</map>

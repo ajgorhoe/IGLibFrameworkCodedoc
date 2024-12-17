@@ -1,0 +1,6 @@
+<map id="NUnit.Framework.TestFixtureSourceAttribute" name="NUnit.Framework.TestFixtureSourceAttribute">
+<area shape="rect" id="node2" href="$d3/dee/classNUnit_1_1Framework_1_1NUnitAttribute.html" title="The abstract base class for all custom attributes defined by NUnit. " alt="" coords="367,5,470,32"/>
+<area shape="rect" id="node4" href="$d8/daf/interfaceNUnit_1_1Framework_1_1Interfaces_1_1IFixtureBuilder.html" title="The IFixtureBuilder interface is exposed by a class that knows how to build a TestFixture from one or..." alt="" coords="366,56,471,83"/>
+<area shape="rect" id="node5" href="$d0/dbc/classNUnit_1_1Framework_1_1Internal_1_1Builders_1_1NUnitTestFixtureBuilder.html" title="NUnitTestFixtureBuilder is able to build a fixture given a class marked with a TestFixtureAttribute o..." alt="" coords="313,107,524,149"/>
+<area shape="rect" id="node6" href="$d2/dbb/interfaceNUnit_1_1Framework_1_1Interfaces_1_1ITestCaseBuilder.html" title="The ITestCaseBuilder interface is exposed by a class that knows how to build a test case from certain..." alt="" coords="5,107,192,149"/>
+</map>

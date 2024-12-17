@@ -1,0 +1,7 @@
+var searchData=
+[
+  ['vector_5fmathnet',['Vector_MathNet',['../d3/d05/MatrixExtMathNet_8cs.html#a7b4a50f320df1a99f54f191a2506bba7',1,'MatrixExtMathNet.cs']]],
+  ['vector_5fmathnetnumerics',['Vector_MathNetNumerics',['../d4/df9/MatrixDecompositions_8cs.html#a2735be5c463a3665c593208f826a6368',1,'Vector_MathNetNumerics():&#160;MatrixDecompositions.cs'],['../d4/d18/Vector_8cs.html#a2735be5c463a3665c593208f826a6368',1,'Vector_MathNetNumerics():&#160;Vector.cs'],['../d8/d7c/iglib_2igbase_2numeric_2VectorBase_8cs.html#a2735be5c463a3665c593208f826a6368',1,'Vector_MathNetNumerics():&#160;VectorBase.cs'],['../d3/d05/MatrixExtMathNet_8cs.html#a2735be5c463a3665c593208f826a6368',1,'Vector_MathNetNumerics():&#160;MatrixExtMathNet.cs']]],
+  ['vectorbase_5fmathnetnumerics',['VectorBase_MathNetNumerics',['../d4/df9/MatrixDecompositions_8cs.html#ac29dd9c7c768974c851f6dbf35f46405',1,'VectorBase_MathNetNumerics():&#160;MatrixDecompositions.cs'],['../d4/d18/Vector_8cs.html#ac29dd9c7c768974c851f6dbf35f46405',1,'VectorBase_MathNetNumerics():&#160;Vector.cs'],['../d8/d7c/iglib_2igbase_2numeric_2VectorBase_8cs.html#ac29dd9c7c768974c851f6dbf35f46405',1,'VectorBase_MathNetNumerics():&#160;VectorBase.cs'],['../d3/d05/MatrixExtMathNet_8cs.html#ac29dd9c7c768974c851f6dbf35f46405',1,'VectorBase_MathNetNumerics():&#160;MatrixExtMathNet.cs']]],
+  ['vectorcomplexbase_5fmathnetnumerics',['VectorComplexBase_MathNetNumerics',['../d4/df9/MatrixDecompositions_8cs.html#a9dc4ff27705b91bc238c1d0d35a37fe5',1,'MatrixDecompositions.cs']]]
+];

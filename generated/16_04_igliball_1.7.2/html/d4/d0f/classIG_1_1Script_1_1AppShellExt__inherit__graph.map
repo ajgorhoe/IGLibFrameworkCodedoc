@@ -1,0 +1,9 @@
+<map id="IG.Script.AppShellExt" name="IG.Script.AppShellExt">
+<area shape="rect" id="node2" href="$d0/dec/classIG_1_1Script_1_1AppExtBase.html" title="Internal script for running embedded applications." alt="" coords="75,379,170,405"/>
+<area shape="rect" id="node3" href="$d5/d63/classIG_1_1Script_1_1AppBase.html" title="Base cls. for application scripts that can also be used on its own." alt="" coords="125,304,200,331"/>
+<area shape="rect" id="node4" href="$db/da4/classIG_1_1Script_1_1ScriptAppBase.html" title="Partial class definition containing tests of CSV utilities. " alt="" coords="176,229,285,256"/>
+<area shape="rect" id="node5" href="$da/d52/classIG_1_1Script_1_1LoadableScriptSpecialFunctionBase.html" title="Base cls. for various special function loadable scripts." alt="" coords="227,155,458,181"/>
+<area shape="rect" id="node6" href="$d7/d15/classIG_1_1Lib_1_1LoadableScriptBase.html" title="Base class for classes that can be dynamically loadeded from scripts and run, which provides function..." alt="" coords="277,80,416,107"/>
+<area shape="rect" id="node7" href="$d7/d66/interfaceIG_1_1Lib_1_1ILoadableScript.html" title="Interface for classes that can be dynamically loadeded from scripts and run, which provides functiona..." alt="" coords="109,5,219,32"/>
+<area shape="rect" id="node8" href="$d3/db6/interfaceIG_1_1Lib_1_1ILockable.html" title="Lockable object, has a Lock property that returns object on which lock must be performed in order to ..." alt="" coords="308,5,385,32"/>
+</map>

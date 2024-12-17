@@ -1,0 +1,9 @@
+<map id="NUnit.ConsoleRunner.ConsoleRunner" name="NUnit.ConsoleRunner.ConsoleRunner">
+<area shape="rect" id="node2" href="$d0/d56/classNUnit_1_1Common_1_1ExtendedTextWriter.html" title="ExtendedTextWriter extends the TextWriter abstract class to support displaying text in color..." alt="" coords="497,5,691,47"/>
+<area shape="rect" id="node4" href="$d3/d87/interfaceNUnit_1_1Engine_1_1IResultService.html" title="IResultWriterService provides result writers for a specified well&#45;known format. " alt="" coords="502,71,686,98"/>
+<area shape="rect" id="node5" href="$d4/d86/classNUnit_1_1Common_1_1ConsoleOptions.html" title="ConsoleOptions encapsulates the option settings for the nunit3&#45;console program. " alt="" coords="491,122,697,149"/>
+<area shape="rect" id="node6" href="$da/d32/classNUnit_1_1Common_1_1CommandLineOptions.html" title="CommandLineOptions is the base class the specific option classes used for nunit3&#45;console and nunitlit..." alt="" coords="291,122,441,149"/>
+<area shape="rect" id="node8" href="$d7/d49/classNUnit_1_1Framework_1_1List.html" title="NUnit.Framework.List\l\&lt; string \&gt;" alt="" coords="5,147,152,188"/>
+<area shape="rect" id="node9" href="$d1/d5d/interfaceNUnit_1_1Engine_1_1ITestFilterService.html" title="The TestFilterService provides builders that can create TestFilters " alt="" coords="515,173,673,215"/>
+<area shape="rect" id="node10" href="$d7/dfc/interfaceNUnit_1_1Engine_1_1ITestEngine.html" title="ITestEngine represents an instance of the test engine. Clients wanting to discover, explore or run tests start require an instance of the engine, which is generally acquired from the TestEngineActivator class. " alt="" coords="509,239,679,266"/>
+</map>

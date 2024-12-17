@@ -1,0 +1,8 @@
+<map id="NUnit.Framework.Constraints.SubstringConstraintTestsIgnoringCase" name="NUnit.Framework.Constraints.SubstringConstraintTestsIgnoringCase">
+<area shape="rect" id="node2" href="$dc/dcc/classNUnit_1_1Framework_1_1Constraints_1_1StringConstraintTests.html" title="StringConstraintTests" alt="" coords="53,413,200,440"/>
+<area shape="rect" id="node3" href="$d5/d7a/classNUnit_1_1Framework_1_1Constraints_1_1ConstraintTestBase.html" title="ConstraintTestBase" alt="" coords="59,337,195,364"/>
+<area shape="rect" id="node4" href="$dc/d5c/classNUnit_1_1Framework_1_1Constraints_1_1ConstraintTestBaseNoData.html" title="ConstraintTestBaseNoData" alt="" coords="37,261,216,288"/>
+<area shape="rect" id="node5" href="$d9/da9/classNUnit_1_1Framework_1_1Constraints_1_1Constraint.html" title="The Constraint class is the base of all built&#45;in constraints within NUnit. It provides the operator o..." alt="" coords="29,157,225,199"/>
+<area shape="rect" id="node6" href="$d1/d94/interfaceNUnit_1_1Framework_1_1Constraints_1_1IConstraint.html" title="Interface for all constraints " alt="" coords="85,81,169,108"/>
+<area shape="rect" id="node7" href="$d7/d29/interfaceNUnit_1_1Framework_1_1Constraints_1_1IResolveConstraint.html" title="The IResolveConstraint interface is implemented by all complete and resolvable constraints and expres..." alt="" coords="62,5,191,32"/>
+</map>

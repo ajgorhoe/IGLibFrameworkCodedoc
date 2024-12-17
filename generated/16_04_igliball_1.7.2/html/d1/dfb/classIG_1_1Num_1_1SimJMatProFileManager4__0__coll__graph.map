@@ -1,0 +1,12 @@
+<map id="IG.Num.SimJMatProFileManager4_0" name="IG.Num.SimJMatProFileManager4_0">
+<area shape="rect" id="node2" href="$de/d59/classIG_1_1Num_1_1SimJMatProFileManagerBase.html" title="File manager for interfacing the JMatPro software." alt="" coords="653,195,848,221"/>
+<area shape="rect" id="node3" href="$d3/db6/interfaceIG_1_1Lib_1_1ILockable.html" title="Lockable object, has a Lock property that returns object on which lock must be performed in order to ..." alt="" coords="54,137,131,164"/>
+<area shape="rect" id="node6" href="$df/d43/classIG_1_1Num_1_1SimCastingRobertFileManager.html" title="File manager for interfacing simulation casting simulator of Robert Vertnik." alt="" coords="239,166,435,207"/>
+<area shape="rect" id="node8" href="$de/de7/classIG_1_1Lib_1_1StopWatch1.html" title="Timer for measuring execution times and other intervals of time elapsed between successive events..." alt="" coords="271,13,403,40"/>
+<area shape="rect" id="node4" href="$d5/dd5/classIG_1_1Num_1_1InputOutputDataDefiniton.html" title="Definition of input and output data for vector functions, approximations, etc. Contains descriptiove ..." alt="" coords="229,232,444,259"/>
+<area shape="rect" id="node5" href="$d3/d24/interfaceIG_1_1Num_1_1IVector.html" title="Real vector intrface." alt="" coords="281,283,392,309"/>
+<area shape="rect" id="node7" href="$d6/d7c/interfaceIG_1_1Num_1_1IResponseEvaluatorVectorSimple.html" title="Interface for simulators and other systems (used e.g. for optimization) that can calculate vector res..." alt="" coords="5,410,180,451"/>
+<area shape="rect" id="node9" href="$dc/d79/interfaceIG_1_1Lib_1_1IIdentifiable.html" title="Classes whose instances have unique integer IDs." alt="" coords="49,13,136,40"/>
+<area shape="rect" id="node10" href="$d4/d43/interfaceIG_1_1Num_1_1IRandomGenerator.html" title="Uniform random number generator." alt="" coords="247,333,426,360"/>
+<area shape="rect" id="node11" href="$db/d5e/interfaceIG_1_1Num_1_1IBoundingBox.html" title="Bounding box, defines minimum and maximum co&#45;ordinates of domains, geometric objects and their groups..." alt="" coords="261,64,412,91"/>
+</map>

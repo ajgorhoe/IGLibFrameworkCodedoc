@@ -1,0 +1,25 @@
+var classIPLab_1_1GaussianForm =
+[
+    [ "GaussianForm", "da/d0f/classIPLab_1_1GaussianForm.html#a0847d68b189096a5800c38906f7f626d", null ],
+    [ "Dispose", "da/d0f/classIPLab_1_1GaussianForm.html#a45517b6ffb65f03ccec07e4d37812bc1", null ],
+    [ "InitializeComponent", "da/d0f/classIPLab_1_1GaussianForm.html#a8212e648040d434a25602baea535bcbc", null ],
+    [ "sigmaTrackBar_ValueChanged", "da/d0f/classIPLab_1_1GaussianForm.html#aeba9b372cfc54e26ad321991c5908aa6", null ],
+    [ "sizeTrackBar_ValueChanged", "da/d0f/classIPLab_1_1GaussianForm.html#ab96f4f9dfc4d8dc4e9b606475ee53449", null ],
+    [ "sigmaBox_TextChanged", "da/d0f/classIPLab_1_1GaussianForm.html#a46579fb024db443fc7edb095069f477d", null ],
+    [ "sizeBox_TextChanged", "da/d0f/classIPLab_1_1GaussianForm.html#a9e8d7cb2ae0e8272b5f8a7a6d332b3f6", null ],
+    [ "filter", "da/d0f/classIPLab_1_1GaussianForm.html#a66e658b85e73ff39ff280beaa6591824", null ],
+    [ "label1", "da/d0f/classIPLab_1_1GaussianForm.html#af9ef5561a647c7d0872845fd34e83e60", null ],
+    [ "sigmaTrackBar", "da/d0f/classIPLab_1_1GaussianForm.html#a95e182a4a18b9e3188b4a35adc2cb540", null ],
+    [ "sigmaBox", "da/d0f/classIPLab_1_1GaussianForm.html#ab79278787aee360d8c594d1d81fd527b", null ],
+    [ "label2", "da/d0f/classIPLab_1_1GaussianForm.html#ade35004205edb1280296a0603baad637", null ],
+    [ "sizeBox", "da/d0f/classIPLab_1_1GaussianForm.html#a90553db4f39a05cdfd1e19dc21321a77", null ],
+    [ "sizeTrackBar", "da/d0f/classIPLab_1_1GaussianForm.html#a16094982004252c8871ec454cdc59929", null ],
+    [ "groupBox3", "da/d0f/classIPLab_1_1GaussianForm.html#ab07235b07d9a8306a8c85880aef007c5", null ],
+    [ "filterPreview", "da/d0f/classIPLab_1_1GaussianForm.html#abbe6fccb5ef4e39e1fb50af2bcaf659f", null ],
+    [ "cancelButton", "da/d0f/classIPLab_1_1GaussianForm.html#a8c74e1f7fc1bc4b90f0006a6479a41c6", null ],
+    [ "okButton", "da/d0f/classIPLab_1_1GaussianForm.html#ae00bc95c721e646e379e1628a376c646", null ],
+    [ "pictureBox1", "da/d0f/classIPLab_1_1GaussianForm.html#a861d46314be8b9877a365825218eca34", null ],
+    [ "components", "da/d0f/classIPLab_1_1GaussianForm.html#a52c031c401e5546cf46c5e0a46bfcf53", null ],
+    [ "Image", "da/d0f/classIPLab_1_1GaussianForm.html#aaf1982e569f68bcad031844e56282a9d", null ],
+    [ "Filter", "da/d0f/classIPLab_1_1GaussianForm.html#a9474ff50c20f970a3913b05707092361", null ]
+];

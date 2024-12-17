@@ -1,0 +1,8 @@
+<map id="CShell.Modules.Editors.ViewModels.EditorViewModel" name="CShell.Modules.Editors.ViewModels.EditorViewModel">
+<area shape="rect" id="node2" href="$d1/d9b/classCShell_1_1Framework_1_1Document.html" title="Document" alt="" coords="475,63,556,89"/>
+<area shape="rect" id="node3" href="$d5/d57/classCShell_1_1Framework_1_1LayoutItemBase.html" title="LayoutItemBase" alt="" coords="155,5,271,32"/>
+<area shape="rect" id="node5" href="$dd/d21/interfaceCShell_1_1Framework_1_1IDocument.html" title="IDocument" alt="" coords="171,91,255,117"/>
+<area shape="rect" id="node7" href="$d1/da6/interfaceCShell_1_1Framework_1_1ITextDocument.html" title="ITextDocument" alt="" coords="461,120,570,147"/>
+<area shape="rect" id="node8" href="$d4/d1c/classCShellCore_1_1CodeCompletion_1_1CodeTextEditor.html" title="CShellCore.CodeCompletion.\lCodeTextEditor" alt="" coords="420,171,611,213"/>
+<area shape="rect" id="node10" href="$dd/dc6/classCShell_1_1Modules_1_1Editors_1_1Views_1_1EditorView.html" title="Interaction logic for EditorView.xaml " alt="" coords="415,430,616,471"/>
+</map>

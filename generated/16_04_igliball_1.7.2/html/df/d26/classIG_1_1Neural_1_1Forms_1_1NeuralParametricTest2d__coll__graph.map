@@ -1,0 +1,6 @@
+<map id="IG.Neural.Forms.NeuralParametricTest2d" name="IG.Neural.Forms.NeuralParametricTest2d">
+<area shape="rect" id="node5" href="$d1/d0d/classIG_1_1Neural_1_1Forms_1_1NeuralInputParameterSelectorMinMax.html" title="Selection of parameter to be varied, together with bounds &#45; for parametric tests." alt="" coords="441,442,628,484"/>
+<area shape="rect" id="node9" href="$d8/daf/classIG_1_1Neural_1_1Forms_1_1NeuralInputControl.html" title="Control for editing input parameter values." alt="" coords="441,201,628,242"/>
+<area shape="rect" id="node3" href="$d1/d98/interfaceIG_1_1Neural_1_1INeuralModelContainer.html" title="Interface for classes that contain the NeuralModel property that implements the INeuralModel interfac..." alt="" coords="35,151,187,178"/>
+<area shape="rect" id="node7" href="$d1/d98/interfaceIG_1_1Neural_1_1INeuralModelContainer.html" title="Interface for classes that contain the NeuralModel property that implements the INeuralModel interfac..." alt="" coords="5,732,216,759"/>
+</map>

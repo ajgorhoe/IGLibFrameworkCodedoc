@@ -1,0 +1,5 @@
+<map id="CShellCore.CodeCompletion.DataItems.EntityCompletionData" name="CShellCore.CodeCompletion.DataItems.EntityCompletionData">
+<area shape="rect" id="node6" href="$db/d4e/classCShellCore_1_1CodeCompletion_1_1DataItems_1_1ImportCompletionData.html" title="Completion item that introduces a using declaration. " alt="" coords="744,19,957,61"/>
+<area shape="rect" id="node7" title="Item for &#39;override&#39; completion. " alt="" coords="739,85,963,126"/>
+<area shape="rect" id="node2" href="$db/df6/classCShellCore_1_1CodeCompletion_1_1DataItems_1_1CompletionData.html" title="CompletionData" alt="" coords="299,35,414,61"/>
+</map>

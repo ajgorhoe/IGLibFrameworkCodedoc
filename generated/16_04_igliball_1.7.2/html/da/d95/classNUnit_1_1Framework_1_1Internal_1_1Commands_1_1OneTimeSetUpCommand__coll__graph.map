@@ -1,0 +1,12 @@
+<map id="NUnit.Framework.Internal.Commands.OneTimeSetUpCommand" name="NUnit.Framework.Internal.Commands.OneTimeSetUpCommand">
+<area shape="rect" id="node2" href="$d9/d0b/classNUnit_1_1Framework_1_1Internal_1_1Commands_1_1TestCommand.html" title="TestCommand is the abstract base class for all test commands in the framework. A TestCommand represen..." alt="" coords="653,5,759,32"/>
+<area shape="rect" id="node3" href="$d7/d49/classNUnit_1_1Framework_1_1List.html" title="NUnit.Framework.List\l\&lt; NUnit.Framework.Internal.\lCommands.SetUpTearDownItem \&gt;" alt="" coords="595,56,817,112"/>
+<area shape="rect" id="node4" href="$d7/d49/classNUnit_1_1Framework_1_1List.html" title="NUnit.Framework.List\l\&lt; NUnit.Framework.Internal.\lCommands.TestActionItem \&gt;" alt="" coords="611,136,801,192"/>
+<area shape="rect" id="node5" href="$d5/dff/interfaceNUnit_1_1Framework_1_1Interfaces_1_1ITypeInfo.html" title="The ITypeInfo interface is an abstraction of a .NET Type " alt="" coords="613,217,799,258"/>
+<area shape="rect" id="node6" href="$d5/dfa/interfaceNUnit_1_1Framework_1_1Interfaces_1_1IReflectionInfo.html" title="The IReflectionInfo interface is implemented by NUnit wrapper objects that perform reflection..." alt="" coords="363,224,465,251"/>
+<area shape="rect" id="node7" href="$d4/dec/classNUnit_1_1Framework_1_1Internal_1_1TestSuite.html" title="TestSuite represents a composite test, which contains other tests. " alt="" coords="620,282,792,323"/>
+<area shape="rect" id="node8" href="$d6/d59/classNUnit_1_1Framework_1_1Internal_1_1Test.html" title="The Test abstract class represents a test within the framework. " alt="" coords="391,281,437,308"/>
+<area shape="rect" id="node9" href="$d6/dd5/interfaceNUnit_1_1Framework_1_1Interfaces_1_1ITest.html" title="Common interface supported by all representations of a test. Only includes informational fields..." alt="" coords="193,247,243,273"/>
+<area shape="rect" id="node10" href="$d9/dc0/interfaceNUnit_1_1Framework_1_1Interfaces_1_1IXmlNodeBuilder.html" title="An object implementing IXmlNodeBuilder is able to build an XML representation of itself and any child..." alt="" coords="5,247,121,273"/>
+<area shape="rect" id="node12" href="$d7/d49/classNUnit_1_1Framework_1_1List.html" title="NUnit.Framework.List\l\&lt; NUnit.Framework.Interfaces.\lITest \&gt;" alt="" coords="315,332,513,388"/>
+</map>

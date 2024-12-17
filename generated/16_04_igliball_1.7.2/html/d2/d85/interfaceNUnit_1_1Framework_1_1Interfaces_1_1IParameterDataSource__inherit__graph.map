@@ -1,0 +1,21 @@
+<map id="NUnit.Framework.Interfaces.IParameterDataSource" name="NUnit.Framework.Interfaces.IParameterDataSource">
+<area shape="rect" id="node2" href="$de/db2/classNUnit_1_1Framework_1_1RandomAttribute.html" title="RandomAttribute is used to supply a set of random _values to a single parameter of a parameterized te..." alt="" coords="242,249,465,275"/>
+<area shape="rect" id="node3" href="$d8/d93/classNUnit_1_1Framework_1_1RandomAttribute_1_1RandomDataSource.html" title="NUnit.Framework.RandomAttribute.\lRandomDataSource" alt="" coords="240,300,467,341"/>
+<area shape="rect" id="node18" href="$da/db5/classNUnit_1_1Framework_1_1ValuesAttribute.html" title="ValuesAttribute is used to provide literal arguments for an individual parameter of a test..." alt="" coords="246,366,461,393"/>
+<area shape="rect" id="node20" href="$da/d49/classNUnit_1_1Framework_1_1ValueSourceAttribute.html" title="ValueSourceAttribute indicates the source to be used to provide data for one parameter of a test meth..." alt="" coords="253,417,453,459"/>
+<area shape="rect" id="node4" href="$db/d90/classNUnit_1_1Framework_1_1RandomAttribute_1_1EnumDataSource.html" title="NUnit.Framework.RandomAttribute.\lEnumDataSource" alt="" coords="515,201,741,243"/>
+<area shape="rect" id="node5" href="$db/d1a/classNUnit_1_1Framework_1_1RandomAttribute_1_1RandomDataConverter.html" title="NUnit.Framework.RandomAttribute.\lRandomDataConverter" alt="" coords="515,267,741,308"/>
+<area shape="rect" id="node6" href="$d7/df0/classNUnit_1_1Framework_1_1RandomAttribute_1_1RandomDataSource_3_01T_01_4.html" title="NUnit.Framework.RandomAttribute.\lRandomDataSource\&lt; T \&gt;" alt="" coords="515,332,741,373"/>
+<area shape="rect" id="node7" href="$d0/d90/classNUnit_1_1Framework_1_1RandomAttribute_1_1ByteDataSource.html" title="NUnit.Framework.RandomAttribute.\lByteDataSource" alt="" coords="789,5,1016,47"/>
+<area shape="rect" id="node8" href="$d3/dd7/classNUnit_1_1Framework_1_1RandomAttribute_1_1DecimalDataSource.html" title="NUnit.Framework.RandomAttribute.\lDecimalDataSource" alt="" coords="789,71,1016,112"/>
+<area shape="rect" id="node9" href="$d3/d35/classNUnit_1_1Framework_1_1RandomAttribute_1_1DoubleDataSource.html" title="NUnit.Framework.RandomAttribute.\lDoubleDataSource" alt="" coords="789,136,1016,177"/>
+<area shape="rect" id="node10" href="$d4/d83/classNUnit_1_1Framework_1_1RandomAttribute_1_1FloatDataSource.html" title="NUnit.Framework.RandomAttribute.\lFloatDataSource" alt="" coords="789,201,1016,243"/>
+<area shape="rect" id="node11" href="$dd/d77/classNUnit_1_1Framework_1_1RandomAttribute_1_1IntDataSource.html" title="NUnit.Framework.RandomAttribute.\lIntDataSource" alt="" coords="789,267,1016,308"/>
+<area shape="rect" id="node12" href="$dc/da4/classNUnit_1_1Framework_1_1RandomAttribute_1_1LongDataSource.html" title="NUnit.Framework.RandomAttribute.\lLongDataSource" alt="" coords="789,332,1016,373"/>
+<area shape="rect" id="node13" href="$d1/d99/classNUnit_1_1Framework_1_1RandomAttribute_1_1SByteDataSource.html" title="NUnit.Framework.RandomAttribute.\lSByteDataSource" alt="" coords="789,397,1016,439"/>
+<area shape="rect" id="node14" href="$d2/df2/classNUnit_1_1Framework_1_1RandomAttribute_1_1ShortDataSource.html" title="NUnit.Framework.RandomAttribute.\lShortDataSource" alt="" coords="789,463,1016,504"/>
+<area shape="rect" id="node15" href="$d4/d94/classNUnit_1_1Framework_1_1RandomAttribute_1_1UIntDataSource.html" title="NUnit.Framework.RandomAttribute.\lUIntDataSource" alt="" coords="789,528,1016,569"/>
+<area shape="rect" id="node16" href="$dc/d28/classNUnit_1_1Framework_1_1RandomAttribute_1_1ULongDataSource.html" title="NUnit.Framework.RandomAttribute.\lULongDataSource" alt="" coords="789,593,1016,635"/>
+<area shape="rect" id="node17" href="$de/d41/classNUnit_1_1Framework_1_1RandomAttribute_1_1UShortDataSource.html" title="NUnit.Framework.RandomAttribute.\lUShortDataSource" alt="" coords="789,659,1016,700"/>
+<area shape="rect" id="node19" href="$d8/d73/classNUnit_1_1Framework_1_1RangeAttribute.html" title="RangeAttribute is used to supply a range of _values to an individual parameter of a parameterized tes..." alt="" coords="522,398,734,425"/>
+</map>

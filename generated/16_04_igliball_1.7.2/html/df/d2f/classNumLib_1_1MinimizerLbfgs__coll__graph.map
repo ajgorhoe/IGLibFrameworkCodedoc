@@ -1,0 +1,5 @@
+<map id="NumLib.MinimizerLbfgs" name="NumLib.MinimizerLbfgs">
+<area shape="rect" id="node2" href="$d5/dae/classNumLib_1_1MinimizerBase.html" title="MinimizerBase" alt="" coords="49,95,157,121"/>
+<area shape="rect" id="node3" href="$d9/d48/classNumLib_1_1FunctionWithGradient.html" title="Base class for implementation of various functions with gradients." alt="" coords="5,5,201,32"/>
+<area shape="rect" id="node4" href="$da/d47/classAlgLib_1_1lbfgs.html" title="AlgLib.lbfgs" alt="" coords="181,95,271,121"/>
+</map>

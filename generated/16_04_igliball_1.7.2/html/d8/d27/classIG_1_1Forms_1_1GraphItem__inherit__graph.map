@@ -1,0 +1,5 @@
+<map id="IG.Forms.GraphItem" name="IG.Forms.GraphItem">
+<area shape="rect" id="node2" href="$d4/d97/classIG_1_1Forms_1_1GraphAxisItem.html" title="Contains data and methods for manipulating a single axis item of a graph. Axis items manipulate axis ..." alt="" coords="5,80,172,107"/>
+<area shape="rect" id="node3" href="$d3/d4e/classIG_1_1Forms_1_1GraphPlotItem.html" title="Representation of a plottable item contained in a graph." alt="" coords="197,80,359,107"/>
+<area shape="rect" id="node4" href="$df/d24/classIG_1_1Forms_1_1GraphLineItem.html" title="IG.Forms.GraphLineItem" alt="" coords="196,155,360,181"/>
+</map>

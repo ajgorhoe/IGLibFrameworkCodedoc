@@ -1,0 +1,6 @@
+<map id="IG.Gr3d.TestVtkGraphic" name="IG.Gr3d.TestVtkGraphic">
+<area shape="rect" id="node2" href="$dd/dff/classIG_1_1Gr3d_1_1TestVtkGraphicBase.html" title="Tests of 3D graphics enabled by ActiViz (VTK wrapper library)." alt="" coords="26,171,169,197"/>
+<area shape="rect" id="node3" href="$de/de7/classIG_1_1Lib_1_1StopWatch1.html" title="Timer for measuring execution times and other intervals of time elapsed between successive events..." alt="" coords="31,81,163,108"/>
+<area shape="rect" id="node4" href="$d3/db6/interfaceIG_1_1Lib_1_1ILockable.html" title="Lockable object, has a Lock property that returns object on which lock must be performed in order to ..." alt="" coords="5,5,83,32"/>
+<area shape="rect" id="node5" href="$dc/d79/interfaceIG_1_1Lib_1_1IIdentifiable.html" title="Classes whose instances have unique integer IDs." alt="" coords="107,5,194,32"/>
+</map>

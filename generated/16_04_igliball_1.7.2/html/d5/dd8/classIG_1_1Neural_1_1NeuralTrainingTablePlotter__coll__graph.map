@@ -1,0 +1,11 @@
+<map id="IG.Neural.NeuralTrainingTablePlotter" name="IG.Neural.NeuralTrainingTablePlotter">
+<area shape="rect" id="node2" href="$d1/d33/classIG_1_1Neural_1_1NeuralTrainingResultsPlotter.html" title="Plotter class for neural training results." alt="" coords="784,104,971,131"/>
+<area shape="rect" id="node3" href="$d3/db6/interfaceIG_1_1Lib_1_1ILockable.html" title="Lockable object, has a Lock property that returns object on which lock must be performed in order to ..." alt="" coords="435,168,512,195"/>
+<area shape="rect" id="node8" href="$d2/d4a/classIG_1_1Num_1_1NeuralTrainingTable.html" title="Contains Parameters that define neural network architecture and trainig limits, together with achieve..." alt="" coords="786,228,969,255"/>
+<area shape="rect" id="node4" href="$d5/dd5/classIG_1_1Num_1_1InputOutputDataDefiniton.html" title="Definition of input and output data for vector functions, approximations, etc. Contains descriptiove ..." alt="" coords="366,91,581,117"/>
+<area shape="rect" id="node5" href="$db/da0/classIG_1_1Num_1_1NeuralTrainingParameters.html" title="Contains Parameters that define neural network architecture and trainig procedure, together with achieved results after training such as various error norms. " alt="" coords="364,40,583,67"/>
+<area shape="rect" id="node6" href="$d3/d24/interfaceIG_1_1Num_1_1IVector.html" title="Real vector intrface." alt="" coords="25,249,136,276"/>
+<area shape="rect" id="node10" href="$d6/d82/classIG_1_1Num_1_1NeuralTrainingLimits.html" title="Contains Parameters that define neural network architecture limits and trainig parameter limits..." alt="" coords="380,295,567,321"/>
+<area shape="rect" id="node7" href="$db/d5e/interfaceIG_1_1Num_1_1IBoundingBox.html" title="Bounding box, defines minimum and maximum co&#45;ordinates of domains, geometric objects and their groups..." alt="" coords="5,13,156,40"/>
+<area shape="rect" id="node9" href="$d7/d49/classNUnit_1_1Framework_1_1List.html" title="NUnit.Framework.List\l\&lt; int \&gt;" alt="" coords="400,229,547,270"/>
+</map>

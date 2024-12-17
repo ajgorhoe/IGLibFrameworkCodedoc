@@ -1,0 +1,9 @@
+<map id="NUnit.Engine.Agents.RemoteTestAgent" name="NUnit.Engine.Agents.RemoteTestAgent">
+<area shape="rect" id="node2" href="$de/d9a/classNUnit_1_1Engine_1_1Agents_1_1TestAgent.html" title="Abstract base for all types of TestAgents. A TestAgent provides services of locating, loading and running tests in a particular context such as an AppDomain or Process. " alt="" coords="345,121,426,148"/>
+<area shape="rect" id="node4" href="$d7/dbf/interfaceNUnit_1_1Engine_1_1ITestAgent.html" title="The ITestAgent interface is implemented by remote test agents. " alt="" coords="59,107,143,133"/>
+<area shape="rect" id="node8" href="$d3/df0/interfaceNUnit_1_1Engine_1_1ITestEngineRunner.html" title="Interface implemented by all internal test runners in the engine, allowing them to pass back TestEngi..." alt="" coords="320,252,451,279"/>
+<area shape="rect" id="node10" href="$d3/df0/interfaceNUnit_1_1Engine_1_1ITestEngineRunner.html" title="Interface implemented by all internal test runners in the engine, allowing them to pass back TestEngi..." alt="" coords="300,186,471,227"/>
+<area shape="rect" id="node6" href="$d1/d4f/interfaceNUnit_1_1Engine_1_1ITestAgency.html" title="The ITestAgency interface is implemented by a TestAgency in order to allow TestAgents to register wit..." alt="" coords="13,5,188,32"/>
+<area shape="rect" id="node7" href="$d9/d51/interfaceNUnit_1_1Engine_1_1IServiceLocator.html" title="IServiceLocator allows clients to locate any NUnit services for which the interface is referenced..." alt="" coords="5,157,196,184"/>
+<area shape="rect" id="node9" href="$d8/d32/classNUnit_1_1Engine_1_1TestPackage.html" title="TestPackage holds information about a set of test files to be loaded by a TestRunner. Each TestPackage represents tests for one or more test files. TestPackages may be named or anonymous, depending on how they are constructed. " alt="" coords="296,303,475,329"/>
+</map>

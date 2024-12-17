@@ -1,0 +1,4 @@
+<map id="NUnit.Common.ExtendedTextWriter" name="NUnit.Common.ExtendedTextWriter">
+<area shape="rect" id="node3" href="$dd/da2/classNUnit_1_1Common_1_1ExtendedTextWrapper.html" title="ExtendedTextWrapper wraps a TextWriter and makes it look like an ExtendedTextWriter. All style indications are ignored. It&#39;s used when text is being written to a file. " alt="" coords="5,169,200,211"/>
+<area shape="rect" id="node4" href="$db/d74/classNUnit_1_1Common_1_1ColorConsoleWriter.html" title="NUnit.Common.ColorConsole\lWriter" alt="" coords="7,259,198,300"/>
+</map>

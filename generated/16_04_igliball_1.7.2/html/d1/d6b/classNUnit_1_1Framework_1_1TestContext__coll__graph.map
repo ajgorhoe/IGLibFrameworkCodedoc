@@ -1,0 +1,14 @@
+<map id="NUnit.Framework.TestContext" name="NUnit.Framework.TestContext">
+<area shape="rect" id="node2" href="$dc/d67/classNUnit_1_1Framework_1_1Internal_1_1TestExecutionContext.html" title="Helper class used to save and restore certain static or singleton settings in the environment that af..." alt="" coords="837,189,1009,230"/>
+<area shape="rect" id="node3" href="$d8/d34/classNUnit_1_1Framework_1_1Compatibility_1_1LongLivedMarshalByRefObject.html" title="A MarshalByRefObject that lives forever " alt="" coords="461,123,659,149"/>
+<area shape="rect" id="node6" href="$d3/d0a/classNUnit_1_1Framework_1_1Internal_1_1Randomizer.html" title="Randomizer returns a set of random _values in a repeatable way, to allow re&#45;running of tests if neces..." alt="" coords="474,225,646,266"/>
+<area shape="rect" id="node8" href="$dd/dfe/classNUnit_1_1Framework_1_1Internal_1_1TestResult.html" title="The TestResult class represents the result of a test. " alt="" coords="474,355,646,397"/>
+<area shape="rect" id="node18" href="$dd/d80/classNUnit_1_1Framework_1_1TestContext_1_1ResultAdapter.html" title="ResultAdapter adapts a TestResult for consumption by the user test code. " alt="" coords="823,294,1023,335"/>
+<area shape="rect" id="node9" href="$d2/df9/interfaceNUnit_1_1Framework_1_1Interfaces_1_1ITestResult.html" title="The ITestResult interface represents the result of a test. " alt="" coords="198,363,285,389"/>
+<area shape="rect" id="node10" href="$d9/dc0/interfaceNUnit_1_1Framework_1_1Interfaces_1_1IXmlNodeBuilder.html" title="An object implementing IXmlNodeBuilder is able to build an XML representation of itself and any child..." alt="" coords="5,181,121,208"/>
+<area shape="rect" id="node16" href="$d6/dd5/interfaceNUnit_1_1Framework_1_1Interfaces_1_1ITest.html" title="Common interface supported by all representations of a test. Only includes informational fields..." alt="" coords="216,64,267,91"/>
+<area shape="rect" id="node12" href="$d0/d90/interfaceNUnit_1_1Framework_1_1Internal_1_1Execution_1_1IWorkItemDispatcher.html" title="An IWorkItemDispatcher handles execution of work items. " alt="" coords="457,57,663,98"/>
+<area shape="rect" id="node13" href="$de/d53/interfaceNUnit_1_1Framework_1_1Interfaces_1_1ITestListener.html" title="The ITestListener interface is used internally to receive notifications of significant events while a..." alt="" coords="467,290,653,331"/>
+<area shape="rect" id="node14" href="$dc/d43/classNUnit_1_1Framework_1_1TestContext_1_1TestAdapter.html" title="TestAdapter adapts a Test for consumption by the user test code. " alt="" coords="823,34,1023,75"/>
+<area shape="rect" id="node15" href="$d6/d59/classNUnit_1_1Framework_1_1Internal_1_1Test.html" title="The Test abstract class represents a test within the framework. " alt="" coords="461,5,659,32"/>
+</map>

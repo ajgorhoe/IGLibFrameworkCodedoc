@@ -1,0 +1,8 @@
+<map id="CShell.Framework.ModuleBase" name="CShell.Framework.ModuleBase">
+<area shape="rect" id="node4" href="$d9/d4f/classCShell_1_1Modules_1_1Editors_1_1Module.html" title="CShell.Modules.Editors.Module" alt="" coords="563,5,767,32"/>
+<area shape="rect" id="node5" href="$d0/dd7/classCShell_1_1Modules_1_1Help_1_1Module.html" title="CShell.Modules.Help.Module" alt="" coords="570,56,759,83"/>
+<area shape="rect" id="node6" href="$df/df5/classCShell_1_1Modules_1_1Repl_1_1Module.html" title="CShell.Modules.Repl.Module" alt="" coords="570,107,759,133"/>
+<area shape="rect" id="node7" href="$d6/dec/classCShell_1_1Modules_1_1Shell_1_1Module.html" title="CShell.Modules.Shell.Module" alt="" coords="569,157,761,184"/>
+<area shape="rect" id="node8" href="$d0/de5/classCShell_1_1Modules_1_1Workspace_1_1Module.html" title="CShell.Modules.Workspace.\lModule" alt="" coords="571,209,758,250"/>
+<area shape="rect" id="node2" href="$d5/d7d/interfaceCShell_1_1Framework_1_1IModule.html" title="IModule" alt="" coords="196,107,263,133"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="CShell.Modules.Repl.ViewModels.ReplViewModel" name="CShell.Modules.Repl.ViewModels.ReplViewModel">
+<area shape="rect" id="node2" href="$da/d37/classCShell_1_1Framework_1_1Tool.html" title="Tool" alt="" coords="359,33,405,60"/>
+<area shape="rect" id="node3" href="$d5/d57/classCShell_1_1Framework_1_1LayoutItemBase.html" title="LayoutItemBase" alt="" coords="121,5,237,32"/>
+<area shape="rect" id="node5" href="$d0/df2/interfaceCShell_1_1Framework_1_1ITool.html" title="ITool" alt="" coords="155,63,204,89"/>
+<area shape="rect" id="node7" href="$d0/dad/interfaceCShell_1_1Framework_1_1Services_1_1IRepl.html" title="IRepl" alt="" coords="357,84,407,111"/>
+<area shape="rect" id="node10" href="$d0/dad/interfaceCShell_1_1Framework_1_1Services_1_1IRepl.html" title="CShell.Framework.Services.\lIRepl" alt="" coords="289,266,475,307"/>
+<area shape="rect" id="node11" href="$d9/da1/interfaceCShell_1_1Framework_1_1Services_1_1IShell.html" title="CShell.Framework.Services.\lIShell" alt="" coords="289,331,475,373"/>
+<area shape="rect" id="node13" href="$dc/d1a/interfaceCShell_1_1Modules_1_1Repl_1_1Views_1_1IReplView.html" title="CShell.Modules.Repl.Views.\lIReplView" alt="" coords="289,397,475,438"/>
+</map>

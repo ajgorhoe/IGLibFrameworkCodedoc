@@ -1,0 +1,26 @@
+var classIPLab_1_1PixelateForm =
+[
+    [ "PixelateForm", "d5/dec/classIPLab_1_1PixelateForm.html#abe3751348062bdb23cb0c6d1cd2bcfc7", null ],
+    [ "Dispose", "d5/dec/classIPLab_1_1PixelateForm.html#a47e8ac53dd8227b3aa8c50276a0fb060", null ],
+    [ "InitializeComponent", "d5/dec/classIPLab_1_1PixelateForm.html#aacb0fc98f7d431f25a1529b45538f391", null ],
+    [ "sizeBox_TextChanged", "d5/dec/classIPLab_1_1PixelateForm.html#a25e4726549755aa53f8196fe8eb84858", null ],
+    [ "widthTrackBar_Scroll", "d5/dec/classIPLab_1_1PixelateForm.html#a0295b0b1617142c9a95b825b5275ab2b", null ],
+    [ "heightBox_TextChanged", "d5/dec/classIPLab_1_1PixelateForm.html#aa1930285e2deb6c7d95de073fc8c1ace", null ],
+    [ "heightTrackBar_Scroll", "d5/dec/classIPLab_1_1PixelateForm.html#a010186f3fbbd1f7954a2de3a5c3b7c5a", null ],
+    [ "filter", "d5/dec/classIPLab_1_1PixelateForm.html#adf07c4e777d893f2a37d92d8d66fc2f2", null ],
+    [ "label1", "d5/dec/classIPLab_1_1PixelateForm.html#a436d702bcf7ee5759cdb8001bf0143d6", null ],
+    [ "groupBox1", "d5/dec/classIPLab_1_1PixelateForm.html#aa6fe2b6fcfb7bb33747371d93940b527", null ],
+    [ "filterPreview", "d5/dec/classIPLab_1_1PixelateForm.html#a22ff0d860b0c01da76563e4fc75a603f", null ],
+    [ "pictureBox1", "d5/dec/classIPLab_1_1PixelateForm.html#acb0b5995696d551846aeb6511e92ccbe", null ],
+    [ "okButton", "d5/dec/classIPLab_1_1PixelateForm.html#a4c202b9ca6b879f352da230440035880", null ],
+    [ "cancelButton", "d5/dec/classIPLab_1_1PixelateForm.html#a59a5311cdbcfa2462ab1091b02f08a69", null ],
+    [ "widthBox", "d5/dec/classIPLab_1_1PixelateForm.html#ab29aafb8de9497ab06bac2f59c215c7b", null ],
+    [ "widthTrackBar", "d5/dec/classIPLab_1_1PixelateForm.html#a8907daaba32bc6e12cd3524f1b793950", null ],
+    [ "label2", "d5/dec/classIPLab_1_1PixelateForm.html#a4e723611c1de15aef10da2671641dec3", null ],
+    [ "heightBox", "d5/dec/classIPLab_1_1PixelateForm.html#a87be6c98c6cfd2b452f760df15fe0841", null ],
+    [ "heightTrackBar", "d5/dec/classIPLab_1_1PixelateForm.html#a75e618fabc4ef48e7a1a714db807ca43", null ],
+    [ "syncCheck", "d5/dec/classIPLab_1_1PixelateForm.html#a04e19204fc826f02c53a8074c99591c9", null ],
+    [ "components", "d5/dec/classIPLab_1_1PixelateForm.html#a4813192ce61f27fa97f3ce69d87fbc0a", null ],
+    [ "Image", "d5/dec/classIPLab_1_1PixelateForm.html#a957747fc3c5375ee1f68d20d74b7a190", null ],
+    [ "Filter", "d5/dec/classIPLab_1_1PixelateForm.html#aa2e15a937d44bbc9351df179646ea401", null ]
+];

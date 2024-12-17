@@ -1,0 +1,13 @@
+<map id="IG.Script.AppShellExt" name="IG.Script.AppShellExt">
+<area shape="rect" id="node2" href="$d0/dec/classIG_1_1Script_1_1AppExtBase.html" title="Internal script for running embedded applications." alt="" coords="431,635,526,661"/>
+<area shape="rect" id="node3" href="$d5/d63/classIG_1_1Script_1_1AppBase.html" title="Base cls. for application scripts that can also be used on its own." alt="" coords="441,544,516,571"/>
+<area shape="rect" id="node4" href="$db/da4/classIG_1_1Script_1_1ScriptAppBase.html" title="Partial class definition containing tests of CSV utilities. " alt="" coords="516,437,625,464"/>
+<area shape="rect" id="node5" href="$da/d52/classIG_1_1Script_1_1LoadableScriptSpecialFunctionBase.html" title="Base cls. for various special function loadable scripts." alt="" coords="567,193,798,219"/>
+<area shape="rect" id="node6" href="$d7/d15/classIG_1_1Lib_1_1LoadableScriptBase.html" title="Base class for classes that can be dynamically loadeded from scripts and run, which provides function..." alt="" coords="617,109,756,136"/>
+<area shape="rect" id="node7" href="$d7/d66/interfaceIG_1_1Lib_1_1ILoadableScript.html" title="Interface for classes that can be dynamically loadeded from scripts and run, which provides functiona..." alt="" coords="493,13,603,39"/>
+<area shape="rect" id="node8" href="$d3/db6/interfaceIG_1_1Lib_1_1ILockable.html" title="Lockable object, has a Lock property that returns object on which lock must be performed in order to ..." alt="" coords="648,13,725,39"/>
+<area shape="rect" id="node9" href="$de/dfd/interfaceIG_1_1Lib_1_1ICommandLineApplicationInterpreter.html" title="Interface for simple command&#45;line applicatino interpreters." alt="" coords="775,5,985,47"/>
+<area shape="rect" id="node10" href="$d7/d49/classNUnit_1_1Framework_1_1List.html" title="NUnit.Framework.List\l\&lt; string \&gt;" alt="" coords="148,185,295,227"/>
+<area shape="rect" id="node11" href="$df/d8d/classIG_1_1Forms_1_1HashForm.html" title="IG.Forms.HashForm" alt="" coords="1037,544,1177,571"/>
+<area shape="rect" id="node13" href="$d7/d96/classIG_1_1Forms_1_1HashControl.html" title="IG.Forms.HashControl" alt="" coords="874,437,1025,464"/>
+</map>

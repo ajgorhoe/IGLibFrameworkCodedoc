@@ -1,0 +1,11 @@
+<map id="IG.Sim.ISimulationComponentDto" name="IG.Sim.ISimulationComponentDto">
+<area shape="rect" id="node2" href="$df/d02/classIG_1_1Sim_1_1SimDomainDto.html" title="Base class for simulation domains." alt="" coords="282,11,435,37"/>
+<area shape="rect" id="node3" href="$db/d00/classIG_1_1Sim_1_1SimFieldBaseDto_3_01FieldType_01_4.html" title="Base class for simulation field DTOs (data transfer objects). " alt="" coords="275,62,442,103"/>
+<area shape="rect" id="node7" href="$d3/d99/classIG_1_1Sim_1_1SimFieldElemetDto_3_01FieldType_01_4.html" title="Base class for a DTO that holds node values of a single element (component) of a specific simulation ..." alt="" coords="269,179,448,221"/>
+<area shape="rect" id="node8" href="$d5/deb/classIG_1_1Sim_1_1SimScalarFieldElementDto_3_01FieldType_01_4.html" title="Base class for a DTO that holds node values of a single element (component) of a specific scalar fiel..." alt="" coords="497,158,699,199"/>
+<area shape="rect" id="node9" href="$d3/d44/classIG_1_1Sim_1_1SimTensorFieldElementDto_3_01FieldType_01_4.html" title="Base class for a DTO that holds node values of a single element (component) of a specific tensor fiel..." alt="" coords="496,223,700,265"/>
+<area shape="rect" id="node10" href="$dd/dba/classIG_1_1Sim_1_1SimVectorFieldElementDto_3_01FieldType_01_4.html" title="Base class for a DTO that holds node values of a single element (component) of a specific vector fiel..." alt="" coords="497,289,699,330"/>
+<area shape="rect" id="node4" href="$d2/d71/classIG_1_1Sim_1_1SimScalarFieldDto.html" title="Scalar field." alt="" coords="511,5,685,32"/>
+<area shape="rect" id="node5" href="$de/df0/classIG_1_1Sim_1_1SimTensorFieldDto.html" title="Tensor field." alt="" coords="510,56,686,83"/>
+<area shape="rect" id="node6" href="$d9/db7/classIG_1_1Sim_1_1SimVectorFieldDto.html" title="Vector field." alt="" coords="511,107,685,133"/>
+</map>

@@ -1,0 +1,28 @@
+var classIPLab_1_1FourierDoc =
+[
+    [ "FourierDoc", "d8/d84/classIPLab_1_1FourierDoc.html#ad6757434eaa13113dd5217c221ea6da7", null ],
+    [ "Dispose", "d8/d84/classIPLab_1_1FourierDoc.html#a6907953bf102f45cacf49b888f302970", null ],
+    [ "InitializeComponent", "d8/d84/classIPLab_1_1FourierDoc.html#a3349ce76329940c75e566b2d41f6d5eb", null ],
+    [ "UpdateNewImage", "d8/d84/classIPLab_1_1FourierDoc.html#aabfcbddad0e04ea32847227d44fb6a66", null ],
+    [ "OnPaint", "d8/d84/classIPLab_1_1FourierDoc.html#a05a6f4a5fc8393cd891d3a27fd3f1f31", null ],
+    [ "backwardFourierItem_Click", "d8/d84/classIPLab_1_1FourierDoc.html#a4c3d8b0c5039e03978dbcaff9f084923", null ],
+    [ "frequencyFilterFourierItem_Click", "d8/d84/classIPLab_1_1FourierDoc.html#a7a0e53f7ad0a999ece7ce061754c8258", null ],
+    [ "undoFourierItem_Click", "d8/d84/classIPLab_1_1FourierDoc.html#aca531d088b5f3265cbd28542af1e7de3", null ],
+    [ "fourierItem_Popup", "d8/d84/classIPLab_1_1FourierDoc.html#ac9e273d3b3ad167ce71111f64738caab", null ],
+    [ "image", "d8/d84/classIPLab_1_1FourierDoc.html#ac2b4fa4d41c5eb5c24c0734e40cc09db", null ],
+    [ "backup", "d8/d84/classIPLab_1_1FourierDoc.html#a32ac741cbe61e258d5c9e30ce01b877e", null ],
+    [ "bitmap", "d8/d84/classIPLab_1_1FourierDoc.html#a3b5bd32d206d24e86803f783b45d42ba", null ],
+    [ "width", "d8/d84/classIPLab_1_1FourierDoc.html#ab341e6ce99122a23299abdf61cb4569f", null ],
+    [ "height", "d8/d84/classIPLab_1_1FourierDoc.html#a72fdb7f2d0e74e1fd9b1804e9ef49f2f", null ],
+    [ "host", "d8/d84/classIPLab_1_1FourierDoc.html#a101301c2f1910d42cb690ea60e9fde77", null ],
+    [ "mainMenu", "d8/d84/classIPLab_1_1FourierDoc.html#ace0c71c3c308b400be670a4d1eb90ba4", null ],
+    [ "fourierItem", "d8/d84/classIPLab_1_1FourierDoc.html#a4d89d906d525a04e6ad0375ca7507c44", null ],
+    [ "backwardFourierItem", "d8/d84/classIPLab_1_1FourierDoc.html#a8d0f9b2f733eb39eb8eee2175005660e", null ],
+    [ "menuItem1", "d8/d84/classIPLab_1_1FourierDoc.html#a0cd85ba2d89ba44d2cce286e6c7aeeb0", null ],
+    [ "frequencyFilterFourierItem", "d8/d84/classIPLab_1_1FourierDoc.html#aa475d8befa423e731781de9eb21f3642", null ],
+    [ "undoFourierItem", "d8/d84/classIPLab_1_1FourierDoc.html#a7fc3ded1418d237626cce37c33bebead", null ],
+    [ "components", "d8/d84/classIPLab_1_1FourierDoc.html#abd45774cf67a9cca56052521a8f61f30", null ],
+    [ "Image", "d8/d84/classIPLab_1_1FourierDoc.html#a97caca2907a0338cbaca7124abe2e301", null ],
+    [ "ImageWidth", "d8/d84/classIPLab_1_1FourierDoc.html#ac3d778e68c1dbf3a2fd74ea675a9a1da", null ],
+    [ "ImageHeight", "d8/d84/classIPLab_1_1FourierDoc.html#aba91a94cf423c95397894b2a62004e19", null ]
+];

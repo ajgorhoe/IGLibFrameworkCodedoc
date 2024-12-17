@@ -1,0 +1,23 @@
+<map id="IG.Script.LoadableScriptSpecialFunctionBase" name="IG.Script.LoadableScriptSpecialFunctionBase">
+<area shape="rect" id="node5" href="$de/dbd/classIG_1_1Script_1_1LoadableScriptScalarFunctionCreator.html" title="IG.Script.LoadableScript\lScalarFunctionCreator" alt="" coords="562,66,725,107"/>
+<area shape="rect" id="node6" href="$db/da4/classIG_1_1Script_1_1ScriptAppBase.html" title="Partial class definition containing tests of CSV utilities. " alt="" coords="561,132,725,159"/>
+<area shape="rect" id="node2" href="$d7/d15/classIG_1_1Lib_1_1LoadableScriptBase.html" title="Base class for classes that can be dynamically loadeded from scripts and run, which provides function..." alt="" coords="164,128,303,155"/>
+<area shape="rect" id="node3" href="$d7/d66/interfaceIG_1_1Lib_1_1ILoadableScript.html" title="Interface for classes that can be dynamically loadeded from scripts and run, which provides functiona..." alt="" coords="5,77,116,104"/>
+<area shape="rect" id="node4" href="$d3/db6/interfaceIG_1_1Lib_1_1ILockable.html" title="Lockable object, has a Lock property that returns object on which lock must be performed in order to ..." alt="" coords="22,128,99,155"/>
+<area shape="rect" id="node7" href="$d5/d63/classIG_1_1Script_1_1AppBase.html" title="Base cls. for application scripts that can also be used on its own." alt="" coords="773,132,904,159"/>
+<area shape="rect" id="node8" href="$db/dff/classIG_1_1App_1_1AppHashShell.html" title="Internal script for running embedded applications." alt="" coords="978,15,1126,41"/>
+<area shape="rect" id="node9" href="$d5/dc1/classIG_1_1Script_1_1AppEmbeddedCryptoIGShell.html" title="Embedded script class for cryptographic utilities such as calculation and verification of file hashes..." alt="" coords="952,66,1152,107"/>
+<area shape="rect" id="node10" href="$d0/dec/classIG_1_1Script_1_1AppExtBase.html" title="Internal script for running embedded applications." alt="" coords="977,132,1127,159"/>
+<area shape="rect" id="node20" href="$db/d07/classIG_1_1Script_1_1AppIgorForFerdo.html" title="Internal script for running embedded applications. " alt="" coords="965,183,1139,209"/>
+<area shape="rect" id="node22" href="$d5/d77/classIG_1_1Script_1_1AppIGShell.html" title="Internal script for running embedded applications." alt="" coords="981,233,1123,260"/>
+<area shape="rect" id="node11" href="$d9/d4e/classIG_1_1Script_1_1AppIgorGresovnik.html" title="Internal script for running embedded applications. " alt="" coords="1200,56,1379,83"/>
+<area shape="rect" id="node17" href="$da/d0b/classIG_1_1Script_1_1AppShellExt.html" title="Internal script for running embedded applications." alt="" coords="1215,107,1364,133"/>
+<area shape="rect" id="node18" href="$d2/df3/classIG_1_1Script_1_1AppTestShell.html" title="Internal script for running embedded applications." alt="" coords="1212,157,1367,184"/>
+<area shape="rect" id="node12" href="$dc/de4/classIG_1_1Script_1_1AppMarkoEmbeddedTest.html" title="Test embedded script class, used to demonstrate how nested embedded scripts can be run by the main sc..." alt="" coords="1427,5,1649,32"/>
+<area shape="rect" id="node13" href="$dd/d51/classIG_1_1Script_1_1AppMarkoPetek.html" title="Internal script for running embedded applications." alt="" coords="1453,56,1623,83"/>
+<area shape="rect" id="node14" href="$dd/d84/classIG_1_1Script_1_1AppMarkoPetekDerivedScript.html" title="Tells to the interpreter, which custom classes are available." alt="" coords="1697,19,1909,61"/>
+<area shape="rect" id="node15" href="$d0/d8c/classIG_1_1Script_1_1AppMarkoPetekExt.html" title="Internal script for running EXTENDED embedded applications." alt="" coords="1708,85,1899,112"/>
+<area shape="rect" id="node16" href="$db/d4d/classIG_1_1Script_1_1AppMarkoPetekDerivedScriptExt.html" title="Tells to the interpreter, which custom classes are available." alt="" coords="1957,78,2169,119"/>
+<area shape="rect" id="node19" href="$d4/dfe/classIG_1_1Script_1_1AppTestShellExt.html" title="Internal script for running embedded applications." alt="" coords="1451,157,1625,184"/>
+<area shape="rect" id="node21" href="$d9/d52/classIG_1_1Script_1_1AppFerdo.html" title="Internal script for running embedded applications." alt="" coords="1223,208,1356,235"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="NUnit.Framework.TestActionAttribute" name="NUnit.Framework.TestActionAttribute">
+<area shape="rect" id="node4" href="$da/d11/classNUnit_1_1Framework_1_1Internal_1_1TestFixtureTests_1_1FixtureNotNullTestAttribute.html" title="NUnit.Framework.Internal.\lTestFixtureTests.FixtureNotNull\lTestAttribute" alt="" coords="376,5,581,61"/>
+<area shape="rect" id="node5" href="$d8/d9c/classNUnit_1_1TestData_1_1ActionAttributeTests_1_1TaggedActionAttribute.html" title="NUnit.TestData.ActionAttribute\lTests.TaggedActionAttribute" alt="" coords="379,86,579,127"/>
+<area shape="rect" id="node3" href="$d9/d1f/interfaceNUnit_1_1Framework_1_1ITestAction.html" title="When implemented by an attribute, this interface implemented to provide actions to execute before and..." alt="" coords="5,83,92,109"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node2" href="$da/d35/classalglib_1_1alglibexception.html" title="alglib.alglibexception" alt="" coords="176,5,319,32"/>
+<area shape="rect" id="node3" href="$d8/d66/classEFA__WS_1_1InsertIntoEfaPaketException.html" title="EFA_WS.InsertIntoEfaPaket\lException" alt="" coords="154,57,341,98"/>
+<area shape="rect" id="node4" href="$da/d94/classEFA__WS_1_1SaveXmlToDiskException.html" title="EFA_WS.SaveXmlToDiskException" alt="" coords="133,123,361,149"/>
+<area shape="rect" id="node5" href="$d5/d04/classIG_1_1MPetekLib_1_1Algorithms_1_1PlottableModels_1_1Oscillators_1_1CalcResonanceException.html" title="IG.MPetekLib.Algorithms.\lPlottableModels.Oscillators.\lCalcResonanceException" alt="" coords="155,173,340,229"/>
+<area shape="rect" id="node6" href="$df/de8/classMono_1_1Options_1_1OptionException.html" title="Mono.Options.OptionException" alt="" coords="146,253,349,280"/>
+<area shape="rect" id="node7" href="$d2/dc2/classNUnit_1_1Engine_1_1NUnitEngineException.html" title="NUnitEngineException is thrown when the engine has been called with improper values or when a particu..." alt="" coords="160,305,335,346"/>
+<area shape="rect" id="node8" href="$d6/d36/classNUnit_1_1Engine_1_1NUnitEngineNotFoundException.html" title="The exception that is thrown if a valid test engine is not found " alt="" coords="160,370,335,411"/>
+</map>

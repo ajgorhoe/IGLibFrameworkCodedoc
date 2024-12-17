@@ -1,0 +1,5 @@
+<map id="IG.Lib.CommandStackFrame&lt; InterpreterType &gt;" name="IG.Lib.CommandStackFrame&lt; InterpreterType &gt;">
+<area shape="rect" id="node2" href="$d9/da4/classIG_1_1Lib_1_1CommandStackFrame_3_01InterpreterType_00_01ThreadType_01_4.html" title="Stack frame for a block of command&#45;line interpreter commands." alt="" coords="5,244,224,300"/>
+<area shape="rect" id="node3" href="$dd/d71/classIG_1_1Lib_1_1CommandStackFrameBase.html" title="Base class for classes of type CommandStackFrame{InterpreterType, ThreadType}see cref=&quot;&quot;/&gt;. Contains everyting that does not depend on specific type of generic parameters." alt="" coords="23,168,206,195"/>
+<area shape="rect" id="node4" href="$d7/d49/classNUnit_1_1Framework_1_1List.html" title="NUnit.Framework.List\l\&lt; string \&gt;" alt="" coords="41,5,188,47"/>
+</map>

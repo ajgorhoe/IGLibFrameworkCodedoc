@@ -1,0 +1,252 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node2" href="$d5/db3/classCSReceiveWM__COPYDATA_1_1ServerForm.html" title="CSReceiveWM_COPYDATA.ServerForm" alt="" coords="531,1667,788,1694"/>
+<area shape="rect" id="node3" href="$d2/d8d/classCSSendWM__COPYDATA_1_1ClientForm.html" title="CSSendWM_COPYDATA.ClientForm" alt="" coords="540,1718,779,1745"/>
+<area shape="rect" id="node4" href="$d0/d86/classHelloVTKForm_1_1Form1.html" title="HelloVTKForm.Form1" alt="" coords="586,1769,733,1795"/>
+<area shape="rect" id="node5" href="$d3/de3/classIG_1_1Forms_1_1AlignmentTestForm.html" title="Test form, used only to test if control can be inclded in the form.." alt="" coords="563,2275,756,2302"/>
+<area shape="rect" id="node6" href="$d4/dc9/classIG_1_1Forms_1_1AssemblyInfoForm.html" title="IG.Forms.AssemblyInfoForm" alt="" coords="565,1819,753,1846"/>
+<area shape="rect" id="node7" href="$d3/d68/classIG_1_1Forms_1_1BrowserSimpleForm.html" title="IG.Forms.BrowserSimpleForm" alt="" coords="561,1870,758,1897"/>
+<area shape="rect" id="node8" href="$d7/d49/classIG_1_1Forms_1_1BrowserSimpleWindow.html" title="IG.Forms.BrowserSimpleWindow" alt="" coords="553,1921,766,1947"/>
+<area shape="rect" id="node9" href="$d9/d56/classIG_1_1Forms_1_1CompilerForm.html" title="IG.Forms.CompilerForm" alt="" coords="579,1971,740,1998"/>
+<area shape="rect" id="node10" href="$d8/d28/classIG_1_1Forms_1_1CompilerFormOld.html" title="IG.Forms.CompilerFormOld" alt="" coords="569,2022,750,2049"/>
+<area shape="rect" id="node11" href="$d0/d44/classIG_1_1Forms_1_1ControlViewerForm.html" title="Windows form (System.Windows.Forms.Form) that can launch and show arbitrary controls and can create t..." alt="" coords="564,2073,755,2099"/>
+<area shape="rect" id="node12" href="$d8/d0e/classIG_1_1Forms_1_1CookingTimerForm.html" title="IG.Forms.CookingTimerForm" alt="" coords="565,2123,754,2150"/>
+<area shape="rect" id="node13" href="$db/de0/classIG_1_1Forms_1_1DialogForm.html" title="IG.Forms.DialogForm" alt="" coords="586,2174,733,2201"/>
+<area shape="rect" id="node14" href="$d6/df5/classIG_1_1Forms_1_1DialogFormDemoForm.html" title="IG.Forms.DialogFormDemoForm" alt="" coords="554,2225,765,2251"/>
+<area shape="rect" id="node15" href="$d0/d47/classIG_1_1Forms_1_1FileViewerForm.html" title="IG.Forms.FileViewerForm" alt="" coords="574,2326,745,2353"/>
+<area shape="rect" id="node16" href="$d3/d83/classIG_1_1Forms_1_1GraphWindowTemplate__Old.html" title="Form used for plots." alt="" coords="539,2377,780,2403"/>
+<area shape="rect" id="node17" href="$df/d8d/classIG_1_1Forms_1_1HashForm.html" title="IG.Forms.HashForm" alt="" coords="589,2427,729,2454"/>
+<area shape="rect" id="node18" href="$de/d2b/classIG_1_1Forms_1_1ImageViewerForm.html" title="IG.Forms.ImageViewerForm" alt="" coords="567,2478,751,2505"/>
+<area shape="rect" id="node19" href="$dd/d44/classIG_1_1Forms_1_1IndicatorLightTestForm.html" title="IG.Forms.IndicatorLightTestForm" alt="" coords="553,2529,765,2555"/>
+<area shape="rect" id="node20" href="$d5/dc2/classIG_1_1Forms_1_1InputOutputDataDefinitionForm.html" title="IG.Forms.InputOutputData\lDefinitionForm" alt="" coords="572,2580,747,2621"/>
+<area shape="rect" id="node21" href="$db/d15/classIG_1_1Forms_1_1MathematicaCalculatorApp.html" title="IG.Forms.MathematicaCalculatorApp" alt="" coords="541,2646,777,2673"/>
+<area shape="rect" id="node22" href="$d4/dd9/classIG_1_1Forms_1_1MessageBoxLauncher.html" title="An exemple form that launches various message boxes. " alt="" coords="555,2697,764,2723"/>
+<area shape="rect" id="node23" href="$da/d6f/classIG_1_1Forms_1_1ResourceViewerForm.html" title="IG.Forms.ResourceViewerForm" alt="" coords="557,2747,761,2774"/>
+<area shape="rect" id="node24" href="$db/dab/classIG_1_1Forms_1_1ScalarFunctionEvaluatorForm.html" title="Control for test evaluation of scalar functions. " alt="" coords="534,2798,785,2825"/>
+<area shape="rect" id="node25" href="$d3/d8a/classIG_1_1Forms_1_1ScalarFunctionScriptForm.html" title="Window for definition of scalar functions by user defined expressions (through script loader)..." alt="" coords="544,2849,775,2875"/>
+<area shape="rect" id="node26" href="$df/d39/classIG_1_1Forms_1_1ScriptLoaderForm.html" title="IG.Forms.ScriptLoaderForm" alt="" coords="568,2899,751,2926"/>
+<area shape="rect" id="node27" href="$d3/d5b/classIG_1_1Forms_1_1sendigence__test__form.html" title="IG.Forms.sendigence\l_test_form" alt="" coords="586,2951,733,2992"/>
+<area shape="rect" id="node28" href="$dd/d69/classIG_1_1Forms_1_1SoundPlayerFormSimple.html" title="IG.Forms.SoundPlayerForm\lSimple" alt="" coords="567,3016,751,3057"/>
+<area shape="rect" id="node29" href="$db/db9/classIG_1_1Forms_1_1TestForm.html" title="Test form." alt="" coords="592,3569,727,3595"/>
+<area shape="rect" id="node30" href="$d9/d59/classIG_1_1Forms_1_1TestFormSandbox.html" title="IG.Forms.TestFormSandbox" alt="" coords="566,3082,753,3109"/>
+<area shape="rect" id="node31" href="$d8/d86/classIG_1_1Forms_1_1TestLayoutForm.html" title="IG.Forms.TestLayoutForm" alt="" coords="572,3133,747,3159"/>
+<area shape="rect" id="node32" href="$d3/d6f/classIG_1_1Forms_1_1TimerForm.html" title="IG.Forms.TimerForm" alt="" coords="588,3183,731,3210"/>
+<area shape="rect" id="node33" href="$dd/d10/classIG_1_1Forms_1_1VectorFunctionPlotter1dForm.html" title="IG.Forms.VectorFunctionPlotter1dForm" alt="" coords="534,3234,785,3261"/>
+<area shape="rect" id="node34" href="$d4/def/classIG_1_1Forms_1_1VectorFunctionPlotter2dForm.html" title="IG.Forms.VectorFunctionPlotter2dForm" alt="" coords="534,3285,785,3311"/>
+<area shape="rect" id="node35" href="$db/d68/classIG_1_1Forms_1_1VectorFunctionScriptForm.html" title="IG.Forms.VectorFunctionScriptForm" alt="" coords="543,3335,775,3362"/>
+<area shape="rect" id="node36" href="$d8/def/classIG_1_1Forms_1_1WindowPositionerForm.html" title="Windows form for testing window positioning./summary&gt; $A Igor xx Oct09; " alt="" coords="552,71,767,98"/>
+<area shape="rect" id="node37" href="$dd/d58/classIG_1_1Forms_1_1XmlTreeViewForm.html" title="IG.Forms.XmlTreeViewForm" alt="" coords="567,3386,751,3413"/>
+<area shape="rect" id="node38" href="$d9/d71/classIG_1_1Gr3d_1_1Graph3dManipulatorWindow.html" title="A form for manipulation of 3D graphics." alt="" coords="566,123,753,164"/>
+<area shape="rect" id="node39" href="$d4/d92/classIG_1_1Gr3d_1_1Graph3dManipulatorWindowExtended.html" title="A form for manipulating 3D graphics." alt="" coords="566,5,753,47"/>
+<area shape="rect" id="node40" href="$d3/d52/classIG_1_1Gr3d_1_1VtkForm.html" title="Windows form for presenting VTK graphics. " alt="" coords="599,4063,720,4090"/>
+<area shape="rect" id="node41" href="$dc/dfa/classIG_1_1Gr3d_1_1VtkFormPlain.html" title="Windows form for presenting VTK graphics. " alt="" coords="584,4114,735,4141"/>
+<area shape="rect" id="node42" href="$d0/d59/classIG_1_1Neural_1_1Applications_1_1DemoNeuralOld.html" title="IG.Neural.Applications.Demo\lNeuralOld" alt="" coords="565,3437,754,3479"/>
+<area shape="rect" id="node43" href="$de/d6f/classIG_1_1Neural_1_1Applications_1_1formLoadCSV.html" title="GUI Form for loading the training set." alt="" coords="569,3503,749,3544"/>
+<area shape="rect" id="node44" href="$d6/d4a/classIG_1_1Neural_1_1Applications_1_1NeuralDemo.html" title="IG.Neural.Applications.NeuralDemo" alt="" coords="546,3619,773,3646"/>
+<area shape="rect" id="node45" href="$db/d52/classIG_1_1Neural_1_1Applications_1_1NeuralParametricDemoAboutWindow.html" title="Window that displays information about Demo application for performing parametric studies on ANN mode..." alt="" coords="560,3671,759,3712"/>
+<area shape="rect" id="node46" href="$dc/d4a/classIG_1_1Neural_1_1Applications_1_1NeuralParametricDemoAboutWindowOld.html" title="Window that displays information about Demo application for performing parametric studies on ANN mode..." alt="" coords="550,3736,769,3777"/>
+<area shape="rect" id="node47" href="$d3/d0d/classIG_1_1Neural_1_1Applications_1_1NeuralParametricDemoAboutWindowOld11.html" title="Window that displays information about Demo application for performing parametric studies on ANN mode..." alt="" coords="543,3801,776,3843"/>
+<area shape="rect" id="node48" href="$d9/d22/classIG_1_1Neural_1_1Applications_1_1NeuralPredictionWindow.html" title="Window for making predictions of output values based on ANN model." alt="" coords="563,7415,755,7456"/>
+<area shape="rect" id="node49" href="$d4/d48/classIG_1_1Neural_1_1Applications_1_1TadejFormOld.html" title="GUI Form for training neural networks." alt="" coords="566,3867,753,3908"/>
+<area shape="rect" id="node50" href="$d9/de0/classIG_1_1Neural_1_1Forms_1_1NeuralInputWindow.html" title="Test window for editing input parameters of an approximative model." alt="" coords="566,3932,753,3973"/>
+<area shape="rect" id="node51" href="$d7/d9c/classIG_1_1Neural_1_1Forms_1_1Old_1_1FormNeural2DOld.html" title="IG.Neural.Forms.Old.Form\lNeural2DOld" alt="" coords="572,3997,747,4039"/>
+<area shape="rect" id="node52" href="$df/de8/classIG_1_1Neural_1_1Forms_1_1Old_1_1NeuralParametricDemoOld.html" title="Class for testing Layout designs." alt="" coords="568,188,751,229"/>
+<area shape="rect" id="node53" href="$de/dab/classIG_1_1Neural_1_1Forms_1_1Old_1_1NeuralParametricDemoOldCopy.html" title="Class for testing Layout designs." alt="" coords="568,253,751,295"/>
+<area shape="rect" id="node54" href="$d9/da3/classIG_1_1Neural_1_1NeuralParametricDemoOldAboutWindow.html" title="IG.Neural.NeuralParametric\lDemoOldAboutWindow" alt="" coords="569,319,749,360"/>
+<area shape="rect" id="node55" href="$da/deb/classIG_1_1Plot2d_1_1GraphWindowTemplate.html" title="Template for stand&#45;alone graph windows." alt="" coords="552,385,767,411"/>
+<area shape="rect" id="node57" href="$d0/dbe/classIG_1_1Sendigence_1_1SendigenceMain.html" title="IG.Sendigence.SendigenceMain" alt="" coords="556,435,763,462"/>
+<area shape="rect" id="node58" href="$d3/d0c/classIG_1_1Web_1_1Forms_1_1WSClientFormsAboutWindow.html" title="Window that displays information about Demo application for performing parametric studies on ANN mode..." alt="" coords="558,487,761,528"/>
+<area shape="rect" id="node59" href="$d7/d58/classIGTest_1_1FindingsRtfTest.html" title="IGTest.FindingsRtfTest" alt="" coords="582,553,737,579"/>
+<area shape="rect" id="node60" href="$d9/d94/classIPLab_1_1AdditiveNoiseForm.html" title="IPLab.AdditiveNoiseForm" alt="" coords="576,603,743,630"/>
+<area shape="rect" id="node61" href="$de/dd5/classIPLab_1_1BayerFilterForm.html" title="IPLab.BayerFilterForm" alt="" coords="583,654,735,681"/>
+<area shape="rect" id="node62" href="$dc/d15/classIPLab_1_1BilateralForm.html" title="IPLab.BilateralForm" alt="" coords="591,705,727,731"/>
+<area shape="rect" id="node63" href="$d3/d8a/classIPLab_1_1BlobsFilteringForm.html" title="IPLab.BlobsFilteringForm" alt="" coords="575,755,743,782"/>
+<area shape="rect" id="node64" href="$d0/d24/classIPLab_1_1HolesFillingForm.html" title="IPLab.HolesFillingForm" alt="" coords="581,806,737,833"/>
+<area shape="rect" id="node65" href="$d4/dd8/classIPLab_1_1MoravecCornersDetectorForm.html" title="IPLab.MoravecCornersDetectorForm" alt="" coords="544,857,775,883"/>
+<area shape="rect" id="node66" href="$da/dbf/classIPLab_1_1MoveTowardsFilterForm.html" title="IPLab.MoveTowardsFilterForm" alt="" coords="561,907,757,934"/>
+<area shape="rect" id="node67" href="$dd/d43/classIPLab_1_1PolarFilterForm.html" title="IPLab.PolarFilterForm" alt="" coords="585,958,733,985"/>
+<area shape="rect" id="node68" href="$d3/d24/classIPLab_1_1RunLengthSmoothingForm.html" title="IPLab.RunLengthSmoothingForm" alt="" coords="553,1009,766,1035"/>
+<area shape="rect" id="node69" href="$d2/d3f/classIPLab_1_1SaltNoiseForm.html" title="IPLab.SaltNoiseForm" alt="" coords="587,1059,732,1086"/>
+<area shape="rect" id="node70" href="$de/df9/classIPLab_1_1SimplePosterizationForm.html" title="IPLab.SimplePosterizationForm" alt="" coords="557,1110,762,1137"/>
+<area shape="rect" id="node71" href="$d7/d05/classIPLab_1_1SusanCornersDetectorForm.html" title="IPLab.SusanCornersDetectorForm" alt="" coords="549,1161,769,1187"/>
+<area shape="rect" id="node72" href="$d3/d3d/classIPLab_1_1WaterWaveForm.html" title="IPLab.WaterWaveForm" alt="" coords="581,1211,737,1238"/>
+<area shape="rect" id="node73" href="$d2/d66/classItaia_1_1ZedGraphWindow.html" title="Itaia.ZedGraphWindow" alt="" coords="583,1262,735,1289"/>
+<area shape="rect" id="node74" href="$dd/d76/classPipeClient_1_1Form1.html" title="PipeClient.Form1" alt="" coords="598,1313,721,1339"/>
+<area shape="rect" id="node75" href="$de/d9c/classPipeServer_1_1Form1.html" title="PipeServer.Form1" alt="" coords="597,1363,722,1390"/>
+<area shape="rect" id="node76" href="$dc/de3/classTestGui_1_1BrowseWS.html" title="TestGui.BrowseWS" alt="" coords="591,1414,727,1441"/>
+<area shape="rect" id="node77" href="$de/d67/classTestGui_1_1Form1.html" title="TestGui.Form1" alt="" coords="605,1465,713,1491"/>
+<area shape="rect" id="node78" href="$d6/d12/classTestGui_1_1Form2.html" title="TestGui.Form2" alt="" coords="605,1515,713,1542"/>
+<area shape="rect" id="node79" href="$d8/de3/classTestWS__GUI_1_1Form1.html" title="TestWS_GUI.Form1" alt="" coords="590,1566,729,1593"/>
+<area shape="rect" id="node80" href="$d6/d61/classXMLEncryption_1_1Form1.html" title="XMLEncryption.Form1" alt="" coords="584,1617,735,1643"/>
+<area shape="rect" id="node56" href="$d7/ddb/classIG_1_1Plot2d_1_1GraphWindowNPlot.html" title="Stand&#45;alone graph window using NPlot as plotting engine. For layout, GraphWindowTemplate class is inh..." alt="" coords="836,385,1029,411"/>
+<area shape="rect" id="node82" href="$d7/dd4/classCSharpScripter_1_1FormMain.html" title="Zusammenfassung für Form1. " alt="" coords="573,6537,745,6563"/>
+<area shape="rect" id="node83" href="$da/d8b/classIG_1_1Configer_1_1configerwinmain.html" title="IG.Configer.configerwinmain" alt="" coords="568,6587,751,6614"/>
+<area shape="rect" id="node84" href="$dd/dd9/classIG_1_1Crypt_1_1EncryptionForm.html" title="IG.Crypt.EncryptionForm" alt="" coords="576,6638,743,6665"/>
+<area shape="rect" id="node85" href="$d8/d0a/classIG_1_1Forms_1_1ClientForm.html" title="IG.Forms.ClientForm" alt="" coords="588,6689,731,6715"/>
+<area shape="rect" id="node86" href="$d8/d91/classIG_1_1Forms_1_1ConsoleForm.html" title="Console replacement." alt="" coords="581,6739,738,6766"/>
+<area shape="rect" id="node87" href="$d1/d96/classIG_1_1Forms_1_1FadingMessage.html" title="Manages a fading message window. Windows containing a message are launched in separate threads..." alt="" coords="573,6993,745,7019"/>
+<area shape="rect" id="node88" href="$d6/d8a/classIG_1_1Forms_1_1FadingMessageOld.html" title="Manages a fading message window. Windows containing a message are launched in separate threads..." alt="" coords="563,6790,755,6817"/>
+<area shape="rect" id="node89" href="$df/d39/classIG_1_1Forms_1_1GraphWindow.html" title="IG.Forms.GraphWindow" alt="" coords="579,6841,740,6867"/>
+<area shape="rect" id="node90" href="$df/db8/classIG_1_1Forms_1_1ReporterConf.html" title="Reporter configuration." alt="" coords="582,6891,737,6918"/>
+<area shape="rect" id="node92" href="$d0/d66/classIG_1_1Forms_1_1ReporterConfigurationForm.html" title="Reporter configuration." alt="" coords="542,6942,777,6969"/>
+<area shape="rect" id="node93" href="$d8/de9/classIG_1_1Forms_1_1ServerForm.html" title="IG.Forms.ServerForm" alt="" coords="586,7043,733,7070"/>
+<area shape="rect" id="node94" href="$d2/d4a/classIG_1_1Forms_1_1Test_1_1ColorConverterForm.html" title="IG.Forms.Test.ColorConverterForm" alt="" coords="548,7094,771,7121"/>
+<area shape="rect" id="node95" href="$d7/d7e/classIG_1_1Forms_1_1Test_1_1MessageBoxBuilder.html" title="IG.Forms.Test.MessageBox\lBuilder" alt="" coords="567,7145,752,7187"/>
+<area shape="rect" id="node96" href="$d4/d06/classIG_1_1Forms_1_1XMLTestPath.html" title="IG.Forms.XMLTestPath" alt="" coords="581,7211,738,7238"/>
+<area shape="rect" id="node97" href="$d4/dee/classIG_1_1Forms_1_1XMLTestPathForm.html" title="IG.Forms.XMLTestPathForm" alt="" coords="566,7262,753,7289"/>
+<area shape="rect" id="node98" href="$d5/d34/classIG_1_1Forms_1_1XMLTreeView.html" title="Summary description for XMLTreeView. " alt="" coords="580,7313,739,7339"/>
+<area shape="rect" id="node99" href="$d8/d23/classIG_1_1Forms_1_1XMLTreeViewFormOld__Keep__Some__time.html" title="Summary description for XMLTreeView. " alt="" coords="565,4165,753,4207"/>
+<area shape="rect" id="node100" href="$d0/d64/classIG_1_1Gr_1_1ZedGraphWindow.html" title="Window form containing a Zedgraph control for plotting graphs." alt="" coords="580,4231,739,4258"/>
+<area shape="rect" id="node101" href="$d8/d5e/classIG_1_1Lib_1_1FormMathematicaCalculatorOld.html" title="Summary description for Form1. " alt="" coords="538,4282,781,4309"/>
+<area shape="rect" id="node102" href="$df/df0/classIG_1_1Neural_1_1Applications_1_1AnnAppDemo.html" title="Form for parametric tests and other viewing operations performed on ANN models." alt="" coords="570,7532,749,7573"/>
+<area shape="rect" id="node104" href="$df/d79/classIG_1_1Neural_1_1Applications_1_1NeuralApp1D.html" title="IG.Neural.Applications.Neural\lApp1D" alt="" coords="563,4333,755,4375"/>
+<area shape="rect" id="node105" href="$d9/d2c/classIG_1_1Neural_1_1Applications_1_1NeuralApp2D.html" title="IG.Neural.Applications.Neural\lApp2D" alt="" coords="563,4399,755,4440"/>
+<area shape="rect" id="node106" href="$d7/d14/classIG_1_1Neural_1_1Forms_1_1Old_1_1FormNeural1DOld.html" title="IG.Neural.Forms.Old.Form\lNeural1DOld" alt="" coords="572,4464,747,4505"/>
+<area shape="rect" id="node107" href="$d8/dc0/classIG_1_1Neural_1_1Forms_1_1Old_1_1NeuralParametricDemoTestOld.html" title="Class for testing Layout designs." alt="" coords="568,4529,751,4571"/>
+<area shape="rect" id="node108" href="$db/dbc/classIG_1_1Plot2d_1_1NPlot__Demo.html" title="The main demo window. This is developed in such a way that IGLib&#39;s derived classes are gradually used..." alt="" coords="583,4595,736,4622"/>
+<area shape="rect" id="node109" href="$d8/dfe/classIG_1_1Sendigence_1_1ConsoleForm.html" title="Summary description for ConsoleForm. " alt="" coords="565,4646,753,4673"/>
+<area shape="rect" id="node110" href="$da/d35/classIG_1_1Test_1_1Program__IGTestQuick_1_1Form1.html" title="TEST Class: This class demonstrates how async / await patterns can be used on custom Forms..." alt="" coords="559,4697,759,4739"/>
+<area shape="rect" id="node111" href="$d3/dc6/classIG_1_1Web_1_1Forms_1_1WSClientsForm.html" title="Form for parametric tests and other viewing operations performed on ANN models." alt="" coords="558,4763,761,4790"/>
+<area shape="rect" id="node112" href="$de/d27/classIPLab_1_1AboutForm.html" title="Summary description for AboutForm. " alt="" coords="598,4814,721,4841"/>
+<area shape="rect" id="node113" href="$d6/d89/classIPLab_1_1AboutFormExtensions.html" title="Summary description for AboutForm. " alt="" coords="565,4865,753,4891"/>
+<area shape="rect" id="node114" href="$dd/d66/classIPLab_1_1AdaptiveSmoothForm.html" title="Summary description for AdaptiveSmoothForm. " alt="" coords="568,4915,751,4942"/>
+<area shape="rect" id="node115" href="$d9/d18/classIPLab_1_1BrightnessForm.html" title="Summary description for BrightnessForm. " alt="" coords="584,4966,735,4993"/>
+<area shape="rect" id="node116" href="$d1/dd8/classIPLab_1_1CannyDetectorForm.html" title="Summary description for CannyDetectorForm. " alt="" coords="572,5017,747,5043"/>
+<area shape="rect" id="node117" href="$dc/d35/classIPLab_1_1ChannelFilteringForm.html" title="Summary description for ChannelFilteringForm. " alt="" coords="568,5067,751,5094"/>
+<area shape="rect" id="node118" href="$d9/df7/classIPLab_1_1ColorFilteringForm.html" title="Summary description for ColorFilteringForm. " alt="" coords="577,5118,742,5145"/>
+<area shape="rect" id="node119" href="$d5/d27/classIPLab_1_1ContrastForm.html" title="Summary description for ContrastForm. " alt="" coords="590,5169,729,5195"/>
+<area shape="rect" id="node120" href="$d4/d69/classIPLab_1_1ConvolutionForm.html" title="Summary description for ConvolutionForm. " alt="" coords="582,5219,737,5246"/>
+<area shape="rect" id="node121" href="$d0/d8b/classIPLab_1_1EuclideanColorFilteringForm.html" title="Summary description for EuclideanColorFilteringForm. " alt="" coords="548,5270,771,5297"/>
+<area shape="rect" id="node122" href="$d2/df3/classIPLab_1_1FrequencyFilterForm.html" title="Summary description for FrequencyFilter. " alt="" coords="570,5321,749,5347"/>
+<area shape="rect" id="node123" href="$d7/d58/classIPLab_1_1GammaForm.html" title="Summary description for GammaForm. " alt="" coords="592,5371,727,5398"/>
+<area shape="rect" id="node124" href="$da/d0f/classIPLab_1_1GaussianForm.html" title="Summary description for GaussianForm. " alt="" coords="587,5422,731,5449"/>
+<area shape="rect" id="node125" href="$d6/d0a/classIPLab_1_1HSLFilteringForm.html" title="Summary description for HSLFilteringForm. " alt="" coords="579,5473,739,5499"/>
+<area shape="rect" id="node126" href="$dc/d92/classIPLab_1_1HSLLinearForm.html" title="Summary description for HSLLinearForm. " alt="" coords="585,5523,734,5550"/>
+<area shape="rect" id="node127" href="$d1/de2/classIPLab_1_1HueModifierForm.html" title="Summary description for HueModifierForm. " alt="" coords="581,5574,738,5601"/>
+<area shape="rect" id="node128" href="$d6/de3/classIPLab_1_1LevelsLinearForm.html" title="Summary description for LevelsLinearForm. " alt="" coords="579,5625,739,5651"/>
+<area shape="rect" id="node129" href="$da/d0b/classIPLab_1_1MainForm.html" title="Summary description for Form1. " alt="" coords="601,7363,718,7390"/>
+<area shape="rect" id="node130" href="$d1/d5e/classIPLab_1_1MathMorphologyForm.html" title="Summary description for MathMorphologyForm. " alt="" coords="567,5675,752,5702"/>
+<area shape="rect" id="node131" href="$da/de5/classIPLab_1_1MorphForm.html" title="Summary description for MorphPhorm. " alt="" coords="597,5726,722,5753"/>
+<area shape="rect" id="node132" href="$dd/d4b/classIPLab_1_1OilPaintingForm.html" title="Summary description for OilPaintingForm. " alt="" coords="583,5777,735,5803"/>
+<area shape="rect" id="node133" href="$d1/da5/classIPLab_1_1PerlinNoiseForm.html" title="Summary description for PerlinNoiseForm. " alt="" coords="582,5827,737,5854"/>
+<area shape="rect" id="node134" href="$d5/dec/classIPLab_1_1PixelateForm.html" title="Summary description for PixelateForm. " alt="" coords="591,5878,727,5905"/>
+<area shape="rect" id="node135" href="$d6/d2e/classIPLab_1_1ResizeForm.html" title="Summary description for ResizeForm. " alt="" coords="595,5929,724,5955"/>
+<area shape="rect" id="node136" href="$d5/dcf/classIPLab_1_1RotateForm.html" title="Summary description for RotateForm. " alt="" coords="596,5979,723,6006"/>
+<area shape="rect" id="node137" href="$db/ddb/classIPLab_1_1SaturationForm.html" title="Summary description for SaturationForm. " alt="" coords="585,6030,733,6057"/>
+<area shape="rect" id="node138" href="$df/d47/classIPLab_1_1SelectImageForm.html" title="Summary description for SelectImageForm. " alt="" coords="579,6081,740,6107"/>
+<area shape="rect" id="node139" href="$d2/dd1/classIPLab_1_1SharpenExForm.html" title="Summary description for SharpenExForm. " alt="" coords="583,6131,736,6158"/>
+<area shape="rect" id="node140" href="$dc/d88/classIPLab_1_1ShrinkForm.html" title="Summary description for ShrinkForm. " alt="" coords="596,6182,723,6209"/>
+<area shape="rect" id="node141" href="$dc/d0d/classIPLab_1_1ThresholdForm.html" title="Summary description for ThresholdForm. " alt="" coords="587,6233,732,6259"/>
+<area shape="rect" id="node142" href="$de/df3/classIPLab_1_1YCbCrFilteringForm.html" title="Summary description for YCbCrFilteringForm. " alt="" coords="573,6283,746,6310"/>
+<area shape="rect" id="node143" href="$d5/d86/classIPLab_1_1YCbCrLinearForm.html" title="Summary description for YCbCrLinearForm. " alt="" coords="578,6334,741,6361"/>
+<area shape="rect" id="node144" href="$d7/d37/classJavaScience_1_1PswdDialog.html" title="JavaScience.PswdDialog" alt="" coords="576,6385,743,6411"/>
+<area shape="rect" id="node145" href="$de/dca/classMathKernelApp_1_1Form1.html" title="Summary description for Form1. " alt="" coords="583,6435,735,6462"/>
+<area shape="rect" id="node146" href="$d8/daa/classXMLTree_1_1Form1.html" title="Summary description for Form1. " alt="" coords="603,6486,716,6513"/>
+<area shape="rect" id="node91" href="$d5/d8d/classIG_1_1Lib_1_1ReporterConfSpeech.html" title="This class is extension of ReporterConf that enables reporting via speech." alt="" coords="843,6891,1022,6918"/>
+<area shape="rect" id="node103" href="$d0/d52/classIG_1_1Neural_1_1Applications_1_1AnnAppDemoExperimental.html" title="Experimental class for neural parametric demos." alt="" coords="843,7532,1022,7573"/>
+<area shape="rect" id="node147" href="$d5/def/interfaceIG_1_1Gr3d_1_1I3dGraphicsControl.html" title="Interface for 3D graphics controls that can be manipulated via a standard set of commands for rotatio..." alt="" coords="267,7649,448,7675"/>
+<area shape="rect" id="node148" href="$d1/db7/classIG_1_1Gr3d_1_1VtkControlBase.html" title="Basic control encapsulating the VTK&#39;s render control of type Kitware.VTK.RenderWindowControl." alt="" coords="578,7649,741,7675"/>
+<area shape="rect" id="node149" href="$d3/d68/interfaceIG_1_1Forms_1_1IClosableFromContainedForm.html" title="Marker interface indicating that a form can be closed from the contained control." alt="" coords="232,2022,483,2049"/>
+<area shape="rect" id="node151" href="$dd/dc6/classCShell_1_1Modules_1_1Editors_1_1Views_1_1EditorView.html" title="Interaction logic for EditorView.xaml " alt="" coords="559,12825,760,12867"/>
+<area shape="rect" id="node152" href="$df/dc8/classCShell_1_1Modules_1_1Help_1_1Views_1_1AboutView.html" title="Interaction logic for AboutView.xaml " alt="" coords="566,12303,753,12344"/>
+<area shape="rect" id="node153" href="$d3/d82/classCShell_1_1Modules_1_1Repl_1_1Controls_1_1CSRepl.html" title="Interaction logic for CommandLineControl.xaml " alt="" coords="560,11968,759,12009"/>
+<area shape="rect" id="node154" href="$df/d34/classCShell_1_1Modules_1_1Repl_1_1Views_1_1OutputView.html" title="Interaction logic for OutputView.xaml " alt="" coords="566,11785,753,11827"/>
+<area shape="rect" id="node155" href="$da/ddd/classCShell_1_1Modules_1_1Repl_1_1Views_1_1ReplView.html" title="Interaction logic for ReplView.xaml " alt="" coords="566,12891,753,12932"/>
+<area shape="rect" id="node156" href="$d8/d55/classCShell_1_1Modules_1_1Shell_1_1Views_1_1ShellView.html" title="Interaction logic for ShellView.xaml " alt="" coords="565,13087,754,13128"/>
+<area shape="rect" id="node157" href="$db/de7/classCShell_1_1Modules_1_1Sink_1_1Views_1_1ControlSinkView.html" title="Interaction logic for ControlSinkViewModel.xaml " alt="" coords="566,12368,753,12409"/>
+<area shape="rect" id="node158" href="$da/de8/classCShell_1_1Modules_1_1Sink_1_1Views_1_1ControlWpfViewModel.html" title="Interaction logic for ControlWpfViewModel.xaml " alt="" coords="566,12433,753,12475"/>
+<area shape="rect" id="node159" href="$da/dbf/classCShell_1_1Modules_1_1Sink_1_1Views_1_1GridSinkView.html" title="Interaction logic for DataView.xaml " alt="" coords="566,12499,753,12540"/>
+<area shape="rect" id="node160" href="$d7/d74/classCShell_1_1Modules_1_1Sink_1_1Views_1_1PlotSinkView.html" title="Interaction logic for PlotSinkView.xaml " alt="" coords="566,12564,753,12605"/>
+<area shape="rect" id="node161" href="$d9/d9e/classCShell_1_1Modules_1_1Sink_1_1Views_1_1XhtmlSinkView.html" title="Interaction logic for XhtmlSinkView.xaml " alt="" coords="566,12629,753,12671"/>
+<area shape="rect" id="node162" href="$de/df2/classCShell_1_1Modules_1_1Workspace_1_1Controls_1_1EditableTextBlock.html" title="EditableTextBlock " alt="" coords="566,13021,753,13063"/>
+<area shape="rect" id="node163" href="$d5/d25/classCShell_1_1Modules_1_1Workspace_1_1Views_1_1AssemblyGacView.html" title="Interaction logic for AssemblyGacView.xaml " alt="" coords="566,12695,753,12736"/>
+<area shape="rect" id="node164" href="$d7/d44/classCShell_1_1Modules_1_1Workspace_1_1Views_1_1RootFolderSettingsView.html" title="Interaction logic for RootFolderSettingsView.xaml " alt="" coords="559,12760,759,12801"/>
+<area shape="rect" id="node165" href="$d2/d6f/classCShell_1_1Modules_1_1Workspace_1_1Views_1_1WorkspaceView.html" title="Interaction logic for WorkspaceView.xaml " alt="" coords="566,12956,753,12997"/>
+<area shape="rect" id="node166" href="$d8/d1f/interfaceIPLab_1_1IDocumentsHost.html" title="IDocumentsHost interface Provides connectione between documents and the main widnow ..." alt="" coords="280,7363,435,7390"/>
+<area shape="rect" id="node167" href="$d6/d7a/interfaceIG_1_1Forms_1_1IFileViewer.html" title="IG.Forms.IFileViewer" alt="" coords="286,8286,429,8313"/>
+<area shape="rect" id="node168" href="$d8/d8b/classIG_1_1Forms_1_1FileViewerControl.html" title="IG.Forms.FileViewerControl" alt="" coords="569,8311,750,8338"/>
+<area shape="rect" id="node169" href="$d1/d6d/classIG_1_1Forms_1_1ImageViewerControl.html" title="IG.Forms.ImageViewerControl" alt="" coords="562,8261,757,8287"/>
+<area shape="rect" id="node171" href="$d8/dc1/classIG_1_1Forms_1_1TestControl.html" title="Test control." alt="" coords="586,7481,733,7507"/>
+<area shape="rect" id="node173" href="$d2/de2/classIG_1_1Forms_1_1BrowserSimpleControl.html" title="IG.Forms.BrowserSimpleControl" alt="" coords="555,7699,763,7726"/>
+<area shape="rect" id="node174" href="$dd/d82/interfaceIG_1_1Neural_1_1INeuralApproximatorContainer.html" title="Classes that contain neural approximator." alt="" coords="259,8380,456,8421"/>
+<area shape="rect" id="node175" href="$d8/dc3/classIG_1_1Neural_1_1Forms_1_1NeuralControl2D.html" title="A 2D neural network approximation demo control." alt="" coords="552,8413,767,8439"/>
+<area shape="rect" id="node176" href="$d0/d10/classIG_1_1Neural_1_1Forms_1_1NeuralDemo1D.html" title="A 1D neural network approximation demo control." alt="" coords="555,8362,763,8389"/>
+<area shape="rect" id="node178" href="$d8/daf/classIG_1_1Neural_1_1Forms_1_1NeuralInputControl.html" title="Control for editing input parameter values." alt="" coords="566,7751,753,7792"/>
+<area shape="rect" id="node179" href="$da/d74/classIG_1_1Neural_1_1Forms_1_1NeuralSamplingInputControl.html" title="Control for editing input parameter data necessary for sampling scalar functions." alt="" coords="553,7816,765,7857"/>
+<area shape="rect" id="node180" href="$d1/d98/interfaceIG_1_1Neural_1_1INeuralModelContainer.html" title="Interface for classes that contain the NeuralModel property that implements the INeuralModel interfac..." alt="" coords="252,7954,463,7981"/>
+<area shape="rect" id="node181" href="$df/dcb/classIG_1_1Neural_1_1Forms_1_1NeuralAboutControlToDelete.html" title="Control for making predictions of output values based on ANN model." alt="" coords="563,7881,755,7923"/>
+<area shape="rect" id="node182" href="$d0/d8e/classIG_1_1Neural_1_1Forms_1_1NeuralDataControl.html" title="Control for manipulating neural approximation data (import/export)." alt="" coords="567,7947,752,7988"/>
+<area shape="rect" id="node183" href="$dc/d6f/classIG_1_1Neural_1_1Forms_1_1NeuralParametricTest.html" title="Form for training artificial neural networks." alt="" coords="536,8013,783,8039"/>
+<area shape="rect" id="node184" href="$de/d18/classIG_1_1Neural_1_1Forms_1_1NeuralParametricTest2d.html" title="Form for simple parametric tests (variation of selected parameter) performed on ANN models..." alt="" coords="549,8064,770,8105"/>
+<area shape="rect" id="node185" href="$da/d2f/classIG_1_1Neural_1_1Forms_1_1NeuralPredictionControl.html" title="Control for making predictions of output values based on ANN model." alt="" coords="551,8129,767,8171"/>
+<area shape="rect" id="node186" href="$d0/d66/classIG_1_1Neural_1_1Forms_1_1NeuralSamplingControl.html" title="Control for defininng scalar functions and sampling them in order to create neural approximation data..." alt="" coords="553,9721,765,9763"/>
+<area shape="rect" id="node187" href="$d1/d29/classIG_1_1Neural_1_1Forms_1_1NeuralTrainingControl.html" title="A 2D neural network approximation demo control." alt="" coords="558,8195,761,8236"/>
+<area shape="rect" id="node188" href="$d9/d3e/interfaceCShell_1_1Modules_1_1Repl_1_1Views_1_1IOutputView.html" title="CShell.Modules.Repl.Views.\lIOutputView" alt="" coords="264,11785,451,11827"/>
+<area shape="rect" id="node190" href="$dc/d1a/interfaceCShell_1_1Modules_1_1Repl_1_1Views_1_1IReplView.html" title="CShell.Modules.Repl.Views.\lIReplView" alt="" coords="264,12891,451,12932"/>
+<area shape="rect" id="node191" href="$d7/d07/interfaceCShell_1_1Modules_1_1Shell_1_1Views_1_1IShellView.html" title="CShell.Modules.Shell.Views.\lIShellView" alt="" coords="263,13057,452,13099"/>
+<area shape="rect" id="node193" href="$d2/d39/interfaceIG_1_1Gr3d_1_1IVtkFormContainerGen_3_01VtkControlType_01_4.html" title="This interface is implemented by the forms that contain the VTK control that can render VTK graphics..." alt="" coords="5,7499,184,7540"/>
+<area shape="rect" id="node194" href="$dc/d11/interfaceIG_1_1Gr3d_1_1IVtkFormContainer.html" title="This interface is implemented by the forms that contain the VTK control that can render VTK graphics..." alt="" coords="268,7506,447,7533"/>
+<area shape="rect" id="node195" href="$dc/dd2/classIG_1_1Gr3d_1_1VtkControlWin.html" title="Control for presenting VTK graphics, intended for use in stand&#45;alone windows." alt="" coords="582,7598,737,7625"/>
+<area shape="rect" id="node197" href="$d2/d08/classIG_1_1Forms_1_1AlignmentControl.html" title="Control for setting horizontal and vertical alignment of items." alt="" coords="570,10231,749,10258"/>
+<area shape="rect" id="node198" href="$d0/dc2/classIG_1_1Forms_1_1AlignmentControlOld.html" title="Control for adjusting alignment. " alt="" coords="560,10282,759,10309"/>
+<area shape="rect" id="node199" href="$dc/d45/classIG_1_1Forms_1_1AssemblyInfoControl.html" title="IG.Forms.AssemblyInfoControl" alt="" coords="560,10333,759,10359"/>
+<area shape="rect" id="node200" href="$d0/d46/classIG_1_1Forms_1_1AssemblySelector.html" title="IG.Forms.AssemblySelector" alt="" coords="566,10383,753,10410"/>
+<area shape="rect" id="node201" href="$d6/d52/classIG_1_1Forms_1_1ControlViewerControl.html" title="IG.Forms.ControlViewerControl" alt="" coords="559,10434,760,10461"/>
+<area shape="rect" id="node202" href="$d5/db4/classIG_1_1Forms_1_1CookingTimerControl.html" title="IG.Forms.CookingTimerControl" alt="" coords="559,10485,759,10511"/>
+<area shape="rect" id="node203" href="$d2/d28/classIG_1_1Forms_1_1DialogControl.html" title="Highly configurable interactive message box with custom buttons, message, and possibly editable text..." alt="" coords="581,10535,738,10562"/>
+<area shape="rect" id="node204" href="$d3/db8/classIG_1_1Forms_1_1DialogFormDemoControl.html" title="IG.Forms.DialogFormDemoControl" alt="" coords="549,10586,770,10613"/>
+<area shape="rect" id="node205" href="$d7/daf/classIG_1_1Forms_1_1DirectorySelector.html" title="IG.Forms.DirectorySelector" alt="" coords="569,10637,749,10663"/>
+<area shape="rect" id="node206" href="$d4/d12/classIG_1_1Forms_1_1DllSelector.html" title="IG.Forms.DllSelector" alt="" coords="588,10687,731,10714"/>
+<area shape="rect" id="node207" href="$d6/d0b/classIG_1_1Forms_1_1FileSelector.html" title="IG.Forms.FileSelector" alt="" coords="585,10738,734,10765"/>
+<area shape="rect" id="node208" href="$d1/d43/classIG_1_1Forms_1_1FontSelectorSimple.html" title="Simple control that allows font selection." alt="" coords="562,10789,757,10815"/>
+<area shape="rect" id="node209" href="$d7/d96/classIG_1_1Forms_1_1HashControl.html" title="IG.Forms.HashControl" alt="" coords="584,10839,735,10866"/>
+<area shape="rect" id="node210" href="$de/d72/classIG_1_1Forms_1_1IndicatorLight.html" title="IG.Forms.IndicatorLight" alt="" coords="581,10890,738,10917"/>
+<area shape="rect" id="node211" href="$d6/db0/classIG_1_1Forms_1_1IndicatorLightTestControl.html" title="IG.Forms.IndicatorLightTest\lControl" alt="" coords="568,10941,751,10983"/>
+<area shape="rect" id="node212" href="$d7/da9/classIG_1_1Forms_1_1InpuOrOutputtDataDefinitionControl.html" title="Control for editing input or output data definitions (only one of these two at a time). " alt="" coords="565,11007,753,11048"/>
+<area shape="rect" id="node213" href="$d5/dfb/classIG_1_1Forms_1_1InputDataDefinitionControl.html" title="Control for editing input or output data definitions (only one of these two at a time)." alt="" coords="565,11072,753,11113"/>
+<area shape="rect" id="node214" href="$d8/deb/classIG_1_1Forms_1_1InputOutputDataDefinitionControl.html" title="IG.Forms.InputOutputData\lDefinitionControl" alt="" coords="572,11137,747,11179"/>
+<area shape="rect" id="node215" href="$dc/de6/classIG_1_1Forms_1_1InputParametersControl.html" title="Control for editing input parameter values." alt="" coords="572,11203,747,11244"/>
+<area shape="rect" id="node216" href="$d0/d97/classIG_1_1Forms_1_1InputParameterSelectorMinMax.html" title="Selection of parameter to be varied, together with bounds &#45; for parametric tests." alt="" coords="551,11268,767,11309"/>
+<area shape="rect" id="node217" href="$d6/df3/classIG_1_1Forms_1_1MathematicaCalculatorControl.html" title="IG.Forms.MathematicaCalculator\lControl" alt="" coords="553,11333,766,11375"/>
+<area shape="rect" id="node218" href="$d7/dc9/classIG_1_1Forms_1_1NeuralInputControl.html" title="Control for editing input parameter values." alt="" coords="566,11399,753,11426"/>
+<area shape="rect" id="node219" href="$da/d01/classIG_1_1Forms_1_1NeuralInputParameterSelectorMinMax.html" title="Selection of parameter to be varied, together with bounds &#45; for parametric tests." alt="" coords="557,11451,762,11492"/>
+<area shape="rect" id="node220" href="$d5/df1/classIG_1_1Forms_1_1NeuralOutputValueSelector.html" title="Selection of the output value of interest in an ANN model." alt="" coords="565,11516,754,11557"/>
+<area shape="rect" id="node221" href="$dc/de7/classIG_1_1Forms_1_1OutputValueSelector.html" title="Selection of the output value of interest in an ANN model." alt="" coords="559,11582,759,11609"/>
+<area shape="rect" id="node222" href="$d3/dc3/classIG_1_1Forms_1_1ResourceSelector.html" title="IG.Forms.ResourceSelector" alt="" coords="568,11633,751,11659"/>
+<area shape="rect" id="node223" href="$dc/db5/classIG_1_1Forms_1_1ResourceViewerControl.html" title="IG.Forms.ResourceViewerControl" alt="" coords="552,11683,767,11710"/>
+<area shape="rect" id="node224" href="$d1/d79/classIG_1_1Forms_1_1ScalarFunctionEvaluatorControl.html" title="Control for test evaluation of scalar functions. " alt="" coords="549,8464,769,8505"/>
+<area shape="rect" id="node225" href="$de/de4/classIG_1_1Forms_1_1ScalarFunctionScriptControl.html" title="Control for definition of scalar functions by user defined expressions (through a script loader)..." alt="" coords="559,8529,760,8571"/>
+<area shape="rect" id="node226" href="$dc/d40/classIG_1_1Forms_1_1SoundPlayerControlSimple.html" title="IG.Forms.SoundPlayerControl\lSimple" alt="" coords="562,8595,757,8636"/>
+<area shape="rect" id="node227" href="$d1/db8/classIG_1_1Forms_1_1TestLayoutControl.html" title="IG.Forms.TestLayoutControl" alt="" coords="567,8661,752,8687"/>
+<area shape="rect" id="node228" href="$db/d1b/classIG_1_1Forms_1_1TestTestControl.html" title="IG.Forms.TestTestControl" alt="" coords="574,8711,745,8738"/>
+<area shape="rect" id="node229" href="$d0/d5b/classIG_1_1Forms_1_1TimerControl.html" title="IG.Forms.TimerControl" alt="" coords="583,8762,736,8789"/>
+<area shape="rect" id="node230" href="$d3/da0/classIG_1_1Forms_1_1TimerControlWorking.html" title="IG.Forms.TimerControlWorking" alt="" coords="559,8813,760,8839"/>
+<area shape="rect" id="node231" href="$dc/dfc/classIG_1_1Forms_1_1VectorFunctionPlotter1d.html" title="Form for training artificial neural networks." alt="" coords="549,8863,769,8890"/>
+<area shape="rect" id="node232" href="$d4/d68/classIG_1_1Forms_1_1VectorFunctionPlotter2d.html" title="Form for simple parametric tests (variation of selected parameter) performed on ANN models..." alt="" coords="549,8914,769,8941"/>
+<area shape="rect" id="node233" href="$dc/d28/classIG_1_1Forms_1_1VectorFunctionScriptControl.html" title="IG.Forms.VectorFunctionScript\lControl" alt="" coords="558,8965,761,9007"/>
+<area shape="rect" id="node234" href="$d0/de6/classIG_1_1Forms_1_1WindowPositionerControl.html" title="Control for testing window positioning." alt="" coords="567,9031,751,9072"/>
+<area shape="rect" id="node235" href="$d9/d9c/classIG_1_1Forms_1_1WindowShiftControlNumeric.html" title="Control for setting window positions, relative positions, sizes, positions, shifts, etc." alt="" coords="563,9096,756,9137"/>
+<area shape="rect" id="node236" href="$d8/dfa/classIG_1_1Forms_1_1WindowShiftControlText.html" title="Control for setting window positions, relative positions, sizes, positions, shifts, etc." alt="" coords="550,9162,769,9189"/>
+<area shape="rect" id="node237" href="$d8/d45/classIG_1_1Gr3d_1_1Graph3dManipulator.html" title="Basic control for manipulating 3D graphics." alt="" coords="566,9213,753,9239"/>
+<area shape="rect" id="node238" href="$d5/daf/classIG_1_1Gr3d_1_1Graph3dManipulatorBasic.html" title="Basic manipulation of VTK&#45;based 3D hraphs." alt="" coords="566,9264,753,9305"/>
+<area shape="rect" id="node239" href="$d0/d54/classIG_1_1Gr3d_1_1Graph3dManipulatorExtended.html" title="Extended control for manipulation of 3D VTK graphics. Contains the standard control plus additional b..." alt="" coords="566,9329,753,9371"/>
+<area shape="rect" id="node240" href="$dc/d53/classIG_1_1Neural_1_1Applications_1_1AbautAnnapControl.html" title="IG.Neural.Applications.Abaut\lAnnapControl" alt="" coords="565,9395,754,9436"/>
+<area shape="rect" id="node241" href="$d1/d36/classIG_1_1Neural_1_1Applications_1_1NeuralDemoAbout.html" title="IG.Neural.Applications.Neural\lDemoAbout" alt="" coords="563,9460,755,9501"/>
+<area shape="rect" id="node242" href="$d4/da0/classIG_1_1Neural_1_1Applications_1_1NeuralParametricDemoAbout.html" title="Form containing information about neural demo software. " alt="" coords="563,9525,755,9567"/>
+<area shape="rect" id="node243" href="$d1/d76/classIG_1_1Neural_1_1Applications_1_1NeuralParametricDemoAboutOld.html" title="Form containing information about neural demo software. " alt="" coords="563,9591,755,9632"/>
+<area shape="rect" id="node244" href="$d0/dce/classIG_1_1Neural_1_1Applications_1_1NeuralParametricDemoAboutOld11.html" title="Form containing information about neural demo software. " alt="" coords="563,9656,755,9697"/>
+<area shape="rect" id="node245" href="$d1/d0d/classIG_1_1Neural_1_1Forms_1_1NeuralInputParameterSelectorMinMax.html" title="Selection of parameter to be varied, together with bounds &#45; for parametric tests." alt="" coords="566,9787,753,9828"/>
+<area shape="rect" id="node246" href="$d9/da9/classIG_1_1Neural_1_1Forms_1_1NeuralOutputControl.html" title="Control for editing output values of an approximative model." alt="" coords="561,9852,758,9893"/>
+<area shape="rect" id="node247" href="$da/db0/classIG_1_1Neural_1_1Forms_1_1NeuralOutputValueSelector.html" title="Selection of the output value of interest in an ANN model." alt="" coords="561,9917,758,9959"/>
+<area shape="rect" id="node248" href="$d9/dde/classIG_1_1Neural_1_1Forms_1_1NeuralParametricTestMultiple.html" title="Form for training artificial neural networks." alt="" coords="549,9983,770,10024"/>
+<area shape="rect" id="node249" href="$d6/d70/classIG_1_1Neural_1_1Forms_1_1NeuralParametricTestSelection.html" title="IG.Neural.Forms.NeuralParametric\lTestSelection" alt="" coords="549,10048,770,10089"/>
+<area shape="rect" id="node250" href="$d9/dc4/classIG_1_1Web_1_1Forms_1_1WSClient1Control.html" title="Control for making predictions of output values based on ANN model." alt="" coords="552,10114,767,10141"/>
+<area shape="rect" id="node251" href="$d6/dc5/classIG_1_1Web_1_1Forms_1_1WSClientFormsAboutForm.html" title="Form containing information about Web service test clients software. " alt="" coords="558,10165,761,10207"/>
+<area shape="rect" id="node253" href="$dd/da5/classIG_1_1Forms_1_1XmlTreeViewControl.html" title="IG.Forms.XmlTreeViewControl" alt="" coords="562,11917,757,11943"/>
+<area shape="rect" id="node254" href="$db/d4e/classIG_1_1Neural_1_1Forms_1_1Old_1_1NeuralParametricTestOld.html" title="Torm for parametric tests. Obsolete! " alt="" coords="568,12033,751,12075"/>
+<area shape="rect" id="node255" href="$d3/da1/classIG_1_1Sendigence_1_1frmAddresses.html" title="IG.Sendigence.frmAddresses" alt="" coords="564,12099,755,12126"/>
+<area shape="rect" id="node256" href="$d5/d35/classIG_1_1Sendigence_1_1frmControl.html" title="IG.Sendigence.frmControl" alt="" coords="574,12150,745,12177"/>
+<area shape="rect" id="node257" href="$d8/d2f/classIG_1_1Sendigence_1_1frmMessage.html" title="IG.Sendigence.frmMessage" alt="" coords="568,12201,751,12227"/>
+<area shape="rect" id="node258" href="$d5/d6f/classIG_1_1Sendigence_1_1frmParameters.html" title="IG.Sendigence.frmParameters" alt="" coords="561,12251,757,12278"/>
+<area shape="rect" id="node259" href="$d9/d6f/classIG_1_1Sendigence_1_1frmSending.html" title="IG.Sendigence.frmSending" alt="" coords="571,11734,747,11761"/>
+<area shape="rect" id="node260" href="$dc/d16/classNUnitLite_1_1Runner_1_1Silverlight_1_1TestPage.html" title="NUnitLite.Runner.Silverlight.\lTestPage" alt="" coords="568,11851,751,11892"/>
+</map>

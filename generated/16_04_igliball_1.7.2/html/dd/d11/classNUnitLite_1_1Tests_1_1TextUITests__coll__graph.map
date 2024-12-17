@@ -1,0 +1,11 @@
+<map id="NUnitLite.Tests.TextUITests" name="NUnitLite.Tests.TextUITests">
+<area shape="rect" id="node2" href="$de/dda/classNUnitLite_1_1TextUI.html" title="NUnitLite.TextUI" alt="" coords="873,99,989,126"/>
+<area shape="rect" id="node3" href="$d0/d56/classNUnit_1_1Common_1_1ExtendedTextWriter.html" title="ExtendedTextWriter extends the TextWriter abstract class to support displaying text in color..." alt="" coords="537,5,732,47"/>
+<area shape="rect" id="node5" href="$d1/d00/classNUnitLite_1_1NUnitLiteOptions.html" title="NUnitLiteOptions encapsulates the option settings for NUnitLite. Currently, there are no additional o..." alt="" coords="546,71,723,98"/>
+<area shape="rect" id="node6" href="$da/d32/classNUnit_1_1Common_1_1CommandLineOptions.html" title="CommandLineOptions is the base class the specific option classes used for nunit3&#45;console and nunitlit..." alt="" coords="314,66,465,93"/>
+<area shape="rect" id="node9" href="$da/d32/classNUnit_1_1Common_1_1CommandLineOptions.html" title="CommandLineOptions is the base class the specific option classes used for nunit3&#45;console and nunitlit..." alt="" coords="291,117,488,159"/>
+<area shape="rect" id="node8" href="$d7/d49/classNUnit_1_1Framework_1_1List.html" title="NUnit.Framework.List\l\&lt; string \&gt;" alt="" coords="5,144,152,185"/>
+<area shape="rect" id="node10" href="$dd/dfe/classNUnit_1_1Framework_1_1Internal_1_1TestResult.html" title="The TestResult class represents the result of a test. " alt="" coords="845,177,1017,219"/>
+<area shape="rect" id="node11" href="$d2/df9/interfaceNUnit_1_1Framework_1_1Interfaces_1_1ITestResult.html" title="The ITestResult interface represents the result of a test. " alt="" coords="591,235,678,262"/>
+<area shape="rect" id="node12" href="$d9/dc0/interfaceNUnit_1_1Framework_1_1Interfaces_1_1IXmlNodeBuilder.html" title="An object implementing IXmlNodeBuilder is able to build an XML representation of itself and any child..." alt="" coords="331,235,447,262"/>
+</map>
